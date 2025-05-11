@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import { signInWithRedirect } from "firebase/auth";
+import { signInWithPopup } from "firebase/auth";
 import { NavLink } from "react-router";
 import { AuthContext } from "../auth";
 
@@ -12,7 +12,7 @@ const Header: React.FC = () => {
 
     }
     else if (!firebase.auth.currentUser) {
-        auth_thing = <button onClick={() => signInWithRedirect(firebase.auth, firebase.provider)}>sign in</button>;
+        auth_thing = <button onClick={() => signInWithPopup(firebase.auth, firebase.provider)}>sign in</button>;
     }
     else {
         auth_thing = <img src={firebase.auth.currentUser!.photoURL!}></img>
