@@ -70,7 +70,7 @@ const UserPage: React.FC = () => {
                 <div className="user_name">{userData.alias}</div>
                 <div className="user_school">{userData.school}</div>
             </div>
-            <TabBar active_tab={tab} set_tab={setTab} tab_names={["Assignments", "Responses", "Materials", "Practice"]}></TabBar>
+            <TabBar active_tab={tab} set_tab={setTab} tab_names={["Assignments", "Responses", "Materials"]}></TabBar>
             {tab_content}
         </div>
     </div>;
