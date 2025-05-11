@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react";
-import { default_response, Lesson, Question, Response } from "../schema";
+import { default_response, Lesson, Response } from "../schema";
 import { PageRender } from "./page_renderer";
 import { deleteDoc, doc, getDoc, setDoc } from "firebase/firestore";
 import { useParams } from "react-router";

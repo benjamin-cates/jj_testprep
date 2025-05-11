@@ -1,11 +1,9 @@
-import React, { useContext } from "react"
+import React from "react"
 import { Assignment, Response } from "../schema"
-import { AuthContext } from "../auth";
 import { NavLink } from "react-router";
 import mmap from "../material_map.json";
 
 const AssignmentListing: React.FC<{ user_id: string, item: Assignment }> = (props: { user_id: string, item: Assignment }) => {
-    const is_admin = useContext(AuthContext)?.is_admin || false;
     let item = props.item;
     let late = new Date(item.due_date) < new Date();
     let usa_date_split = item.due_date.split("-");

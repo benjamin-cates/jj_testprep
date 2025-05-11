@@ -2,7 +2,6 @@ import React, { useContext, useState } from "react";
 import { Assignment, Material, Response } from "../schema";
 import { AuthContext } from "../auth";
 import { doc, writeBatch } from "firebase/firestore";
-import { Header } from "./header";
 import { AssignmentListing, ResponseListing, UnassignedListing } from "./assignment_listing";
 import "../style/assignment_page.css";
 
@@ -16,11 +15,10 @@ interface Props {
 
 const MaterialListing: React.FC<Props> = (props: Props) => {
     const firebase = useContext(AuthContext);
-    const material_id = props.item.name;
     const user_id = props.user_id;
     const material = props.item;
     const [days_of_week, set_days_of_week] = useState([false, false, false, false, false, false, false]);
-    const [basis, set_basis] = useState(new Date());
+    const [basis, _set_basis] = useState(new Date());
     const [queue, set_queue] = useState(() => Array.from({ length: material.lessons.length }, () => false));
     const [open, setOpen] = useState(false);
     const [is_assign, setIsAssign] = useState(false);

@@ -11,11 +11,7 @@ import { TabBar } from "../components/tab_bar";
 import mmap from "../material_map.json";
 import { MaterialListing } from "../components/material_listing";
 
-interface Props {
-
-}
-
-const UserPage: React.FC<Props> = (props: Props) => {
+const UserPage: React.FC = () => {
     const user_id = useParams().user_id as string;
     const firebase = useContext(AuthContext);
     const [userData, setUserData] = useState({} as any);

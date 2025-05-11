@@ -1,14 +1,11 @@
 import React, { useContext, useEffect, useState } from "react";
 import { Header } from "../components/header";
-import { collection, getDocs, query, where } from "firebase/firestore";
+import { collection, getDocs, query } from "firebase/firestore";
 import { NavLink, useNavigate } from "react-router";
 
 import "../style/dashboard.css";
 import { AuthContext } from "../auth";
 
-interface Props {
-
-}
 interface UserProps {
     image: string,
     admin: boolean,
@@ -26,7 +23,7 @@ const UserListing: React.FC<UserProps> = (props: UserProps) => {
     </NavLink>;
 };
 
-const Dashboard: React.FC<Props> = (props: Props) => {
+const Dashboard: React.FC = () => {
     const firebase = useContext(AuthContext);
     let navigate = useNavigate();
     const [users_list, set_users_list] = useState([] as any[]);
