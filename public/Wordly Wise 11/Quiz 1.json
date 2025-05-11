@@ -1,0 +1,209 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 11 Lesson 1 Test",
+  "content": [
+    {
+      "section_header": "Select the SYNONYM for each bold word."
+    },
+    {
+      "number": "1",
+      "question": "Although she is a novice, Rena <b>exudes</b> confidence in her abilities.",
+      "options": ["disguises", "lacks", "exhibits", "suppresses"],
+      "answer": "C",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "2",
+      "question": "The president <b>convened</b> a cabinet meeting.",
+      "options": ["summoned", "forgot", "dismissed", "remembered"],
+      "answer": "A",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "3",
+      "question": "Most urban legends are based on <b>apocryphal</b> stories.",
+      "options": ["accurate", "spurious", "historical", "authentic"],
+      "answer": "B",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "4",
+      "question": "The river circled the <b>periphery</b> of the city.",
+      "options": ["suburbs", "center", "edge", "harbor"],
+      "answer": "C",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "5",
+      "question": "The scale’s needle <b>vacillated</b> between four and five grams before finally settling between the two.",
+      "options": ["tended", "balanced", "wavered", "struggled"],
+      "answer": "C",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "section_header": "Select the ANTONYM for each bold word."
+    },
+    {
+      "number": "6",
+      "question": "Paul was a valued party guest because of his skill as a <b>raconteur</b>.",
+      "options": ["clown", "bore", "comic", "friend"],
+      "answer": "B",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "7",
+      "question": "Laura used <b>subterfuge</b> to escape punishment for cutting class.",
+      "options": ["lies", "enemies", "skill", "honesty"],
+      "answer": "D",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "8",
+      "question": "Lorenzo was <b>mortified</b> by his fall in the lunchroom.",
+      "options": ["pleased", "angered", "injured", "shamed"],
+      "answer": "A",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "9",
+      "question": "Yolanda’s habit of studying with <b>expedient</b> memory devices, rather than taking the time to truly learn the material, proved a failure in the end.",
+      "options": ["speedy", "inconvenient", "direct", "impersonal"],
+      "answer": "B",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "10",
+      "question": "High-level mathematics can be <b>arcane</b> to the layperson.",
+      "options": ["mysterious", "useful", "unimportant", "simple"],
+      "answer": "D",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "section_header": "Chose the best way to complete each sentence or answer each question"
+    },
+    {
+      "number": "11",
+      "question": "Which of the following would you most likely use to <b>gesticulate</b>?",
+      "options": ["a lantern", "your hands", "flowers", "a pencil"],
+      "answer": "B",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "12",
+      "question": "<b>Incremental</b> change happens",
+      "options": [
+        "in huge leaps",
+        "a little at a time",
+        "in unknown amounts",
+        "without outside help"
+      ],
+      "answer": "B",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "13",
+      "question": "In which of the following situations are you likely to find <b>levity</b>?",
+      "options": [
+        "at a funeral",
+        "during a final exam",
+        "at a party",
+        "standing in a long line"
+      ],
+      "answer": "C",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "14",
+      "question": "Which of the following is most likely to be described as <b>imperturbable</b>?",
+      "options": ["a rodeo bull", "a killer bee", "a wild bear", "a guide dog"],
+      "answer": "D",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "15",
+      "question": "<b>Peripheral</b> vision relates to things you can see",
+      "options": [
+        "to the side",
+        "straight ahead",
+        "in the dark",
+        "moving quickly"
+      ],
+      "answer": "A",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "section_header": "Read the passage and answer the questions"
+    },
+    {
+      "passage": [
+        "Tara usually knew the answer to any questions her teachers asked, but she <b>vacillated</b> over whether to raise her hand. She never liked speaking up in class. Her voice always sounded so nervous! It was strange how shy she felt in school. She was a regular <b>raconteur</b> when she was at home with her family or spending time with friends, always telling stories and enjoying being the center of attention. She was very confident in those situations. But for some reason even the thought of speaking up in class made her start <b>exuding</b> sweat from every pore.",
+        "So, she rarely raised her hand, and when she did say something, she played it safe—she usually just <b>reiterated</b> what someone else had already said. It was the <b>expedient</b> way to contribute in class so she could get credit for being part of the discussion, but not risk expressing her own ideas and having them criticized or misunderstood."
+      ]
+    },
+    {
+      "number": "16",
+      "question": "The phrase “<b>vacillated</b> over” (line 2) most nearly means",
+      "options": [
+        "moved back and forth",
+        "skimmed over",
+        "had a hard time deciding",
+        "analyzed"
+      ],
+      "answer": "C",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "17",
+      "question": "The meaning of <b>raconteur</b> (line 5) is",
+      "options": [
+        "skilled storyteller",
+        "speech maker",
+        "joker",
+        "confident person"
+      ],
+      "answer": "A",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "18",
+      "question": "In line 9, <b>exuding</b> most nearly means",
+      "options": ["wiping away", "showing", "projecting", "oozing"],
+      "answer": "D",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "19",
+      "question": "The meaning of <b>reiterated</b> (line 12) is",
+      "options": ["listened to", "repeated", "paid attention to", "denied"],
+      "answer": "B",
+      "type": "mcq",
+      "mode": "test_question"
+    },
+    {
+      "number": "20",
+      "question": "In line 13, <b>expedient</b> means",
+      "options": ["difficult", "convenient", "quickest", "most effective"],
+      "answer": "B",
+      "type": "mcq",
+      "mode": "test_question"
+    }
+  ]
+}

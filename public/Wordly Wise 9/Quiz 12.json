@@ -1,0 +1,214 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Quiz 12",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for the bold word"
+        },
+        {
+          "number": "1",
+          "question": "Marla found it hard to <b>empathize</b> with people whose experiences were so different from her own.",
+          "options": ["console", "understand", "pity", "criticize"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "Since Molly was soaking wet when she arrived, Aidan <b>inferred</b> that it was raining outside.",
+          "options": ["deduced", "doubted", "considered", "saw"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "Diabetes often <b>manifests</b> itself as a persistent thirst.",
+          "options": ["masks", "hides", "disguises", "reveals"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "George’s skilled artist’s eye could see the <b>nuances</b> that separated sage green from moss green.",
+          "options": ["borders", "gradations", "similarities", "colors"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "Though she knew it would never be published, Cynthia spent years working on her <b>treatise</b> on junk food through the ages.",
+          "options": ["composition", "collage", "play", "speech"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for the bold word"
+        },
+        {
+          "number": "6",
+          "question": "Cody kept a positive attitude even when faced with <b>adversity</b>.",
+          "options": ["hardship", "misfortune", "advantage", "disability"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "Simon had a few <b>cardinal</b> rules for borrowing his books.",
+          "options": ["important", "chief", "major", "minor"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Max’s explanation for why the chair was on the roof was not <b>credible</b>.",
+          "options": ["suspicious", "believable", "true", "reliable"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "Although Sabra had never been to New York before, she had an <b>intuitive</b> feeling that this city would be a great fit for her.",
+          "options": ["outrageous", "spontaneous", "fearful", "reasoned"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "Josh found the competition so <b>harrowing</b> that even though he won, he vowed never to do it again.",
+          "options": ["distressing", "painful", "enjoyable", "unusual"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "Which of the following would not be one of a person’s <b>faculties</b>?",
+          "options": ["thinking", "juggling", "hearing", "seeing"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "You might draw an <b>inference</b> based on what?",
+          "options": ["evidence", "arguments", "luck", "disability"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "“Blue jeans never seem to go out of <b>vogue</b>” means that they are always",
+          "options": ["in fashion", "in demand", "classic", "casual"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "Which of these is most likely to be an <b>impairment</b> to a quick vacation abroad?",
+          "options": [
+            "fear of flying",
+            "hotel reservations",
+            "passport",
+            "luggage"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "Who is least likely to need <b>solace</b>?",
+          "options": [
+            "a grieving widow",
+            "a robbery victim",
+            "a jackpot winner",
+            "the loser of a tennis match"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Read the passage and answer the questions"
+        },
+        {
+          "passage": [
+            "With today’s technology, it is possible to earn a college degree without ever stepping onto a college campus or attending class in person. Online learning is a good option, but those considering this idea should be careful.",
+            "While many well-respected colleges and universities have online courses that are taught by excellent <b>faculty</b>, the for-profit online-education industry doesn’t have the same kind of <b>credibility</b>. It has been discovered that several have included <b>pernicious</b> lies in their advertising about job-placement rates to attract more students.",
+            "A student who has chosen to attend such an online college, and who then graduates expecting to find a job easily, may instead go through the <b>harrowing</b> experience of not being able to find a job to pay off his or her college loans. Students are wise to be cautious and trust their <b>intuition</b> if they sense something isn’t right about an online college and its promises."
+          ]
+        },
+        {
+          "number": "16",
+          "question": "In line 6, <b>faculty</b> means",
+          "options": [
+            "natural powers",
+            "professors",
+            "abilities",
+            "classrooms"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "In line 8, the word <b>credibility</b> most nearly means",
+          "options": [
+            "trustworthy reputation",
+            "teaching staff",
+            "technical access",
+            "image"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "The meaning of <b>pernicious</b> (line 9) is",
+          "options": ["secret", "false", "harmful", "unwise"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "The word <b>harrowing</b> (line 13) most nearly means",
+          "options": [
+            "extremely upsetting",
+            "slightly unpleasant",
+            "satisfying",
+            "interesting"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "The meaning of <b>intuition</b> (line 15) is",
+          "options": ["judgment", "innate feelings", "decision", "information"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

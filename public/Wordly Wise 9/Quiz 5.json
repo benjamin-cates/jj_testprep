@@ -1,0 +1,192 @@
+{
+  "subject": "Wordly Wise",
+  "name": "Wordly Wise 9 Quiz 5",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "1",
+          "options": ["constant", "anxious", "light", "ravenous"],
+          "question": "It was a major undertaking to satisfy the cyclists’ <b>voracious</b> appetites.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "2",
+          "options": ["spending", "guessing", "investing", "profiting"],
+          "question": "<b>Speculating</b> in international currency was Mitch’s hobby.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "3",
+          "options": ["obstacles", "bridges", "distractions", "dangers"],
+          "question": "There are many <b>impediments</b> to earning a college degree.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "4",
+          "options": ["benefactor", "tyrant", "patron", "pushover"],
+          "question": "Joseph Stalin was a Soviet <b>despot</b> who was responsible for the deaths of millions.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "5",
+          "options": ["absurd", "reckless", "foolish", "wise"],
+          "question": "Ms. Perera can always be counted on to give <b>sagacious</b> advice.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "6",
+          "options": ["dedication", "inefficiency", "idleness", "drowsiness"],
+          "question": "Her <b>indolence</b> affected her ability to keep a job.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "7",
+          "options": ["boredom", "struggle", "fighting", "harmony"],
+          "question": "Politics had been a source of <b>strife</b> at the dinner table on countless holidays.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "8",
+          "options": ["diminish", "worry", "enrich", "hinder"],
+          "question": "Rising property taxes threatened to <b>impoverish</b> the new homeowner.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "9",
+          "options": ["mumble", "pronounce", "sing", "project"],
+          "question": "Andy made a point to <b>enunciate</b> his words.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "10",
+          "options": ["religious", "commonplace", "worldly", "mundane"],
+          "question": "Most state holidays are <b>secular</b>.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "11",
+          "options": ["grow", "die", "blossom", "thrive"],
+          "question": "Crops in <b>impoverished</b> soil are most likely to",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "12",
+          "options": ["respect", "contempt", "fondness", "sympathy"],
+          "question": "To <b>venerate</b> something means to treat it with",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "13",
+          "options": ["suspicious", "doubtful", "skeptical", "trusting"],
+          "question": "A <b>cynic</b> is not",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "14",
+          "options": ["country", "ingredients", "time", "magnitude"],
+          "question": "<b>Contemporaries</b> are of the same",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "15",
+          "options": ["skilled", "young", "new", "inexperienced"],
+          "question": "Someone who is <b>callow</b> is not likely to be",
+          "type": "mcq"
+        },
+        {
+          "passage": [
+            "Ideas about how older people should be treated, and what their characteristics are, vary depending on culture. In many cultures, the elderly are seen as <b>sagacious</b> due to a lifetime of experience and are worthy of the utmost respect. It is taken for granted that adult children will take care of their parents once the parents become elderly, regarding such care as an honor and privilege. Those who don’t do this are seen as lazy and <b>indolent</b>.",
+            "In other cultures, however, it is more common for the elderly to live alone or to spend their last days in a nursing home and to be seen as mentally fragile. Some take an even more <b>cynical</b> view, believing that the elderly are purposely irritating and intrude too often in younger people’s lives. They doubt older people's intentions when they offer advice.",
+            "If you grew up thinking that older people don't have something to offer, it's important to question this attitude. It is <b>callow</b> and foolish to assume that you know more than someone who is older than you. Those with a <b>voracious</b> desire to learn should consider how much wisdom the elderly can share."
+          ]
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "16",
+          "options": ["wise", "respected", "experienced", "capable"],
+          "question": "In line 3, <b>sagacious</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "17",
+          "options": [
+            "disrespectful",
+            "avoiding work",
+            "dishonorable",
+            "unreliable"
+          ],
+          "question": "The word <b>indolent</b> (line 8) most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "18",
+          "options": ["wise", "realistic", "skeptical", "unfair"],
+          "question": "In line 12, <b>cynical</b> most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "19",
+          "options": ["mean", "stupid", "bold", "immature"],
+          "question": "The meaning of <b>callow</b> (line 17) is",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "20",
+          "options": ["hungry", "eager", "small", "sufficient"],
+          "question": "In line 18, <b>voracious</b> means",
+          "type": "mcq"
+        }
+      ],
+      "type": "test"
+    }
+  ]
+}

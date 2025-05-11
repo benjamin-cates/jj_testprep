@@ -1,0 +1,611 @@
+{
+  "name": "Wordly Wise 9 Lesson 3",
+  "pages": [
+    {
+      "name": "Definitions",
+      "type": "definition_table",
+      "content": [
+        {
+          "word": "allude",
+          "definition": "<i>v.</i> To refer to in an indirect way (used with <i>to</i>).<br>She made a mistake that night, she said, <b>alluding</b> to the way she lost her temper.<br><b>allusion</b> <i>n.</i><br>The poem is an <b>allusion</b> to Penelope in Homer's The Odyssey."
+        },
+        {
+          "word": "consecrate",
+          "definition": "<i>v.</i> 1. To set apart as holy.<br>Hagia Sophia, in Constantinople (today Istanbul), was <b>consecrated</b> as a church in 537 and is now a museum.<br>2. To dedicate to a cause; to devote.<br>Mother Teresa <b>consecrated</b> her life to helping Calcutta’s poor."
+        },
+        {
+          "word": "disseminate",
+          "definition": "<i>v.</i> To scatter or spread widely.<br>The wind <b>disseminated</b> the spores from the milkweed pods.<br><b>dissemination</b> <i>n.</i><br><b>Dissemination</b> of information about local cases of the flu is essential for preventing an outbreak."
+        },
+        {
+          "word": "dote",
+          "definition": "<i>v.</i> To show excessive fondness for (used with <i>on</i> or <i>upon</i>).<br>She <b>dotes</b> on her grandson and indulges his every whim."
+        },
+        {
+          "word": "exhort",
+          "definition": "<i>v.</i> To urge strongly; to warn or appeal.<br>The quarterback’s teammates <b>exhorted</b> him to ignore the boos of the crowd.<br><b>exhortation</b> <i>n.</i><br>The pool's rules contain an <b>exhortation</b> against diving into the shallow end."
+        },
+        {
+          "word": "feckless",
+          "definition": "<i>adj.</i> Careless or irresponsible.<br>Bao’s <b>feckless</b> ways left him devoid of cash."
+        },
+        {
+          "word": "implicate",
+          "definition": "<i>v.</i> To show to be involved with something, especially something dishonest or illegal.<br>The defense attorney insisted that her client could not be <b>implicated</b> in the theft."
+        },
+        {
+          "word": "lament",
+          "definition": "<i>v.</i> To feel or express grief.<br>Uncountable mourners lined the streets to <b>lament</b> the 1997 death of Diana, Princess of Wales.<br><b>lamentation</b> (or <b>lament</b>) <i>n.</i> An expression of sorrow or grief in the form of a poem, song, etc.<br>The <b>lamentation</b> expresses the nation’s grief at being plunged into civil war."
+        },
+        {
+          "word": "monetary",
+          "definition": "<i>adj.</i> Of or relating to money or currency.<br>The basic <b>monetary</b> unit of Mexico is the peso."
+        },
+        {
+          "word": "pensive",
+          "definition": "<i>adj.</i> Deep in thought; dreamily thoughtful.<br>Lying on my back, I grew <b>pensive</b> as I watched the drifting summer clouds."
+        },
+        {
+          "word": "pomp",
+          "definition": "<i>n.</i> A showy or dignified display.<br>Graduations are usually marked by <b>pomp</b> and ceremony."
+        },
+        {
+          "word": "stilted",
+          "definition": "<i>adj.</i> Artificially stiff or formal in manner.<br>His <b>stilted</b> conversation reflected his unease."
+        },
+        {
+          "word": "subjugate",
+          "definition": "<i>v.</i> To bring under control; to conquer.<br>In the late eighteenth century, Russia <b>subjugated</b> the country of Georgia in western Asia.<br><b>subjugation</b> <i>n.</i><br>The <b>subjugation</b> of the working class has led to revolutions all over the world."
+        },
+        {
+          "word": "trauma",
+          "definition": "<i>n.</i> 1. A severe bodily injury.<br>People who lived through the <b>trauma</b> of the 2004 tsunami are unlikely to ever forget it.<br>2. Emotional shock.<br>Watching the attack on live television had a <b>traumatic</b> effect on me for days.<br><b>traumatic</b> <i>adj.</i><br>Simply watching on television the devastation resulting from the attack had a <b>traumatic</b> effect on me."
+        },
+        {
+          "word": "wanton",
+          "definition": "<i>adj.</i> 1. Ignoring what is right.<br>In refusing to remove asbestos from the ceilings, the company showed a <b>wanton</b> disregard for employee safety.<br>2. Excessive or unrestrained.<br>During the holidays, I try to avoid <b>wanton</b> eating of sweets.<br>3. Playful or frolicsome.<br>It was a pleasure to hear the <b>wanton</b> shouts of the children in the backyard."
+        }
+      ]
+    },
+    {
+      "name": "3A: Understanding Meanings",
+      "subheading": "Read the following sentences. If the word in bold is used correctly, write C. If the word is used incorrectly, write a new sentence using the word correctly.",
+      "content": [
+        {
+          "number": "1",
+          "question": "A <b>pensive</b> mood is one that engrosses a person in thought.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "2",
+          "question": "To <b>implicate</b> is to beg a person to do something.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "To <b>implicate</b> someone is to show they are involved in something dishonest or illegal."
+        },
+        {
+          "number": "3",
+          "question": "<b>Pomp</b> is a brilliant spectacle.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "4",
+          "question": "<b>Subjugation</b> is the act of overpowering a person or group.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "5",
+          "question": "To <b>consecrate</b> a place is to make it sacred.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "6",
+          "question": "A <b>stilted</b> manner is one that seems forced and unnatural.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "7",
+          "question": "An <b>allusion</b> is a mistaken belief.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "An <b>allusion</b> is an indirect reference to something."
+        },
+        {
+          "number": "8",
+          "question": "<b>Wanton</b> insults are those that are wildly improper and uncontrolled.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "9",
+          "question": "A <b>monetary</b> concern is one that changes frequently.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "A <b>monetary</b> concern is one related to money or currency."
+        },
+        {
+          "number": "10",
+          "question": "To <b>exhort</b> someone is to obtain something by threatening that person.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "To <b>exhort</b> someone is to urge him or her strongly."
+        },
+        {
+          "number": "11",
+          "question": "A <b>traumatic</b> incident is one that causes emotional shock.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "12",
+          "question": "<b>Dissemination</b> is the act of distinguishing between right and wrong.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "<b>Dissemination</b> is the act of distributing something widely."
+        },
+        {
+          "number": "13",
+          "question": "To <b>dote</b> on someone is to show a strong affection for that person.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "14",
+          "question": "A <b>feckless</b> person is one who doesn’t take ordinary precautions.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "15",
+          "question": "A <b>lament</b> is an expression of sorrow.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "name": "3B: Using Words",
+      "subheading": "If the word (or a form of the word) in bold fits in a sentence in the group following it, mark it as True. If the word does not fit, mark it as False.",
+      "content": [
+        {
+          "number": "1",
+          "question": "Does the word <b>exhort</b> fit correctly in the following sentences?",
+          "type": "multi_select",
+          "options": [
+            "By the third day of our journey, our supplies were <b>exhorted</b>.",
+            "The leader of the protest march <b>exhorted</b> his followers to be patient, but they did not heed him.",
+            "Ms. Dalloway <b>exhorted</b> her nephew to pass her the sugar."
+          ],
+          "answer": "FTF"
+        },
+        {
+          "number": "2",
+          "question": "Does the word <b>subjugate</b> fit correctly in the following sentences?",
+          "type": "multi_select",
+          "options": [
+            "Everyone expects the former champion to <b>subjugate</b> her opponent in tomorrow's tennis match.",
+            "I was determined not to let the difficulty of the task <b>subjugate</b> me.",
+            "During the Civil War, the North’s efforts to <b>subjugate</b> the South were successful at the village of Appomattox Court House in Virginia."
+          ],
+          "answer": "FFT"
+        },
+        {
+          "number": "3",
+          "question": "Does the word <b>consecrate</b> fit correctly in the following sentences?",
+          "type": "multi_select",
+          "options": [
+            "In his address at the dedication of the Gettysburg National Cemetery, Abraham Lincoln said that the men who fought and died there had already <b>consecrated</b> the land.",
+            "The physician <b>consecrated</b> his life to philanthropic work.",
+            "Joe was sleepy and found it hard to <b>consecrate</b> on the math problem."
+          ],
+          "answer": "TTF"
+        },
+        {
+          "number": "4",
+          "question": "Does the word <b>wanton</b> fit correctly in the following sentences?",
+          "type": "multi_select",
+          "options": [
+            "She laughingly threatened revenge for their <b>wanton</b> practical jokes.",
+            "To keep those big dogs in that small apartment was <b>wanton</b> cruelty.",
+            "Maria believed in doing good by performing <b>wanton</b> acts of kindness."
+          ],
+          "answer": "TTF"
+        },
+        {
+          "number": "5",
+          "question": "Does the word <b>pomp</b> fit correctly in the following sentences?",
+          "type": "multi_select",
+          "options": [
+            "A royal wedding is an occasion for much <b>pomp</b>.",
+            "Thomas Jefferson was not impressed by the <b>pomp</b> of the French court.",
+            "These new uniforms lack <b>pomp</b> and are appropriate for school use."
+          ],
+          "answer": "TTF"
+        },
+        {
+          "number": "6",
+          "question": "Does the word <b>feckless</b> fit correctly in the following sentences?",
+          "type": "multi_select",
+          "options": [
+            "The couple’s <b>feckless</b> spending resulted in their decision to declare bankruptcy.",
+            "One could easily get lost in the <b>feckless</b> wastes of the desert.",
+            "The <b>feckless</b> father had failed to pay the car loan."
+          ],
+          "answer": "TFT"
+        },
+        {
+          "number": "7",
+          "question": "Does the word <b>implicate</b> fit correctly in the following sentences?",
+          "type": "multi_select",
+          "options": [
+            "Robert could not have acted alone, but he refused to <b>implicate</b> his friends.",
+            "The campaign will <b>implicate</b> a lot of planning if it is to be a success.",
+            "The side table did much to <b>implicate</b> the sobbing child by hugging him."
+          ],
+          "answer": "TFF"
+        },
+        {
+          "number": "8",
+          "question": "Does the word <b>pensive</b> fit correctly in the following sentences?",
+          "type": "multi_select",
+          "options": [
+            "A <b>pensive</b> look crossed her face whenever we spoke of Cuba, the land of her birth.",
+            "It was <b>pensive</b> of her to go to so much trouble on my behalf.",
+            "The music’s more <b>pensive</b> movements were played with great feeling."
+          ],
+          "answer": "TFT"
+        }
+      ]
+    },
+    {
+      "name": "3C: Word Study: Analogies",
+      "subheading": "Complete the analogies by selecting the pair of words whose relationship most resembles the relationship of the pair in capital letters. Circle the letter next to the pair you choose.",
+      "content": [
+        {
+          "number": "1",
+          "question": "<b>INJURY</b> is to <b>TRAUMA</b> as",
+          "type": "mcq",
+          "options": [
+            "lack is to skill",
+            "illness is to medicine",
+            "visage is to eyes",
+            "accident is to calamity"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": "2",
+          "question": "<b>ADORE</b> is to <b>DOTE</b> as",
+          "type": "mcq",
+          "options": [
+            "attempt is to succeed",
+            "lament is to bewail",
+            "deduce is to misunderstand",
+            "explain is to implicate"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "3",
+          "question": "<b>WANTON</b> is to <b>RESTRAINT</b> as",
+          "type": "mcq",
+          "options": [
+            "ignorant is to awareness",
+            "pensive is to thought",
+            "silent is to guilt",
+            "dangerous is to risk"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "4",
+          "question": "<b>DISSEMINATE</b> is to <b>ACCUMULATE</b> as",
+          "type": "mcq",
+          "options": [
+            "dismay is to alarm",
+            "dissect is to disagree",
+            "distribute is to collect",
+            "flatter is to extol"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": "5",
+          "question": "<b>RARE</b> is to <b>UBIQUITOUS</b> as",
+          "type": "mcq",
+          "options": [
+            "feckless is to reckless",
+            "intermittent is to continuous",
+            "hidden is to unseen",
+            "several is to many"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "6",
+          "question": "<b>PROTEIN</b> is to <b>SUSTENANCE</b> as",
+          "type": "mcq",
+          "options": [
+            "bricks is to house",
+            "air is to lungs",
+            "oil is to heat",
+            "book is to reader"
+          ],
+          "answer": "C"
+        },
+        {
+          "number": "7",
+          "question": "<b>DESTITUTE</b> is to <b>MONEY</b> as",
+          "type": "mcq",
+          "options": [
+            "wise is to wisdom",
+            "tired is to sleep",
+            "funny is to laugh",
+            "thirsty is to hunger"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "8",
+          "question": "<b>PLUMB</b> is to <b>LEVEL</b> as",
+          "type": "mcq",
+          "options": [
+            "deep is to shallow",
+            "front is to back",
+            "firm is to wobbly",
+            "vertical is to horizontal"
+          ],
+          "answer": "D"
+        },
+        {
+          "number": "9",
+          "question": "<b>BEWAIL</b> is to <b>MISFORTUNE</b> as",
+          "type": "mcq",
+          "options": [
+            "ignore is to knowledge",
+            "rejoice is to victory",
+            "subjugate is to enemy",
+            "extol is to fear"
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "10",
+          "question": "<b>FLAMBOYANT</b> is to <b>DULL</b> as ",
+          "type": "mcq",
+          "options": [
+            "feckless is to responsible",
+            "snowy is to white",
+            "pensive is to thoughtful",
+            "formal is to stilted"
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "3D: Images of Words",
+      "subheading": "Circle the letter next to the sentence that suggests the bold vocabulary word. There may be more than one correct answer or no correct answer.",
+      "content": [
+        {
+          "number": "1",
+          "question": "Which sentences suggest the meaning of <b>lament</b>?",
+          "type": "multi_select",
+          "options": [
+            "“I can’t believe that I’ll never see you again,” he said sadly.",
+            "In the theatrical production of the Greek myth, singers wailed over the deaths of Medea’s children.",
+            "“I’m sorry I can’t give you directions,” she said, “but I’m a stranger here myself.”"
+          ],
+          "answer": "TTF"
+        },
+        {
+          "number": "2",
+          "question": "Which sentences suggest the meaning of <b>subjugate</b>?",
+          "type": "multi_select",
+          "options": [
+            "Natasha’s unfailing optimism prompted her negative cousin to call her a Pollyanna.",
+            "Her parents named her Simone after her grandmother.",
+            "His reputation for being stingy earned him the nickname of Scrooge."
+          ],
+          "answer": "FTF"
+        },
+        {
+          "number": "4",
+          "question": "Which sentences suggest the meaning of <b>monetary</b>?",
+          "type": "multi_select",
+          "options": [
+            "A fifty-dollar reward was offered to anyone who could find the lost dog.",
+            "The actions of the Federal Reserve System affect interest rates in the United States.",
+            "The dollar rose in value against the German mark and the Japanese yen."
+          ],
+          "answer": "TTT"
+        },
+        {
+          "number": "5",
+          "question": "Which sentences suggest the meaning of <b>trauma</b>?",
+          "type": "multi_select",
+          "options": [
+            "Many veterans have emotional problems as a result of their experiences in war.",
+            "The motorcyclist suffered severe injuries in the accident.",
+            "Little Tomás started screaming when he dropped his ice-cream cone."
+          ],
+          "answer": "TTF"
+        },
+        {
+          "number": "6",
+          "question": "Which sentences suggest the meaning of <b>exhortation</b>?",
+          "type": "multi_select",
+          "options": [
+            "Her fans cheered wildly when the tennis player won Wimbledon.",
+            "Get a good night’s rest before taking the SATs.",
+            "Mother lost count of the times she asked Nigel to clean up his room."
+          ],
+          "answer": "FFT"
+        },
+        {
+          "number": "7",
+          "question": "Which sentences suggest the meaning of <b>stilted</b>?",
+          "type": "multi_select",
+          "options": [
+            "“I must request of you that you cease trespassing upon my property,” said the landholder.",
+            "“Chill out,” drawled Becky to her angry sister.",
+            "“Are you familiar with the line ‘Hark! The meadowlark doth greet the morn’?”"
+          ],
+          "answer": "TFT"
+        },
+        {
+          "number": "8",
+          "question": "Which sentences suggest the meaning of <b>disseminate</b>?",
+          "type": "multi_select",
+          "options": [
+            "The boys fled in all directions when they saw Mr. Garroway approaching.",
+            "Every home in Miami Dade County, Florida, received a “Hurricane Information” package.",
+            "Banned literature was circulated in communist Russia in a system called samizdat."
+          ],
+          "answer": "FTT"
+        },
+        {
+          "number": "9",
+          "question": "Which sentences suggest the meaning of <b>consecrate</b>?",
+          "type": "multi_select",
+          "options": [
+            "The den was used as a place of worship.",
+            "Art’s first job was stockboy in a warehouse.",
+            "Melissa kept a daily record of personal events in a closely guarded journal."
+          ],
+          "answer": "TFF"
+        },
+        {
+          "number": "10",
+          "question": "Which sentences suggest the meaning of <b>dote</b>?",
+          "type": "multi_select",
+          "options": [
+            "Walter plays his video game for hours at a time.",
+            "“Oh, I think Raquelle is the best girl in the world!” said Aunt Penny.",
+            "Jacob could do no wrong in his grandparents’ eyes."
+          ],
+          "answer": "FTT"
+        }
+      ]
+    },
+
+    {
+      "name": "Vocabulary in Context",
+      "subheading": "Read the passage. Answer each question with a sentence. If a question does not contain a word from the lesson, use one in your answer. Use each word only once.",
+      "type": "reading_check",
+      "content": [
+        {
+          "name": "Chile's First Lady of Letters",
+          "passage": [
+            "By order of the government, the country went into three days of mourning. All schools and official buildings were closed. Flags were lowered to half-mast. Was the nation <b>lamenting</b> the passing of a president or a famous general? No. The person whose death was being marked with such <b>pomp</b> was a poet. The country was Chile, the year was 1957, and the poet was Gabriela Mistral, born Lucila Godoy Alcayaga.",
+            "Lucila grew up in Chile’s Valley of Elqui, a place she <b>alluded</b> to frequently in her poems as an earthly paradise of vineyards, fig orchards, and green hills. Her father <b>doted</b> on his child, making a garden for Lucila and listening with delight as she talked about bees, birds, and insects. But his <b>feckless</b> ways and frequent absences caused quarrels between Lucila’s parents. When the little girl was three, her father disappeared from her life forever. Friends remembered her as a solitary child whose <b>pensive</b> ways set her off from companionship. She compensated for this by creating a rich interior world for herself. By the age of eleven, she was writing her first poems.",
+            "When she was a young woman, unhappy love affairs brought <b>trauma</b> to Lucila’s life. In one particularly hard incident, the young man committed suicide after being <b>implicated</b> in a crime. Believing that marriage and motherhood were not in her future, she <b>consecrated</b> her life to teaching, a calling she held in the highest regard, and writing poetry. Taking the pen name Gabriela Mistral, she poured her grief into her poetry: “I spoke of this destiny, of mine—A mortar of blood and tears. After this I know there can be nothing more.”",
+            "Hers was a fresh voice, sometimes direct, even harsh; other times it was tender and wistful, offering quite a contrast to the often <b>stilted</b> language of some of her contemporaries. In 1922, Mistral received international recognition with the publication of Desolación [Desolation]. This was a volume of poetry pervaded by a sense of suffering and lost love, and with scorn for indifference to pain and excessive emphasis on materialism. Mistral used her newfound celebrity to <b>disseminate</b> her views on education, which began appearing in newspapers and journals throughout the Americas. She was invited to visit Mexico to advise leaders there on educational reform, and the Chilean government appointed her “consul for life.” The salary she received from her official position enabled her to pursue her literary and educational activities free from <b>monetary</b> worries.",
+            "Whatever her activity, concern for children, nature, and the downtrodden filled her mind. Her second book, Ternura [Tenderness], contains many children’s songs and verses that reflect her study of folk verse, nursery rhymes, and lullabies. Next came Tala [Devastation], a reference to the <b>wanton</b> destruction of Chile’s forests by greedy timber barons. She assigned the proceeds from Tala to the relief of children orphaned by the Spanish Civil War, after <b>exhortations</b> to the countries of South America to take in refugees from Spain went unheeded. In 1945, Gabriela Mistral was awarded the Nobel Prize for Literature. She was the first Latina writer to be so honored. In her acceptance speech, she expressed her thanks on behalf of the people of “the southern hemisphere of the American continent.”",
+            "Now a world figure, Mistral traveled extensively in Europe and throughout the Americas. She taught, wrote, and spoke out in public on behalf of the world’s children who were denied education and forced to work in appalling conditions for low wages. Unhappy about the <b>subjugation</b> of women in much of the world, she served on the United Nations committee on the status of women. At the same time, she expressed “highest admiration” for the achievements of women in the United States and lived there for a time. She was staying with friends on Long Island when she died on January 10, 1957, at age 67.",
+            "In Santiago, Gabriela Mistral's funeral was attended by hundreds of thousands of people, including many children, which was appropriate for a woman whose heart had adopted the children of the whole world and who had celebrated them in her poetry: \"Rivers are circles of children/Running off to the sea as they play/Waves are circlets of little girls/Embracing this world...as they play..."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "What contradiction do you see in the way Mistral’s father treated her?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "He <b>doted</b> on her in childhood but later abandoned her completely."
+        },
+        {
+          "number": "2",
+          "question": "How did the <b>traumas</b> of Mistral’s childhood and early adulthood influence the direction of her life?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She consecrated her life to teaching and writing poetry"
+        },
+        {
+          "number": "3",
+          "question": "Why did Mistral’s poems seem revolutionary at the time she wrote them?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Her tender, wistful writing offered quite a contrast to the stilted language that was common then"
+        },
+        {
+          "number": "4",
+          "question": "How do you know that the Valley of Elqui, where Mistral grew up, had a long-lasting effect on her?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She often alluded to this place in her poems"
+        },
+        {
+          "number": "5",
+          "question": "Why would it be inaccurate to describe Mistral as a <b>wanton</b> child?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "THe passage says that she was pensive as a child"
+        },
+        {
+          "number": "6",
+          "question": "Whom did Mistral <b>implicate</b> in her collection of poems, Tala?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She suggested that greedy timber barons were destroying Chilean forests"
+        },
+        {
+          "number": "7",
+          "question": "How do we know that Mistral’s writing was not motivated solely by <b>monetary</b> considerations?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She donated the proceeds from Tala to orphans of the Spanish Civil War."
+        },
+        {
+          "number": "8",
+          "question": "Why might Mistral have considered South American countries <b>feckless</b> in their treatment of refugees from the Spanish Civil War?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Even though she exhorted them to help these people, none did."
+        },
+        {
+          "number": "9",
+          "question": "How did Mistral make known her views on mistreated children?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She <b>disseminated</b> them through teaching, writing, and speaking"
+        },
+        {
+          "number": "10",
+          "question": "What problems did Mistral see afflicting women and children?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She opposed the <b>subjugation</b> of women and poor treatment of working children."
+        },
+        {
+          "number": "11",
+          "question": "Why do you think so many <b>lamented</b> the death of Gabriela Mistral?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She was a beloved poet and advocate for the poor, so many people <b>lamented</b> her death."
+        },
+        {
+          "number": "12",
+          "question": "Why was it appropriate that children were part of the <b>pomp</b> at Mistral’s funeral?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Mistral worked to better the lives of children around the world and also celebrated children in her poetry."
+        }
+      ]
+    }
+  ]
+}

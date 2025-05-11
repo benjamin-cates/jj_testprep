@@ -1,0 +1,201 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Quiz 18",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "number": "1",
+          "question": "The economic advisor was an <b>adherent</b> to the philosophy of laissez-faire, so he rarely recommended intervening.",
+          "options": ["follower", "detractor", "skeptic", "expert"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "Though her knees were knocking, Paula conducted the interview of her idol with complete <b>aplomb</b>.",
+          "options": ["terror", "poise", "awkwardness", "professionalism"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "Tom delicately <b>broached</b> the subject of a summer abroad.",
+          "options": ["sidestepped", "raised", "pondered", "considered"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "With practice and patience, Earl <b>surmounted</b> his phobia of public speaking.",
+          "options": ["overcame", "accepted", "exercised", "embraced"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "Lori was <b>resplendent</b> in her wedding gown.",
+          "options": ["uncomfortable", "acceptable", "sweet", "dazzling"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "number": "6",
+          "question": "Military authority is built on <b>adherence</b> to the chain of command.",
+          "options": ["departing", "orders", "sticking", "following"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "Julia is a <b>devotee</b> of yoga.",
+          "options": ["enthusiast", "practitioner", "opponent", "proponent"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "No matter how many times she did it, Diane was always <b>diffident</b> walking into a new classroom.",
+          "options": ["shy", "confident", "unsure", "uneasy"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "Spot’s <b>plaintive</b> stare at the empty food bowl prevented Drew from enforcing the dog’s diet.",
+          "options": ["sad", "mournful", "happy", "pitiful"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "Our special graduation <b>regalia</b> consists of a cap and gown.",
+          "options": ["garb", "rags", "costume", "outfit"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "To <b>brandish</b> something is an attempt to do all of the following except",
+          "options": ["threaten", "intimidate", "soothe", "menace"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "There was an <b>extravaganza</b> when the local team won the national championship. The event was all of the following except",
+          "options": ["elaborate", "spectacular", "showy", "tame"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "If the paper straw you are using loses its <b>integrity</b> before you finish your drink, what happens to the straw?",
+          "options": [
+            "It changes color.",
+            "It falls apart.",
+            "It becomes stronger.",
+            "It gets lost."
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "To <b>subordinate</b> your own wants for a greater cause means to",
+          "options": [
+            "make the cause more important than your wants",
+            "make your wants more important than the cause",
+            "work equally toward both goals",
+            "choose one or the other"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "If something is <b>tenable</b>, it is",
+          "options": ["reasonable", "outrageous", "impossible", "unattractive"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        { "section_header": "Read the passage and answer the questions" },
+        {
+          "passage": [
+            "It’s interesting how people behave when we meet celebrities. Regular people often act <b>diffident</b> around a celebrity, as if we were <b>subordinate</b> to the famous person. People have even been known to faint or cry after meeting a celebrity they admire! The more <b>plaudits</b> and attention the celebrity gets, or the more <b>resplendent</b> he or she looks, the less comfortable some of us feel. Whether the celebrity is a kind or honest person with <b>integrity</b> doesn’t seem to matter to us in the moment, as long as he or she is famous.",
+            "However, fame is often temporary, and celebrity has nothing to do with your talent or worth as a human being. Try to keep some perspective if you meet someone famous. Take a deep breath and remember that we’re all just human!"
+          ]
+        },
+        {
+          "number": "16",
+          "question": "The meaning of <b>diffident</b> (line 2) is",
+          "options": [
+            "embarrassed",
+            "excited",
+            "unsure of themselves",
+            "terrified"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "The phrase <b>“subordinate to”</b> (line 3) most nearly means",
+          "options": ["lesser than", "closer to", "better than", "next to"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "The meaning of <b>plaudits</b> (line 5) is",
+          "options": ["photos", "interviews", "praise", "time"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "In line 6, <b>resplendent</b> means",
+          "options": ["snobby", "dazzling", "famous", "distracted"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "The word <b>integrity</b> (line 8) most nearly means",
+          "options": ["honesty", "wisdom", "intellect", "wholeness"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

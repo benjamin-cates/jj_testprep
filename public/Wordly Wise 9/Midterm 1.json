@@ -1,0 +1,175 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Midterm Test 1",
+  "pages": [
+    {
+      "content": [
+        {
+          "title": "Absolute Power Corrupts Absolutely",
+          "passage": [
+            "How did Maximilien Robespierre, a country lawyer devoted to protecting the oppressed and <b>impoverished</b>, come to <b>embody</b> the horror of the darkest days of the French Revolution? As a young lawyer in his hometown of Arras, he sought to “pursue with vengeful words those who, without pity for humanity, enjoy the suffering of others.” While serving as a judge in 1782, he was <b>incapacitated</b> with despair at having to pronounce a death sentence. He found the responsibility of ending a person’s life so <b>traumatic</b> that he resigned his position as a judge and returned to his law practice.",
+            "He was known to his <b>contemporaries</b> as “the Incorruptible.” While he was known to be moral and honest, he was certainly not humble. He published pamphlets about his successes in the courtroom to enhance his reputation and <b>disseminate</b> news of his triumphs.",
+            "In 1789, the king called a meeting of the Estates-General to hear the people’s complaints, and Robespierre was sent to represent his province at the meeting. A Paris mob soon stormed the Bastille, a prison where people were jailed for their political beliefs. The Revolution was underway.",
+            "Robespierre wanted a new government and spent the next few years making speeches calling for the king’s execution. His speeches were long and confusing, but he was a persuasive <b>orator</b> nonetheless. King Louis XVI was beheaded in early 1793. Later that year, Robespierre won an appointment to the Committee of Public Safety, his first official position. The period from that appointment until Robespierre’s death was known as the Reign of Terror.",
+            "Until his appointment on the Committee, Robespierre dealt with his opposition peacefully. With the power that came with his new position, he found that the guillotine was a fast, permanent solution to the problem of his <b>detractors</b>. He came to regard any challenge to his authority as an <b>affront</b> to France, which he served with such <b>magnanimity</b>. He perceived personal attacks on him as attacks on France. The ego he showed years earlier now demanded the executions of his enemies.",
+            "Earlier in his career he considered himself to be the protector of the downtrodden. After being appointed to the Committee, he began to consider himself to be the protector of the nation. The notion of the death penalty had once made him physically sick.",
+            "He came to use it with shocking frequency, sending thousands—“all enemies of France”—to their deaths in less than a year. He believed he knew absolutely what his country needed, and he was not <b>encumbered</b> by doubt, pity, or remorse. At what seemed to be the height of his power, in the summer of 1794, his surviving enemies found the strength to arrest him and condemn him, along with a handful of supporters, to the guillotine. The Reign of Terror died with him.",
+            "Robespierre <b>cleaved</b> tightly to the belief that his actions were what his country demanded. His <b>dogma</b> and his methods made him the <b>despotic</b> forerunner to such nationalistic twentieth-century dictators as Hitler, Mussolini, and Stalin. He is remembered as the architect of the Reign of Terror. If he had possessed a little humility, he might be remembered as the father of modern France."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "In this passage, <b>embody</b> means",
+          "options": ["represent", "champion", "celebrate", "endorse"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "In the first paragraph, <b>incapacitated</b> means",
+          "options": [
+            "made angry",
+            "made sick",
+            "made strong",
+            "made helpless"
+          ],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "When did Robespierre’s <b>contemporaries</b> live?",
+          "options": [
+            "before he did",
+            "at the same time he did",
+            "after he did",
+            "in a different time than he did"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "An <b>orator</b>",
+          "options": ["listens", "gestures", "speaks", "writes"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "An ANTONYM for <b>detractors</b> is",
+          "options": ["supporters", "enemies", "opponents", "hecklers"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "6",
+          "question": "A SYNONYM for <b>magnanimity</b> is",
+          "options": [
+            "deceitfulness",
+            "meanness",
+            "selfishness",
+            "selflessness"
+          ],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "In the seventh paragraph, “<b>cleaved</b> tightly to” means",
+          "options": ["ignored", "abandoned", "stood by", "endorsed"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Robespierre’s <b>dogma</b> was something he",
+          "options": [
+            "believed to be true",
+            "believed to be desirable",
+            "believed to be worthwhile",
+            "believed to be wrong"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "What is a <b>despotic</b> leader like?",
+          "options": ["kind", "tyrannical", "generous", "enlightened"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "An ANTONYM for <b>impoverished</b> is",
+          "options": ["modest", "influential", "needy", "wealthy"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "11",
+          "question": "<b>Impoverished</b> people are",
+          "options": ["poor", "oppressed", "in trouble", "outcasts", "lucky"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "In the first paragraph, <b>traumatic</b> most nearly means",
+          "options": [
+            "enjoyable",
+            "interesting",
+            "rewarding",
+            "emotional",
+            "empowering"
+          ],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "What best captures the meaning of the word <b>disseminate</b> in the second paragraph?",
+          "options": ["announce", "spread", "publicize", "cover", "embellish"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "In the fifth paragraph, <b>affront</b> most nearly means",
+          "options": ["insult", "threat", "compliment", "attack", "joke"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "In the sixth paragraph, <b>encumbered</b> most nearly means",
+          "options": [
+            "delayed",
+            "endowed",
+            "concerned",
+            "troubled",
+            "burdened"
+          ],
+          "answer": "E",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

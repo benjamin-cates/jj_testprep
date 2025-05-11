@@ -1,0 +1,194 @@
+{
+  "subject": "Wordly Wise",
+  "name": "Wordly Wise 9 Quiz 10",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "1",
+          "options": ["conditional", "costly", "free", "restricted"],
+          "question": "Tuition at certain state schools is <b>gratis</b> to military veterans.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "2",
+          "options": ["paid", "billed", "charged", "gifted"],
+          "question": "Volunteers donate their time without expecting to be <b>remunerated</b>.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "3",
+          "options": ["manager", "patron", "donor", "receiver"],
+          "question": "The community will be the <b>beneficiary</b> of the money for the botanical gardens.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "4",
+          "options": ["requested", "denied", "endorsed", "lured"],
+          "question": "The community center <b>solicited</b> canned goods for the food bank.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "5",
+          "options": ["celebrated", "sympathized", "distracted", "gloated"],
+          "question": "Since none of them won the competition, the class <b>commiserated</b> together.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "6",
+          "options": ["collected", "distributed", "gathered", "earned"],
+          "question": "The choral group <b>garnered</b> several rave reviews at the state competition.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "7",
+          "options": ["start", "middle", "end", "duration"],
+          "question": "The paper recycling campaign had been Mr. Horowitz’s pet project since its <b>inception</b>.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "8",
+          "options": ["sever", "remove", "reattach", "bandage"],
+          "question": "The surgeon had to <b>amputate</b> Mel’s fingertip to save his hand.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "9",
+          "options": ["selfish", "generous", "giving", "kind"],
+          "question": "Howie felt <b>magnanimous</b> as long as there was money in his pocket.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "10",
+          "options": ["useable", "useless", "functional", "ornamental"],
+          "question": "The bureau blocked a <b>practicable</b> exit.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "11",
+          "options": ["fresh", "new", "overused", "original"],
+          "question": "Friends told her “all things happen for a reason” so often during her ordeal that the sentiment became <b>trite</b>. What best describes the sentiment?",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "12",
+          "options": ["scarce", "abundant", "rare", "extinct"],
+          "question": "There are <b>myriads</b> of fish in the sea. Which of the following best describes the fish?",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "13",
+          "options": ["appendix", "tonsils", "tooth", "toe"],
+          "question": "Which of the following is most likely to be <b>amputated</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "14",
+          "options": ["talent", "ability", "challenge", "gift"],
+          "question": "Which does not describe an <b>aptitude</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "15",
+          "options": ["welcome", "unwanted", "inconvenient", "dreaded"],
+          "question": "Which of the following is true of a <b>boon</b>? It is",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Read the passage and answer the questions"
+        },
+        {
+          "passage": [
+            "The United States government does not financially support its Olympic athletes. In many other countries around the world, athletes with enormous <b>aptitude</b> are identified at an early age. They then receive financial backing from the government to ensure they are trained to realize their greatest potential.",
+            "Unfortunately, for many U.S. athletes, the most difficult obstacle in the path to victory at the Olympics isn’t skill, effort, or talent—it’s their <b>incapacity</b> to raise the funds needed to continue full-time training. Athletes who are able to successfully <b>solicit</b> funding for their athletic careers from <b>magnanimous</b> donors have their basic costs covered, but these athletes are rarely wealthy. After all, Olympians aren’t <b>remunerated</b> for the hours they spend training. Only the most famous U.S. Olympic athletes are sponsored by companies and therefore paid the way we might expect, given their talent and status."
+          ]
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "16",
+          "options": ["muscles", "careers", "fitness", "talent"],
+          "question": "The meaning of <b>aptitude</b> (line 3) is",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "17",
+          "options": ["decision", "inability", "necessity", "mission"],
+          "question": "In line 9, <b>incapacity</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "18",
+          "options": ["start", "expand", "get from others", "increase"],
+          "question": "The word <b>solicit</b> (line 11) most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "19",
+          "options": ["wealthy", "invested", "generous", "encouraging"],
+          "question": "In line 12, <b>magnanimous</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "20",
+          "options": [
+            "paid for",
+            "celebrated for",
+            "honored for",
+            "understood for"
+          ],
+          "question": "In line 14, the phrase “<b>remunerated</b> for” means",
+          "type": "mcq"
+        }
+      ],
+      "type": "test"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+.lesson_assignment > * {
+  width: 9rem;
+}
+.lesson_assignment > button {
+  width: 1.7rem;
+  height: 1.7rem;
+  padding: 0;
+  border-radius: 0.2rem;
+}
+.lesson_assignment > button.active {
+  background: #236633;
+}
+.lesson_assignment:not(.active) {
+  color: #999;
+}
+.day_of_week {
+  width: 2rem;
+  height: 2rem;
+  color: black;
+  line-height: 0;
+  padding: 0;
+  border-radius: 0;
+  border: 0;
+  outline: none;
+}
+.day_of_week:not(:last-child) {
+  border-right: #888 1px solid;
+}
+.day_of_week.active {
+  color: white;
+  background: #236633;
+}
+.frequency_buttons {
+  display: flex;
+  flex-direction: row;
+}
+.material_body {
+  box-shadow: 1px 1px 6px 0px rgba(0, 0, 0, 0.3);
+  padding: 1rem;
+  border-radius: 1rem;
+  border: #888 1px solid;
+}
+.assign_confirmation_button {
+  background: #007700;
+  color: white;
+  transition: background 0.2s;
+  border: none;
+  border-radius: 0;
+}
+.assign_confirmation_button:hover {
+  background: #008800;
+}
+.reassign_button {
+  width: 100%;
+  border: none;
+  background: white;
+  transition: background 0.2s;
+}
+.reassign_button:hover {
+  background: #eee;
+}
+.cancel_button {
+  background: #880000;
+  color: white;
+  transition: background 0.2s;
+  border: none;
+  border-radius: 0;
+}
+.cancel_button:hover {
+  background: #990000;
+}
+.lesson_assignment:not(:first-child) {
+  border-top: #888 dashed 1px;
+}
+.select_lesson_button.active {
+  background: #236633;
+}
+.select_lesson_button.active:hover {
+  background: #2b7e3e;
+}
+.select_lesson_button {
+  background: #888;
+  transition: background 0.2s ease;
+  border: none;
+  border-radius: 0.6rem;
+  height: 2rem;
+  width: 2rem;
+  padding: 0;
+}
+.select_lesson_button:hover {
+  background: #999;
+}

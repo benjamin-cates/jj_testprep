@@ -1,0 +1,47 @@
+.user_listing {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  width: 40rem;
+  background: white;
+  color: black;
+  border: #888 1px solid;
+  box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 0.3rem;
+  transition: background 0.2s;
+}
+.user_listing:hover {
+  background: #f8f8f8;
+  transition: background none;
+  color: black;
+}
+.user_listing > :first-child {
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  align-items: center;
+}
+.user_listing > :first-child > :first-child {
+  width: 3rem;
+  height: 3rem;
+  border-radius: 100%;
+}
+.user_names {
+  display: flex;
+  flex-direction: column;
+}
+.user_names > :first-child {
+  font-weight: bold;
+}
+.vertical_list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.page > h2 {
+  text-align: center;
+}

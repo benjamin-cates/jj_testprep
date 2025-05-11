@@ -1,0 +1,211 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Quiz 16",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "number": "1",
+          "question": "Dennis boldly <b>contravened</b> the school’s directive about leaving the grounds during the day.",
+          "options": ["obeyed", "defied", "supported", "enforced"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "The <b>default</b> delivery method is surface mail; please check the “air mail” box if you wish for a faster delivery.",
+          "options": ["automatic", "preferred", "cheapest", "popular"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "Banners <b>emblazoned</b> with team colors were hung all around the stadium.",
+          "options": ["written", "pictured", "decorated", "described"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "Steven was nervous about his performance because he was just a <b>novice</b> at lacrosse.",
+          "options": ["substitute", "regular", "expert", "beginner"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "Despite her age, Aunt Myrtle was <b>spry</b> on the dance floor.",
+          "options": ["stiff", "clumsy", "lively", "awkward"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "number": "6",
+          "question": "To his <b>chagrin</b>, Dante tripped while trying to sneak up on Beatrice.",
+          "options": ["embarrassment", "delight", "annoyance", "unease"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "Marc’s <b>doldrums</b> continued for weeks after moving to a new city.",
+          "options": ["moodiness", "indifference", "contentment", "melancholy"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "A Pulitzer Prize is proof of a writer’s <b>eminence</b>.",
+          "options": ["power", "averageness", "prestige", "talent"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "Richard <b>expended</b> so much energy preparing for the game that he was too tired to enjoy it.",
+          "options": ["stored", "wasted", "used", "spent"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "The coat was held together by a few <b>tenuous</b> threads.",
+          "options": ["thin", "flimsy", "weak", "thick"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "A <b>belated</b> action is performed",
+          "options": ["early", "on time", "late", "not at all"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "How might someone <b>default</b> on a loan?",
+          "options": [
+            "by paying the loan on time",
+            "by missing a loan payment",
+            "by taking out a loan",
+            "by paying off a loan completely"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "When a password <b>expires</b>, it",
+          "options": [
+            "no longer works",
+            "becomes public",
+            "gets renewed",
+            "must be reset"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "Which of the following is the most <b>tenuous</b>?",
+          "options": ["helium", "iron", "cardboard", "cotton"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "How well known is a <b>truism</b> likely to be?",
+          "options": ["not at all", "a little bit", "somewhat", "very"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        { "section_header": "Read the passage and answer the questions" },
+        {
+          "passage": [
+            "To her <b>chagrin</b>, Pilar learned that the <b>eminent</b> biologist she’d idolized since she was a child wasn’t going to come speak at her school after all. Pilar and her classmates in Honors Biology had been looking forward to the visit for six months, when it was suddenly canceled. It wasn’t often that an award-winning scientist of such high <b>caliber</b> made it all the way out to the rural area where she lived. In fact, Pilar had never met a working biologist at all and really wanted to ask her some questions.",
+            "Pilar’s biology teacher, Ms. Assad, had arranged the visit through a <b>tenuous</b> connection—Ms. Assad’s second cousin had worked in the same research laboratory. Pilar was disappointed but didn’t lose hope. Her teacher was a big <b>exponent</b> of connecting young women to leaders in the science, math, and technology fields. She knew Ms. Assad would find another biologist willing to trek out to the middle of nowhere to talk to her class. It was just a matter of time."
+          ]
+        },
+        {
+          "number": "16",
+          "question": "The phrase “to her <b>chagrin</b>” (line 1) most nearly means",
+          "options": [
+            "to her disappointment",
+            "with shame",
+            "not surprisingly",
+            "to her delight"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "In line 1, <b>eminent</b> means",
+          "options": ["intelligent", "well-known", "female", "academic"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "The word <b>caliber</b> (line 6) most nearly means",
+          "options": ["diameter", "cost", "social status", "rank"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "In line 11, <b>tenuous</b> most nearly means",
+          "options": [
+            "unimportant",
+            "work-related",
+            "not very strong",
+            "family-related"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "In line 14, the phrase “<b>exponent</b> of” most nearly means",
+          "options": [
+            "proponent of",
+            "enemy of",
+            "explainer of",
+            "examiner of"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

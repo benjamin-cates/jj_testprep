@@ -1,0 +1,509 @@
+{
+  "name": "Wordly Wise 9 Lesson 1",
+  "pages": [
+    {
+      "name": "Definitions",
+      "type": "definition_table",
+      "content": [
+        {
+          "word": "bewail",
+          "definition": "v. To express deep regret or sorrow over.<br>Many football fans <b>bewailed</b> the replacement of real grass by AstroTurf when the new stadium was built."
+        },
+        {
+          "word": "destitute",
+          "definition": "<i>adj.</i> 1. Without resources or possessions, especially the necessities of life.<br>Winter is especially painful for <b>destitute</b> people in the cities of the Northeast.<br>2. Lacking; devoid of.<br>Staring at the blank sheet of paper on which I was supposed to write a poem, I found myself <b>destitute</b> of ideas.<br><b>destitution</b> <i>n.</i><br><b>Destitution</b> caused by the mid-nineteenth-century potato famine forced many Irish families to seek better lives in the United States."
+        },
+        {
+          "word": "detract",
+          "definition": "<i>v.</i> To take away, especially from the value, beauty, or importance of.<br>The family's loud music <b>detracts</b> from the peace and quiet of the beach.<br><b>detractor</b> <i>n.</i><br>The plan's <b>detractors</b> were especially critical of the expected cost of the new town hall."
+        },
+        {
+          "word": "emancipate",
+          "definition": "<i>v.</i> To set free from slavery; to liberate.<br>Some teenagers feel <b>emancipated</b> when they get a driver's license.<br><b>emancipation</b> <i>n.</i><br>In 1863, Abraham Lincoln's <b>Emancipation</b> Proclamation stated that all enslaved people in the Confederacy were, from then on, free."
+        },
+        {
+          "word": "extol",
+          "definition": "<i>v.</i> To praise highly.<br>The scout leader <b>extolled</b> the virtues of truth and honor."
+        },
+        {
+          "word": "flamboyant",
+          "definition": "<i>adj.</i> Excessively showy; unrestrained.<br>My conservative aunt considered her husband's brightly colored, boldly patterned necktie too <b>flamboyant</b> for the governor's reception.<br><b>flamboyance</b> or <b>flamboyancy</b> <i>n.</i><br>With an air of <b>flamboyance</b>, the actor flung out her arm and pointed to the door."
+        },
+        {
+          "word": "impetus",
+          "definition": "<i>n.</i> 1. A driving force; anything that causes an action.<br>Her hope of winning an athletic scholarship provided the <b>impetus</b> for years of grueling training on the swim team.<br>2. Increased activity resulting from a driving force.<br>Kala's low grades gave <b>impetus</b> to her increased focus on studying."
+        },
+        {
+          "word": "insuperable",
+          "definition": "<i>adj.</i> Incapable of being overcome or defeated.<br>During my senior year, passing Physics seemed an <b>insuperable</b> obstacle to graduation."
+        },
+        {
+          "word": "intermittent",
+          "definition": "<i>adj.</i> Not continuous; happening at intervals.<br>Showers were <b>intermittent</b> throughout the day, although the forecast had promised sunshine."
+        },
+        {
+          "word": "maxim",
+          "definition": "<i>n.</i> A general truth or rule of conduct; a short saying.<br>Remember the <b>maxim</b> \"Actions speak louder than words\" when you promise not to be late all the time."
+        },
+        {
+          "word": "obligatory",
+          "definition": "<i>adj.</i> Required or demanded.<br>Physical education is <b>obligatory</b> unless you have a medical excuse for skipping gym class."
+        },
+        {
+          "word": "plumb",
+          "definition": "<i>v.</i> 1. To measure the depth of water.<br>The lake was too deep for us to <b>plumb</b>.<br>2. To reach the deepest part of.<br>The bathyscaphe is a vessel designed to <b>plumb</b> the oceans of the world.<br>3. To understand by examining closely; to solve.<br>Her latest book of poems is a valiant attempt to <b>plumb</b> the human soul.<br><i>adj.</i> Straight up and down; vertical.<br>The bricklayer keeps checking to make sure that the wall being built is <b>plumb</b>."
+        },
+        {
+          "word": "vagabond",
+          "definition": "<i>n.</i> A person who wanders from place to place.<br>He spent a few years as a <b>vagabond</b> before settling in a city and getting a job in a factory.<br><i>adj.</i><br> The <b>vagabond</b> life of traveling musicians suited the members of the band."
+        },
+        {
+          "word": "visage",
+          "definition": "<i>n.</i> A face, especially one that expresses feelings.<br>The smiling <b>visage</b> of a young girl looked out from the portrait."
+        },
+        {
+          "word": "wheedle",
+          "definition": "<i>v.</i> 1. To coax by using sly persuasion or insincere praise.<br>He tried to <b>wheedle</b> his father into letting him go to a movie on a school night.<br>2. To gain by using sly persuasion or insincere praise.<br>Merritt <b>wheedled</b> information about the test from her friend who had taken it earlier in the day."
+        }
+      ]
+    },
+    {
+      "name": "Understanding Meanings",
+      "subheading": "Read the following sentences. If the word is in bold and used correctly, write C on the line. If the word is used incorrectly, write a new sentence using the word correctly.",
+      "type": "reading_check",
+      "content": [
+        {
+          "number": "1",
+          "question": "To <b>emancipate</b> someone is to release that person.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "2",
+          "question": "An <b>obligatory</b> assignment is one that causes great hardship.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "An obligatory assignment is one that is required."
+        },
+        {
+          "number": "3",
+          "question": "An <b>impetus</b> sets something into action.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "4",
+          "question": "To <b>plumb</b> a mystery is to understand it by thinking about it carefully.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "5",
+          "question": "A <b>vagabond</b> is a person who lacks the necessities of life.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "A vagabond is a person who wanders from place to place."
+        },
+        {
+          "number": "6",
+          "question": "To <b>wheedle</b> something from someone is to obtain it by cajoling that person into giving it.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "7",
+          "question": "To <b>extol</b> someone is to show very high regard for that person.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "8",
+          "question": "An <b>intermittent</b> noise is one that keeps stopping and starting.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "9",
+          "question": "A person's <b>visage</b> is that person's feelings about herself.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "A person's visage is that person's face"
+        },
+        {
+          "number": "10",
+          "question": "<b>Destitution</b> is the state of having all that one could ask for.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "Destitution is the state of lacking possessions."
+        },
+        {
+          "number": "11",
+          "question": "To <b>bewail</b> something is to complain about it.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "C"
+        },
+        {
+          "number": "12",
+          "question": "A <b>detractor</b> is someone to whom another person is attracted.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "A detractor is a person who speaks against the value of something."
+        },
+        {
+          "number": "13",
+          "question": "If something is <b>insuperable</b>, its parts cannot be separated from the whole.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "If something is insuperable, it is incapable of being overcome."
+        },
+        {
+          "number": "14",
+          "question": "A <b>maxim</b> is the larger of two amounts.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "A maxim is a general truth or short saying."
+        },
+        {
+          "number": "15",
+          "question": "<b>Flamboyance</b> is lack of restraint in one's dress or behavior.",
+          "type": "frq_short",
+          "mode": "reading_check",
+          "manual_grading": true,
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "name": "Word Study: Synonyms and Antonyms",
+      "subheading": "Each group of words contains two words that are either synonyms or antonyms. Select them. Then select S if they are synonyms or A if they are antonyms",
+      "type": "reading_check",
+      "content": [
+        {
+          "number": "1",
+          "type": "multi_select",
+          "options": ["bewail", "admit", "pretend", "celebrate", "S", "A"],
+          "answer": "TFFTFT",
+          "mode": "reading_check"
+        },
+        {
+          "number": "2",
+          "type": "multi_select",
+          "options": ["precise", "secret", "wealthy", "destitute", "S", "A"],
+          "answer": "FFTTFT",
+          "mode": "reading_check"
+        },
+        {
+          "number": "3",
+          "type": "multi_select",
+          "options": ["estimate", "detract", "obtain", "enhance", "S", "A"],
+          "answer": "FTFTFT",
+          "mode": "reading_check"
+        },
+        {
+          "number": "4",
+          "type": "multi_select",
+          "options": ["enslave", "provide", "assist", "emancipate", "S", "A"],
+          "answer": "TFFTFT",
+          "mode": "reading_check"
+        },
+        {
+          "number": "5",
+          "type": "multi_select",
+          "options": ["extol", "wheedle", "praise", "pause", "S", "A"],
+          "answer": "TFTFTF",
+          "mode": "reading_check"
+        },
+        {
+          "number": "6",
+          "type": "multi_select",
+          "options": ["towering", "active", "shy", "flamboyant", "S", "A"],
+          "answer": "FFTTFT",
+          "mode": "reading_check"
+        },
+        {
+          "number": "7",
+          "type": "multi_select",
+          "options": ["coax", "reward", "wheedle", "recover", "S", "A"],
+          "answer": "TFTFTF",
+          "mode": "reading_check"
+        },
+        {
+          "number": "8",
+          "type": "multi_select",
+          "options": ["impetus", "face", "visage", "payment", "S", "A"],
+          "answer": "FTTFTF",
+          "mode": "reading_check"
+        },
+        {
+          "number": "9",
+          "type": "multi_select",
+          "options": ["heavy", "deep", "plumb", "vertical", "S", "A"],
+          "answer": "FFTTTF",
+          "mode": "reading_check"
+        },
+        {
+          "number": "10",
+          "type": "multi_select",
+          "options": ["smart", "strict", "voluntary", "obligatory", "S", "A"],
+          "answer": "FFTTFT",
+          "mode": "reading_check"
+        }
+      ]
+    },
+    {
+      "name": "Images of Words",
+      "subheading": "Select the sentences that suggest the bold vocabulary word. There may be more than one correct answer or no correct answer.",
+      "type": "reading_check",
+      "content": [
+        {
+          "number": "1",
+          "question": "<b>wheedle</b>",
+          "type": "multi_select",
+          "options": [
+            "Fido stands by the door when he wants to be taken for a walk.",
+            "If you don’t help me, I’ll tell Mom who broke the window.",
+            "C’mon. You’re my favorite aunt; please lend me the money!"
+          ],
+          "answer": "FFT",
+          "mode": "reading_check"
+        },
+        {
+          "number": "2",
+          "question": "<b>destitution</b>",
+          "type": "multi_select",
+          "options": [
+            "Because of the financial catastrophe, the family had to rely temporarily on benefits from the government.",
+            "The pain is in my lower back, Doctor.",
+            "I can’t believe you spent fifty dollars on comic books!"
+          ],
+          "answer": "TFF",
+          "mode": "reading_check"
+        },
+        {
+          "number": "3",
+          "question": "<b>impetus</b>",
+          "type": "multi_select",
+          "options": [
+            "On the spur of the moment, I decided to join my sister in Maine.",
+            "I began to take music lessons after inheriting my grandfather’s violin.",
+            "I worked all night in order to meet the nine o’clock deadline."
+          ],
+          "answer": "FTT",
+          "mode": "reading_check"
+        },
+        {
+          "number": "4",
+          "question": "<b>extol</b>",
+          "type": "multi_select",
+          "options": [
+            "Ah! There’s nothing like fall in New England!",
+            "Maintaining a good diet and getting more exercise has made me feel renewed.",
+            "The Rangers are formidable rivals this season."
+          ],
+          "answer": "TFF",
+          "mode": "reading_check"
+        },
+        {
+          "number": "5",
+          "question": "<b>detract</b>",
+          "type": "multi_select",
+          "options": [
+            "My father said I’d be doing myself a favor if I cut my hair.",
+            "He looked very well groomed except for his muddy shoes.",
+            "I apologized for expressing my impatience with her slowness."
+          ],
+          "answer": "TTF",
+          "mode": "reading_check"
+        },
+        {
+          "number": "6",
+          "question": "<b>insuperable</b>",
+          "type": "multi_select",
+          "options": [
+            "There is no finer rose anywhere than the wild prairie rose.",
+            "No one has yet succeeded in rowing alone across the Pacific.",
+            "With five minutes to go, we were losing the basketball game by fifty points."
+          ],
+          "answer": "FTT",
+          "mode": "reading_check"
+        },
+        {
+          "number": "7",
+          "question": "<b>visage</b>",
+          "type": "multi_select",
+          "options": [
+            "My shoe size is 7.5 narrow.",
+            "I could tell at once that my answer had made her happy.",
+            "From this spot, you can see for miles in all directions."
+          ],
+          "answer": "FTF",
+          "mode": "reading_check"
+        },
+        {
+          "number": "8",
+          "question": "<b>obligatory</b>",
+          "type": "multi_select",
+          "options": [
+            "If you want to be on the committee, be at the next meeting.",
+            "Guests at White House state dinners must wear formal attire.",
+            "He finally had to admit that we were hopelessly lost."
+          ],
+          "answer": "TTF",
+          "mode": "reading_check"
+        },
+        {
+          "number": "9",
+          "question": "<b>bewail</b>",
+          "type": "multi_select",
+          "options": [
+            "Democracy doesn’t work well with such a poor voter turnout.",
+            "From our cabin, we could hear the eerie howling of the wolves.",
+            "We’d all be better off if television had never been invented."
+          ],
+          "answer": "TFT",
+          "mode": "reading_check"
+        },
+        {
+          "number": "10",
+          "question": "<b>maxim</b>",
+          "type": "multi_select",
+          "options": [
+            "Neither a borrower nor a lender be.",
+            "Can you lend me five dollars until Friday?",
+            "The money is in his pocket."
+          ],
+          "answer": "TFF",
+          "mode": "reading_check"
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary in Context",
+      "subheading": "Read the passage. Answer each question with a sentence. If a question does not contain a word from the lesson, use one in your answer. Use each word only once.",
+      "type": "reading_check",
+      "content": [
+        {
+          "name": "Faces in the Mountain",
+          "passage": [
+            "Visitors to South Dakota find that a trip to Mount Rushmore is almost <b>obligatory</b>, for there they can see one of America’s most awe-inspiring monuments. Carved into a granite mountainside, the colossal heads of four United States presidents are visible for a distance of sixty miles. Side by side, the <b>visages</b> of George Washington, Thomas Jefferson, Abraham Lincoln, and Theodore Roosevelt range from fifty to seventy feet in height. They are the work of the remarkable American sculptor and dramatic personality Gutzon Borglum.",
+            "Born in Idaho in 1867, Borglum led an artist’s <b>vagabond</b> life in America and Europe for twenty years before settling in New York City in 1901. There, he soon achieved an international reputation as a sculptor. The idea that “Small is beautiful” would not have applied to Borglum; his view was that “Bigger is better.”",
+            "The <b>impetus</b> for the Mount Rushmore project came in 1926 when the state historian of South Dakota, knowing Borglum’s views, invited him to create a monumental work of art for the Black Hills mountain region. Borglum accepted the challenge immediately, but the project he proposed did not meet with universal approval. Many felt that the carvings would <b>detract</b> from the area’s natural beauty. Cora Johnson, a South Dakota journalist, expressed such feelings when she wrote: “Man makes statues, but God made the mountains. Leave them alone.” Borglum, however, was not one to heed this advice.",
+            "The question of which national figures to honor caused much debate. Sioux Chief Red Cloud, who had fought against white encroachment on Native American lands, was one of the names proposed. Another was Susan B. Anthony, who had <b>bewailed</b> nineteenth-century women’s lack of the right to vote in political elections, and led the struggle to <b>emancipate</b> them from this deprivation. The final decision, however, was left to Borglum. Washington, Jefferson, and Lincoln were obvious choices, but Borglum had a personal reason for his fourth selection, a man of enormous energy who <b>extolled</b> physical fitness and vigorous activity. In his own life, Borglum strove to emulate his hero, so Theodore Roosevelt became the fourth figure honored at Mount Rushmore.",
+            "Money to pay for the project was a problem from the beginning, and work proceeded <b>intermittently</b>, especially after 1930, when the country was in the grip of the Great Depression. During those years, Borglum made frequent visits to the nation’s capital seeking financial assistance. Loath to stoop to <b>wheedling</b>, the sculptor managed to convince a reluctant Congress to provide funding to go on with the project. Nor was lack of funds the only problem Borglum had to grapple with. Because of the hard granite rock, the difficulties of carving out the faces had at first seemed <b>insuperable</b>, but Borglum solved the problem by exploding small charges of dynamite to remove pieces of rock. Under his supervision, workers in harnesses suspended from the mountaintop drilled, chipped, and chiseled away at the rock. So skillful was Borglum that his eye for precise measurement enabled him to tell if a line was <b>plumb</b> to a quarter of an inch.",
+            "During his lifetime, Borglum had earned enormous sums from the sale of his works. However, he did not embrace Benjamin Franklin’s <b>maxim</b> “A penny saved is a penny earned.” Instead, he lived a <b>flamboyant</b> lifestyle. His daughter, Mary Ellis, recalls: “He loved flashy cars and hired chauffeurs to drive them.” So careless was he about money that he died <b>destitute</b> on March 6, 1941, before he’d finished Mount Rushmore. It was left to his son Lincoln, who had assisted him throughout, to complete the project eight months later."
+          ]
+        },
+
+        {
+          "number": "1",
+          "question": "Why might the original <b>detractors</b> of the Mount Rushmore project have a different view of it today?",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "If they were around today, they would see that Mount Rushmore is <b>extolled</b>g as one of America's most awe-inspiring monuments."
+        },
+        {
+          "number": "2",
+          "question": "Why would it be incorrect to refer to the Mount Rushmore sculptures as statues?",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "They show only the visages of the four presidents."
+        },
+        {
+          "number": "3",
+          "question": "Why might a biographer of Borglum have difficulty describing what his subject was doing before 1901?",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Borglum led a <b>vagabond</b> life before 1901, moving between America and Europe, which made his activities harder to trace."
+        },
+        {
+          "number": "4",
+          "question": "List two <b>maxims</b> that Borglum did not believe in.",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Borglum did not believe in 'Small is beautiful' or 'A penny saved is a penny earned.'"
+        },
+        {
+          "number": "5",
+          "question": "Why was Susan B. Anthony considered a candidate for one of the places of honor on Mount Rushmore?",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She was considered because she <b>emancipated</b> women by fighting for their right to vote."
+        },
+        {
+          "number": "6",
+          "question": "Why might Borglum’s children have <b>bewailed</b> his <b>flamboyant</b> lifestyle?",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "He was destitute when he died, leaving them nothing."
+        },
+        {
+          "number": "7",
+          "question": "What was the <b>impetus</b> for Borglum’s trips to Washington, D.C., in the 1930s?",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "He wanted Congress to provide money to complete the monument."
+        },
+        {
+          "number": "8",
+          "question": "What were two almost <b>insuperable</b> problems that Borglum faced with this project?",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "The granite was so hard that it was difficult to shape the faces, and the work went on intermittently because there was not enough money."
+        },
+        {
+          "number": "9",
+          "question": "What skill did Borglum possess that would be especially useful when working on a large monument such as Mount Rushmore?",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Borglum could tell whether a line was plumb just by looking at it."
+        },
+        {
+          "number": "10",
+          "question": "How do you know that the state historian of South Dakota did not have to <b>wheedle</b> to get Borglum to take on the Mount Rushmore project?",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "The passage says that Borglum accepted the invitation immediately; he did not need to be coaxed."
+        },
+        {
+          "number": "11",
+          "question": "Why might Borglum’s son have felt it was <b>obligatory</b> to complete the monument?",
+          "mode": "reading_check",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "He may have felt it was <b>obligatory</b> to finish what his father had worked so hard to begin."
+        }
+      ]
+    }
+  ]
+}

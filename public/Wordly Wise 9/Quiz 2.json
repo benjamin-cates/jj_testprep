@@ -1,0 +1,202 @@
+{
+  "subject": "Wordly Wise",
+  "name": "Wordly Wise 9 Quiz 2",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "1",
+          "options": ["tool", "assistant", "necessity", "burden"],
+          "question": "They knew they couldn’t go without it, but the hikers felt their bottled water was an <b>encumbrance</b> as they headed into the canyon.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "2",
+          "options": ["clothing", "transportation", "nourishment", "dessert"],
+          "question": "International aid provided <b>sustenance</b> for the families hit hardest by the drought.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "3",
+          "options": ["passionate", "forbidden", "secret", "happy"],
+          "question": "<i>Wuthering Heights</i> is about Heathcliff and Cathy’s <b>torrid</b> love for each other.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "4",
+          "options": ["arrange", "toss", "scatter", "scramble"],
+          "question": "Michele took care to <b>array</b> the food on the plates.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "5",
+          "options": ["scary", "free", "sparse", "full"],
+          "question": "The ocean is <b>fraught</b> with dangerous creatures.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "6",
+          "options": ["common", "everywhere", "rare", "annoying"],
+          "question": "T-shirts featuring the mascot were <b>ubiquitous</b> at home games.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "7",
+          "options": ["guessed", "knew", "reasoned", "figured"],
+          "question": "From the dirty plate in the sink, Katie <b>deduced</b> that Jim had already eaten dinner.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "8",
+          "options": ["demonstrator", "leader", "follower", "slowpoke"],
+          "question": "Clark was always the <b>laggard</b> on class field trips.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "9",
+          "options": ["display", "design", "order", "mess"],
+          "question": "Bridget’s <b>array</b> of snapshots was fun to browse.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "10",
+          "options": ["cleverness", "inventiveness", "training", "stupidity"],
+          "question": "Inventors rely on their <b>ingenuity</b>.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "11",
+          "options": [
+            "above the observer.",
+            "below the observer.",
+            "beside the observer.",
+            "within the observer."
+          ],
+          "question": "The <b>zenith</b> is the spot directly",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "12",
+          "options": ["helpful.", "easy.", "wrong.", "difficult."],
+          "question": "To say that something is <b>inexplicable</b> means explaining it is",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "13",
+          "options": ["wind", "mud", "grass", "shoes"],
+          "question": "Which of the following is most likely to <b>encumber</b> a cross-country runner?",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "14",
+          "options": ["questioned.", "proven.", "believed.", "repeated."],
+          "question": "Something that is <b>incontrovertible</b> cannot be",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "15",
+          "options": ["slowly.", "reluctantly.", "quickly.", "incorrectly."],
+          "question": "When people act with <b>alacrity</b>, they act",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Read the passage and answer the following questions"
+        },
+        {
+          "passage": [
+            "Nyesha was standing in line to buy groceries with her aunt Rachelle when they saw a magazine with the headline “Film Location Revealed.” The photo underneath the headline was blurry, as if the picture had been taken from far away, and it showed two celebrities walking toward a car in a <b>torrid</b> desert.",
+            "“I knew it! They’re filming <i>Spy Me</i> in the Mojave Desert!” Nyesha’s aunt said, snatching the magazine from the rack with <b>alacrity</b>.",
+            "“Why are you so excited?” Nyesha said, laughing as her aunt peered at the celebrities <b>arrayed</b> in desert hiking gear, hats, and sunglasses.",
+            "“When I saw them being interviewed on TV, I told you—unlike I thought they would film there, and he said no one ever films on location anymore. Ha! He was wrong. Now here’s <b>incontrovertible</b> evidence that I was right! I’m buying this!”",
+            "Nyesha could picture the conversation, her aunt and uncle’s voices <b>fraught</b> with tension as each tried to prove the other wrong. Somehow, they loved these kinds of arguments. After nearly fifty years together, they enjoyed challenging each other. Nyesha chuckled as her aunt triumphantly slapped the magazine down on the counter to pay for it."
+          ]
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "16",
+          "options": ["hot and dry.", "passionate.", "fake.", "public."],
+          "question": "In line 5, <b>torrid</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "17",
+          "options": ["promptness.", "humor.", "eagerness.", "judgment."],
+          "question": "In line 8, <b>alacrity</b> most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "18",
+          "options": ["grouped.", "collected.", "ordered.", "dressed."],
+          "question": "The meaning of <b>arrayed</b> (line 10) is",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "19",
+          "options": ["unusual.", "visual.", "undeniable.", "understandable."],
+          "question": "The meaning of <b>incontrovertible</b> (line 15) is",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "20",
+          "options": [
+            "full of tension.",
+            "fighting tension.",
+            "scared of tension.",
+            "accompanied by tension."
+          ],
+          "question": "The phrase “<b>fraught</b> with tension” (line 17) most nearly means",
+          "type": "mcq"
+        }
+      ],
+      "type": "test"
+    }
+  ]
+}

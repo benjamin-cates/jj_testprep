@@ -1,0 +1,205 @@
+{
+  "subject": "Wordly Wise",
+  "name": "Wordly Wise 9 Quiz 8",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "1",
+          "options": ["appearance", "outfit", "behavior", "expression"],
+          "question": "Marilyn’s <b>demeanor</b> was affected by years in prison.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "2",
+          "options": ["expire", "slip", "disappear", "continue"],
+          "question": "It is easier to renew your license than to let it <b>lapse</b> and get it reinstated.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "3",
+          "options": ["initial", "likely", "possible", "final"],
+          "question": "The Food and Drug Administration is the <b>definitive</b> authority on nutrition.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "4",
+          "options": ["insult", "flatter", "inform", "suggest"],
+          "question": "Be careful not to <b>affront</b> your elders with offensive jokes.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "5",
+          "options": ["enemy", "outcast", "insider", "friend"],
+          "question": "Barry’s habit of gossiping made him a <b>pariah</b> to those he talked about.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "6",
+          "options": ["boisterous", "serene", "noisy", "disorderly"],
+          "question": "The five minutes after the last bell on the last day of school were the most <b>raucous</b> the school had known all year.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "7",
+          "options": ["hobby", "career", "pastime", "investment"],
+          "question": "When not studying or spending time with friends, Pat enjoyed his <b>avocation</b> of collecting first-edition books.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "8",
+          "options": ["ignorant", "learned", "knowledgeable", "smart"],
+          "question": "It helps to be <b>erudite</b> in many topics to win trivia contests.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "9",
+          "options": ["accomplice", "peer", "student", "mentor"],
+          "question": "Carolyn enjoyed guiding her <b>protégé</b>.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "10",
+          "options": ["clumsy", "skillful", "clever", "adept"],
+          "question": "Her <b>adroit</b> handling of the race car made it look easy.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "11",
+          "options": ["debate", "picket", "negotiate", "fight"],
+          "question": "A <b>militant</b> is one who is ready to",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "12",
+          "options": ["think", "lie", "forget", "remember"],
+          "question": "A <b>lapse</b> in memory will cause you to",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "13",
+          "options": ["a president", "a mechanic", "a gardener", "a secretary"],
+          "question": "Who is most likely to be <b>inducted</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "14",
+          "options": ["communicated", "spoken", "implied", "expressed"],
+          "question": "Which of the following best describes something that is <b>tacit</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "15",
+          "options": ["passionate", "easy", "struggling", "prolonged"],
+          "question": "Which word does not describe <b>crusading</b>?",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Read the passage and answer the questions"
+        },
+        {
+          "passage": [
+            "My little brother Javier can be hard to handle when he has to be quiet or keep still. We were at a classical-music concert when a six-year-old violin <b>prodigy</b> was introduced. As he started playing, Javier stood up, pointed at him, and said loudly, “He’s the same age as me!” The audience laughed, but it was such bad timing! I was so embarrassed. Meanwhile, Mami gave him her <b>tacit</b> approval by smiling as she shushed him.",
+            "The whole situation reminded me of my National Honor Society <b>induction</b> ceremony, when Javier had yelled, “THAT’S MY SISTER!” just as I was welcomed into the society by accepting a gold pin from my school’s principal. Javier just doesn’t understand that being <b>raucous</b> at formal events isn’t acceptable.",
+            "If he doesn’t learn soon when to keep quiet, I am not sure what I will do. Mami says he’s only six and will learn how to control himself better when he gets older. I hope so, because I don’t want to be at my high school or college graduation ceremony and have him <b>lapse</b> into behavior that makes me cringe and turn red with embarrassment."
+          ]
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "16",
+          "options": [
+            "highly accomplished musician",
+            "student with serious intentions",
+            "young person with extraordinary talent",
+            "academic genius"
+          ],
+          "question": "The meaning of <b>prodigy</b> (line 3) is",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "17",
+          "options": ["warm", "motherly", "silent", "clear"],
+          "question": "The word <b>tacit</b> (line 7) most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "18",
+          "options": ["final", "award", "graduation", "introduction"],
+          "question": "The meaning of <b>induction</b> (line 9) is",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "19",
+          "options": [
+            "rude and malicious",
+            "disruptive and loud",
+            "energetic",
+            "expressive"
+          ],
+          "question": "In line 12, <b>raucous</b> most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "20",
+          "options": [
+            "slip back into",
+            "blend into",
+            "change into",
+            "look into"
+          ],
+          "question": "The phrase “<b>lapse</b> into” (line 18) means",
+          "type": "mcq"
+        }
+      ],
+      "type": "test"
+    }
+  ]
+}

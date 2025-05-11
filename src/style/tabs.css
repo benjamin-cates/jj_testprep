@@ -1,0 +1,24 @@
+.tab_bar {
+  display: flex;
+  flex-direction: column;
+  justify-content: stretch;
+  position: fixed;
+  left: 0;
+  top: 50vh;
+}
+.tab {
+  transition: background 0.2s, color 0.2s;
+  background: #fff;
+  outline: 0;
+  border: none;
+  border-radius: 0.3rem;
+  color: #999;
+  text-align: left;
+  width: 100%;
+}
+.tab:hover {
+  background: #eee;
+}
+.tab.active {
+  color: rgb(0, 121, 0);
+}

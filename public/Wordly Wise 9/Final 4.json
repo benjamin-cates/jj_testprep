@@ -1,0 +1,171 @@
+{
+  "type": "test",
+  "pages": [
+    {
+      "name": "Final Test 4",
+      "content": [
+        {
+          "section_header": "Read the passage. Choose the best answer for each sentence or question about a bold word"
+        },
+        {
+          "passage": [
+            "A uniform is an outfit that identifies its wearer as a member of a certain group. Police officers, package carriers, and flight attendants all wear the <b>garb</b> of their professions as a signal to the public about who they are and what can be expected of them. But not only do uniforms tell group outsiders something about group insiders, they also serve important functions within the groups. On the field of play and on the field of battle, it is crucial to be able to distinguish friend from foe. Off the field, a uniform is a boost to morale for the group that wears it. These are the primary functions for sports and military uniforms alike.",
+            "Modern military uniforms evolved as wealthy, powerful nations began to build standing armies. The <b>impetus</b> behind the decision to dress <b>militants</b> alike was as much to display that wealth and power as it was to protect and uplift the wearer. By the late 18th century, some of the world’s armies wore sleeves tight enough to <b>impair</b> their musket aim and sword exercises, just for the sake of looking impressive.",
+            "The young American Revolutionary Army was much more practical. It asked that its soldiers wear a certain style of clothing, which included common things they probably already owned. They wore hunting shirts and their coats were usually brown, which was the most common color of clothing produced in the American Colonies at the time. But not having the right clothes was not a big problem, and if they needed to, they would wear whatever was available to them.",
+            "Revolutionary soldiers wore the design or color of their units on their hats. Like modern uniforms, the function of those hats was to identify members of the group. Hats were the hardest articles to come by and also the biggest source of a soldier’s pride. Officers added certain <b>flamboyant</b> touches to their hats, such as feathers or buttons. These touches soon became incorporated as part of the officially <b>sanctioned</b> uniform to signify the wearer’s rank and position.",
+            "The Quartermaster Corps was established on June 16, 1775, the same day that George Washington took over as Commander in Chief of the Revolutionary Army. A quartermaster is the supply officer, and is responsible for the army’s food, clothing, and equipment. The quartermaster’s responsibility includes uniforms. In 1779, Congress gave the Commander in Chief the authority to decide exactly how the Army should be uniformed. Things the Army wears and the ways in which it wears them has become a very complicated matter since then. The quartermaster now issues newly <b>inducted</b> soldiers everything they will need, from underwear to overcoats.",
+            "There are <b>myriad</b> shoes, hats, and everything in between that are acceptable to the army. They must be worn in specific combinations depending on the job, location, and occasion if the soldier is to <b>adhere</b> to the dress code. The details are very precise; it takes more than 300 pages of instructions to cover all the rules. The army considers appearance to be an indication of discipline among its soldiers, and it takes the dress code seriously. Inspecting officers subject their <b>subordinates</b> to intense <b>scrutiny</b> and <b>censure</b> those who fail to meet standards.",
+            "Modern military uniforms emphasize functionality. Today’s soldiers may be called upon to serve in any climate on Earth, and their clothing needs to provide the best comfort and protection possible. Soldiers in the desert, the jungle, the tropics, the Arctic, the city, and the country may look different. But the pride they feel when wearing their uniforms is the same."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "The <b>militants</b> in the second paragraph were",
+          "options": ["statesmen", "fighters", "poets", "royalty"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "An ANTONYM for <b>impair</b> is",
+          "options": ["weaken", "maintain", "improve", "lessen"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "As used in the fourth paragraph, a SYNONYM for <b>sanctioned</b> is",
+          "options": ["copied", "tolerated", "forbidden", "approved"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "When soldiers are <b>inducted</b>, they are",
+          "options": [
+            "admitted to service",
+            "banned from service",
+            "persuaded against service",
+            "forced into service"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "In this passage, <b>adhere</b> means",
+          "options": ["to ignore", "to follow", "to consider", "to defy"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "6",
+          "question": "As used in the sixth paragraph, <b>subordinates</b>",
+          "options": [
+            "are under someone else’s command",
+            "are free to do as they please",
+            "answer to no one",
+            "give orders"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "A SYNONYM for <b>censure</b> is",
+          "options": ["reward", "find fault", "praise", "disappoint"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Which is NOT a SYNONYM for <b>garb</b>?",
+          "options": ["style", "fabric", "costume", "outfit"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "An <b>impetus</b> is",
+          "options": [
+            "the cause of something",
+            "the result of something",
+            "the idea of something",
+            "the story of something"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "An ANTONYM for <b>myriad</b> is",
+          "options": ["certain", "unlimited", "boundless", "few"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "11",
+          "question": "In the first paragraph, <b>garb</b> most nearly means",
+          "options": ["clothing", "badge", "color", "haircut", "trend"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "In the second paragraph, <b>impetus</b> most nearly means",
+          "options": [
+            "excuse",
+            "history",
+            "driving force",
+            "logic",
+            "inspiration"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "What best captures the meaning of the word <b>flamboyant</b> in the fourth paragraph?",
+          "options": [
+            "important",
+            "impressive",
+            "colorful",
+            "showy",
+            "frivolous"
+          ],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "In the sixth paragraph, <b>myriad</b> most nearly means",
+          "options": ["various", "many", "few", "scarce", "specific"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "In the sixth paragraph, <b>scrutiny</b> most nearly means",
+          "options": ["examination", "glances", "standards", "norms", "tests"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

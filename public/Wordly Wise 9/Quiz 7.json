@@ -1,0 +1,197 @@
+{
+  "subject": "Wordly Wise",
+  "name": "Wordly Wise 9 Quiz 7",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "1",
+          "options": ["loud", "chatty", "shy", "reserved"],
+          "question": "Lisa became more <b>voluble</b> as she got more excited.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "2",
+          "options": ["suspected", "imagined", "doubted", "considered"],
+          "question": "Marcus <b>deemed</b> it necessary to spend all weekend preparing his presentation.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "3",
+          "options": ["excessive", "reasonable", "inexpensive", "expected"],
+          "question": "You can collect <b>exorbitant</b> fees for doing something everyone needs done but no one wants to do.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "4",
+          "options": ["loan", "plan", "license", "grant"],
+          "question": "The organization offered a <b>subsidy</b> to researchers willing to study pond scum.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "5",
+          "options": ["minimized", "complimented", "flattered", "inflated"],
+          "question": "Yvette <b>belittled</b> her contribution to the success of the project.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "6",
+          "options": ["approval", "disapproval", "criticism", "judgment"],
+          "question": "Paul expected a <b>censure</b> for being out past curfew.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "7",
+          "options": ["growing", "dying", "ailing", "falling"],
+          "question": "The tree is <b>moribund</b>.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "8",
+          "options": ["friendly", "romantic", "fickle", "hateful"],
+          "question": "Alex was uncomfortable seeing <b>amorous</b> displays in public.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "9",
+          "options": ["luxurious", "extravagant", "expensive", "meager"],
+          "question": "He used his bonus to treat his parents to a <b>sumptuous</b> dinner.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "10",
+          "options": ["reveal", "conceal", "disclose", "tell"],
+          "question": "Unfortunately, Greg is likely to <b>divulge</b> other people’s secrets.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question. Then fill in the circle next to your answer."
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "11",
+          "options": ["a judge", "a boss", "a friend", "a principal"],
+          "question": "Who is most likely to issue an <b>injunction</b> prohibiting something?",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "12",
+          "options": ["consequences", "validity", "truth", "luck"],
+          "question": "<b>Fateful</b> refers to something’s",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "13",
+          "options": ["attitude", "gratitude", "manners", "friends"],
+          "question": "An <b>ingrate</b> lacks",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "14",
+          "options": ["history", "math", "literature", "science"],
+          "question": "In which class are you most likely to study a <b>motif</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "15",
+          "options": ["denounce", "convince", "dissuade", "dominate"],
+          "question": "To <b>expostulate</b> is to attempt to",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Read the passage and answer the questions"
+        },
+        {
+          "passage": [
+            "“How could you <b>divulge</b> my secret to everyone?” Afshan asked the minute I sat down next to her at lunch.",
+            "“What are you talking about?” I replied, trying hard to remember any secrets she might have shared with me.",
+            "“You know,” she said.",
+            "I frowned. What had she told me that could be <b>deemed</b> a secret? The usually <b>voluble</b> Afshan sat there silently, her arms crossed under her irate visage. Finally something clicked in my apparently <b>moribund</b> brain cells.",
+            "“Oh! You mean telling Mina and Devere that you’re trying out for the track team?”",
+            "Afshan said nothing and nodded angrily, biting into her sandwich.",
+            "“I didn’t know you were keeping that a secret,” I said. “I thought you would want your best friends to know so they could wish you good luck.” Afshan’s face softened a little. I handed her my apple and banana. “I saved these for you,” I said.",
+            "Afshan rolled her eyes, but I also saw her start to smile.",
+            "“<b>Ingrate</b>!” I said, laughing. “You didn’t even thank me for providing healthy snacks so you’ll have energy to try out for the team!”",
+            "Finally, Afshan laughed, and I knew I was forgiven. What a relief!"
+          ]
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "16",
+          "options": ["reveal", "shout", "explain", "describe"],
+          "question": "The word <b>divulge</b> (line 1) most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "17",
+          "options": ["made", "revealed as", "considered", "presented as"],
+          "question": "The meaning of <b>deemed</b> (line 6) is",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "18",
+          "options": ["nice", "talkative", "friendly", "sympathetic"],
+          "question": "In line 7, <b>voluble</b> most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "19",
+          "options": ["nonexistent", "hard-working", "energized", "dying"],
+          "question": "In line 9, <b>moribund</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "20",
+          "options": ["unkind person", "enemy", "ungrateful person", "friend"],
+          "question": "The word <b>ingrate</b> (line 19) most nearly means",
+          "type": "mcq"
+        }
+      ],
+      "type": "test"
+    }
+  ]
+}

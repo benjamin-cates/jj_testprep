@@ -1,0 +1,205 @@
+{
+  "subject": "Wordly Wise",
+  "name": "Wordly Wise 9 Quiz 1",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "1",
+          "options": ["applauded", "regretted", "embraced", "denied"],
+          "question": "She <b>bewailed</b> the loss of her friend.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "2",
+          "options": ["showiness", "tastefulness", "dignity", "brightness"],
+          "question": "The Chief Justice dressed with a touch of <b>flamboyance</b>.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "3",
+          "options": ["reasonable", "silly", "unattainable", "minor"],
+          "question": "Two years of a foreign language seemed an <b>insuperable</b> requirement for admission to college.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "4",
+          "options": ["periodic", "constant", "unusual", "driving"],
+          "question": "The meteorologist predicted <b>intermittent</b> rain throughout the weekend.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "5",
+          "options": ["saying", "cliché", "principle", "advice"],
+          "question": "\"Early to bed, early to rise\" was a <b>maxim</b> Connie lived by.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word."
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "6",
+          "options": ["lacking", "without", "needful", "full"],
+          "question": "Because Harrison got most of his meals from vending machines, his diet was <b>destitute</b> of nutritional value.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "7",
+          "options": ["obstacle", "credibility", "boost", "energy"],
+          "question": "Hearing that the red team had finished the first leg of the race was an <b>impetus</b> to the blue team’s efforts.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "8",
+          "options": ["solves", "ignores", "understands", "examines"],
+          "question": "The anthropologist’s documentary series <b>plumbs</b> the mysteries of love.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "9",
+          "options": ["flattered", "coaxed", "gained", "demanded"],
+          "question": "Rebecca <b>wheedled</b> the car from her mother.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "10",
+          "options": ["liberate", "free", "enslave", "release"],
+          "question": "Abolitionist John Brown worked to <b>emancipate</b> American slaves.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Chose the best way to complete each sentence or answer each question."
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "11",
+          "options": ["police", "teachers", "circus performers", "grocers"],
+          "question": "Members of what profession are most likely to have a <b>vagabond</b> lifestyle?",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "12",
+          "options": ["deepest", "warmest", "shallowest", "coldest"],
+          "question": "What part of a lake will you reach if you <b>plumb</b> it?",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "13",
+          "options": [
+            "not enjoyable",
+            "particularly enjoyable",
+            "less enjoyable",
+            "more enjoyable"
+          ],
+          "question": "If someone’s talking <b>detracts</b> from your enjoyment of a movie, the experience is",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "14",
+          "options": ["poverty", "sickness", "crime", "hunger"],
+          "question": "<b>Destitution</b> most often refers to people’s",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "15",
+          "options": ["farmers", "foremen", "enslaved people", "laborers"],
+          "question": "Which group of people will most likely hope for <b>emancipation</b>?",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Read the passage and answer the following questions"
+        },
+        {
+          "passage": [
+            "Although it is not <b>obligatory</b> to help out when natural disasters occur, we are often moved to do something when we watch the news and see families and children who are victims. It is upsetting to see images of people who have lost everything and are <b>destitute</b> due to a hurricane, earthquake, or flood. But sometimes being upset urges us to take action.",
+            "While most of us can't help directly, we want to be like the hardworking police officers, firefighters, and rescue workers we <b>extol</b> for risking their lives in emergency situations. We want to contribute in some way. Fortunately, we can change the sad <b>visage</b> of at least one disaster victim into a smiling one by helping support those everyday heroes in our communities and by raising funds for national and international organizations such as the Red Cross.",
+            "You do not have to <b>plumb</b> the depths of your soul to figure out what to do when a natural disaster occurs. Just start by doing something small to help out however you can."
+          ]
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "16",
+          "options": ["important", "necessary", "required", "smart"],
+          "question": "In the passage, <b>obligatory</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "17",
+          "options": [
+            "having no possessions",
+            "having no hope",
+            "having no injuries",
+            "having an emergency"
+          ],
+          "question": "The word <b>destitute</b> most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "18",
+          "options": ["like", "agree with", "praise", "worry about"],
+          "question": "The meaning of <b>extol</b> is",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "19",
+          "options": ["front", "surface", "mood", "expression"],
+          "question": "In the passage, <b>visage</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "20",
+          "options": [
+            "measure your soul",
+            "think hard about",
+            "make yourself sad",
+            "make your soul vertical"
+          ],
+          "question": "The phrase <b>plumb the depths of your soul</b> means",
+          "type": "mcq"
+        }
+      ]
+    }
+  ],
+  "type": "test"
+}

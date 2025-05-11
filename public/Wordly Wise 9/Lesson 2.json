@@ -1,0 +1,601 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Lesson 2",
+  "pages": [
+    {
+      "name": "Definitions",
+      "type": "definition_table",
+      "content": [
+        {
+          "word": "alacrity",
+          "definition": "<i>n.</i> 1. Promptness in responding.<br>The seller of the classic car accepted my dad’s first offer with such <b>alacrity</b> that he wished he had offered less.<br>2. Eagerness.<br>At the beginning of recess, the children ran to the playground with <b>alacrity</b>."
+        },
+        {
+          "word": "array",
+          "definition": "<i>n.</i> 1. A large group of people or things.<br>The ship’s cabin contained an <b>array</b> of charts and maps.<br>2. An orderly arrangement or display.<br>The <b>array</b> of delectable desserts tempted the diners.<br><i>v.</i> 1. To place in order.<br>The marching band was <b>arrayed</b> at the entrance to the stadium for the Thanksgiving game.<br>2. To dress up.<br>The guests had <b>arrayed</b> themselves in elaborate attire for the elegant ball."
+        },
+        {
+          "word": "deduce",
+          "definition": "<i>v.</i> To draw a conclusion from given facts.<br>That you’re carrying an umbrella leads me to <b>deduce</b> that you expect it to rain."
+        },
+        {
+          "word": "encumber",
+          "definition": "<i>v.</i> 1. To weigh down or burden.<br>I stumbled through the door, <b>encumbered</b> by my two heavy suitcases.<br>2. To impede the action of.<br>Ice floes—large sheets of floating ice—<b>encumbered</b> the ships of early explorers in Antarctica.<br><i>n.</i> <b>Encumbrance</b>: Credit card debt was an <b>encumbrance</b> to the young couple as they struggled to save money for their first house."
+        },
+        {
+          "word": "fraught",
+          "definition": "<i>adj.</i> Full of or accompanied by (usually followed by with).<br>We abandoned our idea of traveling up the Amazon River when we learned that such a trip would be <b>fraught</b> with danger."
+        },
+        {
+          "word": "haphazard",
+          "definition": "<i>adj.</i> Marked by lack of plan, order, or direction.<br>He described in humorous detail his <b>haphazard</b> travels around Europe."
+        },
+        {
+          "word": "incontrovertible",
+          "definition": "<i>adj.</i> Impossible to dispute; unquestionable.<br>His statement that carbon-dioxide levels in the atmosphere are increasing is <b>incontrovertible</b>."
+        },
+        {
+          "word": "inexplicable",
+          "definition": "<i>adj.</i> Hard to explain or impossible to understand.<br>The disappearance of many ships and planes within the Atlantic Ocean’s Bermuda Triangle is <b>inexplicable</b> to me."
+        },
+        {
+          "word": "ingenious",
+          "definition": "<i>adj.</i> Marked by imagination, resourcefulness, or cleverness.<br>Disposing of garbage by converting it into energy is an <b>ingenious</b> idea.<br><i>n.</i> <b>Ingenuity</b>: When she brought in her science project, the child’s <b>ingenuity</b> was immediately apparent to her teachers."
+        },
+        {
+          "word": "laggard",
+          "definition": "<i>n.</i> One who falls behind others because of moving slowly or loitering; a straggler.<br>The <b>laggard</b> crossed the finish line long after the winner had broken the tape.<br><i>adj.</i> We have been <b>laggard</b> in getting the roof repaired."
+        },
+        {
+          "word": "sustenance",
+          "definition": "<i>n.</i> Something that provides nourishment; food needed to live.<br>Roots and berries provided <b>sustenance</b> for the sailors when the storm forced them to abandon ship."
+        },
+        {
+          "word": "torrid",
+          "definition": "<i>adj.</i> 1. Intensely hot and dry.<br>It was impossible to walk barefoot on the <b>torrid</b> desert sand.<br>2. Burning with passion.<br>The old letter was filled with <b>torrid</b> declarations of undying love."
+        },
+        {
+          "word": "traverse",
+          "definition": "<i>v.</i> To pass over, across, or through.<br>Route 66, which <b>traverses</b> the United States from Chicago to Los Angeles, is sometimes called “The Mother Road” because in 1932 it opened the West to automobile travel.<br>Guido <b>traversed</b> the narrow bridge on foot, terrified of falling into the river below."
+        },
+        {
+          "word": "ubiquitous",
+          "definition": "<i>adj.</i> Appearing to be present in large numbers or in many different places.<br>Tourists with cameras are <b>ubiquitous</b> in Europe every summer."
+        },
+        {
+          "word": "zenith",
+          "definition": "<i>n.</i> 1. The highest point; the peak.<br>Winning the Nobel Prize for literature was the <b>zenith</b> of her career.<br>2. The point in the sky directly above the observer.<br>The sun was well past the <b>zenith</b> by the time we started our hike."
+        }
+      ]
+    },
+
+    {
+      "name": "2A: Determining Precise Meaning",
+      "subheading": "Choose the most accurate paraphrase for each sentence.",
+      "type": "reading_check",
+      "content": [
+        {
+          "number": "1",
+          "question": "An <b>array</b> of toy soldiers caught my eye.",
+          "type": "mcq",
+          "options": [
+            "A photograph of toy soldiers caught my eye.",
+            "A display of toy soldiers caught my eye."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "2",
+          "question": "I <b>deduced</b> the amount I owed.",
+          "type": "mcq",
+          "options": [
+            "I figured out the amount I owed.",
+            "I reduced the amount I owed."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "3",
+          "question": "The project was <b>fraught</b> with problems.",
+          "type": "mcq",
+          "options": [
+            "The project had no problems.",
+            "The project had many problems."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "4",
+          "question": "I denied that I had been <b>laggard</b>.",
+          "type": "mcq",
+          "options": [
+            "I denied that I had been ill.",
+            "I denied that I had been late."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "5",
+          "question": "Stella was noted for her <b>torrid</b> acting on stage.",
+          "type": "mcq",
+          "options": [
+            "Stella was noted for her passionate acting on stage.",
+            "Stella was noted for her bad acting on stage."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "6",
+          "question": "He accepted my advice with <b>alacrity</b>.",
+          "type": "mcq",
+          "options": [
+            "He accepted my advice speedily.",
+            "He accepted my advice with caution."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "7",
+          "question": "I was too <b>encumbered</b> to keep going.",
+          "type": "mcq",
+          "options": [
+            "I was too tired to keep going.",
+            "I was too burdened to keep going."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "8",
+          "question": "The reasons he gave are <b>inexplicable</b>.",
+          "type": "mcq",
+          "options": [
+            "The reasons he gave are impossible to figure out.",
+            "The reasons he gave are glaringly obvious."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "9",
+          "question": "Mosquitoes are <b>ubiquitous</b> this time of year.",
+          "type": "mcq",
+          "options": [
+            "Mosquitoes are everywhere this time of year.",
+            "Mosquitoes are nowhere this time of year."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "10",
+          "question": "I immediately understood that the task required <b>ingenuity</b>.",
+          "type": "mcq",
+          "options": [
+            "I immediately understood that the task required special tools.",
+            "I immediately understood that the task required creative thought."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "11",
+          "question": "The job was done in a <b>haphazard</b> manner.",
+          "type": "mcq",
+          "options": [
+            "The job was done in a carefully planned manner.",
+            "The job was done in a careless manner."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "12",
+          "question": "The facts of the case are <b>incontrovertible</b>.",
+          "type": "mcq",
+          "options": [
+            "The facts of the case are open to other points of view.",
+            "The facts of the case cannot be doubted."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "13",
+          "question": "We offer <b>sustenance</b> to the hungry.",
+          "type": "mcq",
+          "options": [
+            "We offer food to the hungry.",
+            "We offer a place to live to the hungry."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "14",
+          "question": "The explorer <b>traversed</b> the sub-continent of India.",
+          "type": "mcq",
+          "options": [
+            "The explorer wrote in great detail about the sub-continent of India.",
+            "The explorer traveled across the sub-continent of India."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "15",
+          "question": "The company’s fortunes today are at their <b>zenith</b>.",
+          "type": "mcq",
+          "options": [
+            "The company’s fortunes today have never been better.",
+            "The company’s fortunes today have never been worse."
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "2B: Understanding Word Relationships",
+      "subheading": "Circle the letter next to each correct answer. There may be more than one correct answer.",
+      "type": "reading_check",
+      "content": [
+        {
+          "number": "1",
+          "type": "multi_select",
+          "question": "Which word or words are related to temperature?",
+          "options": ["alacrity", "torrid", "maxim", "sweltering"],
+          "answer": "FTFT"
+        },
+        {
+          "number": "2",
+          "type": "multi_select",
+          "question": "Which word or words are related to movement?",
+          "options": ["traverse", "deduce", "maneuver", "velocity"],
+          "answer": "TFTT"
+        },
+        {
+          "number": "3",
+          "type": "multi_select",
+          "question": "Which word or words are related to clothing?",
+          "options": ["clad", "apparel", "array", "laggard"],
+          "answer": "TTTF"
+        },
+        {
+          "number": "4",
+          "type": "multi_select",
+          "question": "Which word or words are related to highest?",
+          "options": ["impetus", "culmination", "torrid", "zenith"],
+          "answer": "FTFT"
+        },
+        {
+          "number": "5",
+          "type": "multi_select",
+          "question": "Which word or words are related to figure out?",
+          "options": ["traverse", "conclude", "deduce", "surmise"],
+          "answer": "FTTT"
+        },
+        {
+          "number": "6",
+          "type": "multi_select",
+          "question": "Which word or words are related to food?",
+          "options": ["delectable", "fraught", "delicacy", "sustenance"],
+          "answer": "TFTT"
+        },
+        {
+          "number": "7",
+          "type": "multi_select",
+          "question": "Which word or words are related to danger?",
+          "options": ["fraught", "peril", "laggard", "jeopardy"],
+          "answer": "TTFT"
+        },
+        {
+          "number": "8",
+          "type": "multi_select",
+          "question": "Which word or words are related to slow?",
+          "options": ["alacrity", "laggard", "lethargic", "plumb"],
+          "answer": "FTTF"
+        },
+        {
+          "number": "9",
+          "type": "multi_select",
+          "question": "Which word or words are related to unquestionable?",
+          "options": [
+            "incontrovertible",
+            "laggard",
+            "ubiquitous",
+            "flamboyant"
+          ],
+          "answer": "TFFF"
+        },
+        {
+          "number": "10",
+          "type": "multi_select",
+          "question": "Which word or words are related to disorganized?",
+          "options": ["intermittent", "ingenious", "concise", "haphazard"],
+          "answer": "FFFT"
+        }
+      ]
+    },
+    {
+      "name": "2C: Word Study – Similar Meanings",
+      "subheading": "Choose from the two words provided and use each word only once when completing the sentences. One space should be left blank.",
+      "type": "reading_check",
+      "content": [
+        {
+          "number": "1",
+          "question": "<b>torrid / hot</b> — The __________ waters off Greenland’s coast were once rich in cod.",
+          "type": "frq_short",
+          "answer": "blank",
+          "manual_grading": true
+        },
+        {
+          "number": "2",
+          "question": "<b>torrid / hot</b> — Temperatures on Venus reach a __________ 460 degrees Celsius.",
+          "type": "frq_short",
+          "answer": "torrid"
+        },
+        {
+          "number": "3",
+          "question": "<b>torrid / hot</b> — As it gets __________, iron begins to glow a dull red.",
+          "type": "frq_short",
+          "answer": "hot"
+        },
+        {
+          "number": "4",
+          "question": "<b>ingenious / clever</b> — The __________ dog could sit, stay, and roll over on command.",
+          "type": "frq_short",
+          "answer": "clever"
+        },
+        {
+          "number": "5",
+          "question": "<b>ingenious / clever</b> — The escape plan was so __________ that there was a good chance it would work.",
+          "type": "frq_short",
+          "answer": "ingenious"
+        },
+        {
+          "number": "6",
+          "question": "<b>ingenious / clever</b> — When things start to get __________, it’s time to go home.",
+          "type": "frq_short",
+          "answer": "blank",
+          "manual_grading": true
+        },
+        {
+          "number": "7",
+          "question": "<b>extol / praise</b> — They made a great effort to __________ the problem before it got bigger.",
+          "type": "frq_short",
+          "answer": "blank",
+          "manual_grading": true
+        },
+        {
+          "number": "8",
+          "question": "<b>extol / praise</b> — If you __________ people for good behavior, their manners may improve.",
+          "type": "frq_short",
+          "answer": "praise"
+        },
+        {
+          "number": "9",
+          "question": "<b>extol / praise</b> — Most leaders __________ hard work as the best way to get ahead.",
+          "type": "frq_short",
+          "answer": "extol"
+        },
+        {
+          "number": "10",
+          "question": "<b>zenith / peak</b> — Astronomers calculate the sky’s __________ as ninety degrees above the horizon.",
+          "type": "frq_short",
+          "answer": "zenith"
+        },
+        {
+          "number": "11",
+          "question": "<b>zenith / peak</b> — Demand for electricity reaches its __________ during very hot weather.",
+          "type": "frq_short",
+          "answer": "peak"
+        },
+        {
+          "number": "12",
+          "question": "<b>zenith / peak</b> — The bottom rung was broken at the ladder’s __________.",
+          "type": "frq_short",
+          "answer": "blank",
+          "manual_grading": true
+        },
+        {
+          "number": "13",
+          "question": "<b>visage / face</b> — Looking at the teacher’s stern __________ reminded us to behave.",
+          "type": "frq_short",
+          "answer": "visage"
+        },
+        {
+          "number": "14",
+          "question": "<b>visage / face</b> — Applying sunscreen to the __________ will help keep it from getting sunburned.",
+          "type": "frq_short",
+          "answer": "face"
+        },
+        {
+          "number": "15",
+          "question": "<b>visage / face</b> — The thin __________ of the mountain made it difficult to breathe.",
+          "type": "frq_short",
+          "answer": "blank",
+          "manual_grading": true
+        }
+      ]
+    },
+    {
+      "name": "2D: Understanding Contextual Meanings",
+      "subheading": "Read each sentence. If the bold word is used correctly, write a capital C on the line. If the word is used incorrectly, write a new sentence using the word correctly",
+      "content": [
+        {
+          "number": "1",
+          "question": "She was hired to take photos in an organized, methodical, and <b>haphazard</b> manner during the wedding.",
+          "type": "frq_short",
+          "answer": "The ants scurried in a haphazard way on the picnic bench.",
+          "manual_grading": true
+        },
+        {
+          "number": "2",
+          "question": "Being included in baseball’s Hall of Fame is the <b>zenith</b> of any ballplayer’s career.",
+          "type": "frq_short",
+          "answer": "C",
+          "manual_grading": true
+        },
+        {
+          "number": "3",
+          "question": "Cracking the secret code took a lot of <b>ingenuity</b>.",
+          "type": "frq_short",
+          "answer": "C",
+          "manual_grading": true
+        },
+        {
+          "number": "4",
+          "question": "He tried to remain <b>ubiquitous</b>, but we spotted him right away.",
+          "type": "frq_short",
+          "answer": "Cell phones are ubiquitous in most people's homes.",
+          "manual_grading": true
+        },
+        {
+          "number": "5",
+          "question": "It is an <b>incontrovertible</b> fact that Earth revolves around the sun.",
+          "type": "frq_short",
+          "answer": "C",
+          "manual_grading": true
+        },
+        {
+          "number": "6",
+          "question": "An <b>array</b> of light shone through the tiny aperture.",
+          "type": "frq_short",
+          "answer": "The bakery had an array of all my favorite flavors of muffin",
+          "manual_grading": true
+        },
+        {
+          "number": "7",
+          "question": "Each gift was carefully <b>encumbered</b> and set aside.",
+          "type": "frq_short",
+          "answer": "The car accident encumbered the line of cars trying to get to the concert on time",
+          "manual_grading": true
+        },
+        {
+          "number": "8",
+          "question": "The journey up the Amazon was <b>fraught</b> with danger.",
+          "type": "frq_short",
+          "answer": "C",
+          "manual_grading": true
+        },
+        {
+          "number": "9",
+          "question": "The temperature on Venus is a <b>torrid</b> 863 degrees.",
+          "type": "frq_short",
+          "answer": "C",
+          "manual_grading": true
+        },
+        {
+          "number": "10",
+          "question": "If you <b>deduce</b> eight from ten, you get two.",
+          "type": "frq_short",
+          "answer": "The jelly on my little sister's face helped me deduce that she had stolen a bite of my sandwich",
+          "manual_grading": true
+        }
+      ]
+    },
+
+    {
+      "name": "2E: Vocabulary in Context – Survivors in the Sand",
+      "subheading": "Answer each question with a sentence. If the question does not contain a word from the lesson, use one in your answer. Use each word only once.",
+      "type": "reading_check",
+      "content": [
+        {
+          "name": "Passage",
+          "passage": [
+            "An extensive family found under almost every rock are some of the most <b>ubiquitous</b> of insects—ants. Two thousand different species inhabit every part of the Earth except the polar regions. None demonstrates the ability to adapt to harsh environments better than the Black Desert Ant of North Africa.",
+            "This small ant, an apparently <b>ingenious</b> creature, lives in underground burrows. It emerges only when it goes searching for food, which is its main form of <b>sustenance</b>. The desert it has to <b>traverse</b> can extend for several hundred yards. Because it has no way of knowing where food might be found, the ant follows a <b>haphazard</b> walk with frequent changes of direction. Its task, <b>fraught</b> with danger, is to survive in the <b>torrid</b> North African desert, where temperatures can climb to 60°C when the sun reaches its <b>zenith</b>. In such heat, the ant’s life depends on the speed with which it can accomplish its goal. The Black Desert Ant has <b>lagged</b> behind in few races in its evolutionary history. That’s an achievement considering that its legs are a fraction of an inch long!",
+            "Having located a dead insect, the ant must return quickly to its burrow. This is no easy task for the ant, <b>encumbered</b> with a burden which may weigh more than it does. There is no time for the ant to wonder which direction it should go. Nor does it ask! What is remarkable about the black desert ant, and the reason it has aroused the interest of scientists, is its ability to return to its burrow directly following the shortest possible route.",
+            "The desert’s surface is quite featureless. So how does the ant know in which direction to go after it captures its prey? By studying the ant’s brain and observing its behavior, entomologists—scientists who study insects—were able to deduce the answer to this question. They concluded that the ant’s brain must store information about every change of direction, as well as the distances traveled.",
+            "Scientists found that the eyes of the black desert ant provide its brain with crucial information. Unlike human eyes, which have only a single lens, the eyes of the black desert ant contain an <b>array</b> of eighty lenses. These multiple lenses change the nature of the light passing through them, causing the light to become polarized. Polarized light vibrates in a single plane instead of scattering and vibrating in many planes at once, as is the case with light passing through a human eye. The polarized light is different for each area of the sky, so that every change in the ant’s path alters the pattern of polarized light registered by the ant’s brain. Should the ant turn, say, thirty degrees to the left, the changed pattern is recorded and stored in the ant’s memory. This pattern then shows the ant its location relative to its burrow, thus enabling the ant to return there directly.",
+            "Scientists next tackled the seemingly <b>inexplicable</b> mystery of how the ant measures distance. A surprisingly simple experiment yielded the answer. They set up a narrow track along which the ant had to travel from its burrow. After going thirty feet in a single direction, the ant found a dead insect obligingly placed there by the scientists. The ant now wished to retrace its steps and return to its burrow; but instead, the scientists forced it to go back along a parallel track much longer than the first. After going thirty feet, the ant stopped and began searching for its burrow. To the scientists, this provided <b>incontrovertible</b> proof that the ant measures the distance it has traveled by “counting” its footsteps.",
+            "Not all ants have to cope with the hostile environment of the North African desert, but each species of ant is amazing in its own way and has developed its own strategy for survival. Considering what they have learned about insects such as ants, it’s no wonder that many zoologists find entomology fascinating."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "What does the black desert ant's diet consist of?",
+          "type": "frq_short",
+          "answer": "It relies on dead insects for <b>sustenance</b>.",
+          "manual_grading": true
+        },
+        {
+          "number": "2",
+          "question": "In what significant way does the Black Desert Ant’s eye differ from a human eye?",
+          "type": "frq_short",
+          "answer": "The Black Desert Ant's eye has an <b>array</b> of lenses, unlike the human eye which has only one.",
+          "manual_grading": true
+        },
+        {
+          "number": "3",
+          "question": "What exceptions are there to the statement that ants are <b>ubiquitous</b>?",
+          "type": "frq_short",
+          "answer": "They are not found in polar regions",
+          "manual_grading": true
+        },
+        {
+          "number": "4",
+          "question": "Why is it unlikely that the black desert ant will be a <b>laggard</b> when it sets out of the burrow during the middle of the day?",
+          "type": "frq_short",
+          "answer": "In order to survivve, the ant must move quickly when the sun is at its <b>zenith</b> because the temperature can reach a deadly 160 degrees.",
+          "manual_grading": true
+        },
+        {
+          "number": "5",
+          "question": "How would the desert ant’s life be even more <b>fraught</b> with danger if it lost the use of its eyes?",
+          "type": "frq_short",
+          "answer": "Its eyes provide its brain with the information necessary to determine its position relative to its burrow so it can return there as quickly as possible.",
+          "manual_grading": true
+        },
+        {
+          "number": "6",
+          "question": "In what way does the desert ant return to the burrow with far less trial than on its journey outward in search of food?",
+          "type": "frq_short",
+          "answer": "It <b>traverses</b> the desert in a <b>haphazard</b> when searching for food, but it returns directly, following the shortest possible route.",
+          "manual_grading": true
+        },
+        {
+          "number": "7",
+          "question": "Why might the ant’s ability to find its way around the desert seem <b>inexplicable</b> to scientists at first?",
+          "type": "frq_short",
+          "answer": "It seemed difficult to explain because the desert has no landmarks or features to guide the ants",
+          "manual_grading": true
+        },
+        {
+          "number": "8",
+          "question": "What did scientists <b>deduce</b> from the fact that the eyes of the desert ant have multiple lenses?",
+          "type": "frq_short",
+          "answer": "The concluded that the great number of lenses provide the ant's brain with additional information on its location so that it can keep track of its position at all times.",
+          "manual_grading": true
+        },
+        {
+          "number": "9",
+          "question": "What is one detail from the passage that gives <b>incontrovertible</b> proof that desert ants have a built-in guidance system?",
+          "type": "frq_short",
+          "answer": "The ants take in and process information, as shown by their ability to return directly to their burrow, even if it means a change in route from the one they took leaving their burrow.",
+          "manual_grading": true
+        },
+        {
+          "number": "10",
+          "question": "According to the passage, what is one danger that Black Desert Ants are likely to encounter when they leave the burrow?",
+          "type": "frq_short",
+          "answer": "The <b>torrid</b> heat is the greatest danger.",
+          "manual_grading": true
+        },
+        {
+          "number": "11",
+          "question": "What detail in the passage supports the statement that desert ants can move with <b>alacrity</b>?",
+          "type": "frq_short",
+          "answer": "It says they can run three hundred feet in less than two minutes.",
+          "manual_grading": true
+        },
+        {
+          "number": "12",
+          "question": "Why is an ant's food such an <b>encumbrance</b>?",
+          "type": "frq_short",
+          "answer": "The food (a dead insect) can weig more than the ant carrying it.",
+          "manual_grading": true
+        },
+        {
+          "number": "13",
+          "question": "Give one example of <b>ingenuity</b> on the part of the scientists in their study of ants.",
+          "type": "frq_short",
+          "answer": "The scientist developed a clever experiment that showed how ants determine their distance from their burrow. They were also clever in figureing out the function of the multiple lenses of an ant's eye.",
+          "manual_grading": true
+        }
+      ]
+    }
+  ]
+}

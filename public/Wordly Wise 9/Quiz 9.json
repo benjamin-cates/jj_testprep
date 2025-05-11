@@ -1,0 +1,204 @@
+{
+  "subject": "Wordly Wise",
+  "name": "Wordly Wise 9 Quiz 9",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "1",
+          "options": ["value", "beauty", "demand", "age"],
+          "question": "Radiocarbon dating is used to establish the <b>antiquity</b> of artifacts.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "2",
+          "options": ["evaluated", "admired", "polished", "studied"],
+          "question": "The teammates <b>appraised</b> each other’s performances.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "3",
+          "options": ["withheld", "placed", "removed", "lost"],
+          "question": "The neighbors <b>reposed</b> their trust in small claims court to decide who was responsible for the fence.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "4",
+          "options": ["split", "mend", "shatter", "merge"],
+          "question": "Dan used his biggest knife to <b>cleave</b> the watermelon into halves.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "5",
+          "options": ["ornate", "unusual", "flamboyant", "plain"],
+          "question": "Roger had a hard time identifying his <b>nondescript</b> umbrella in the lost-and-found.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "6",
+          "options": ["animated", "lively", "brilliant", "dull"],
+          "question": "Daria took care with her guest list to make sure conversation at her dinner parties was always <b>scintillating</b>.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "7",
+          "options": ["examined", "glimpsed", "investigated", "inspected"],
+          "question": "Detectives <b>scrutinized</b> the accident scene before preparing their report.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "8",
+          "options": ["endorse", "belittle", "disparage", "insult"],
+          "question": "Music purists <b>depreciate</b> new fusion styles.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "9",
+          "options": ["artificial", "shiny", "fake", "natural"],
+          "question": "<b>Synthetic</b> fabrics offer both advantages and disadvantages over cotton and wool.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "10",
+          "options": ["forgery", "original", "replica", "copy"],
+          "question": "A <b>facsimile</b> of the signed contract was all the banker needed to begin processing the loan.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "11",
+          "options": ["trap", "deceive", "attract", "repel"],
+          "question": "<b>Allure</b> refers to the power to",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "12",
+          "options": ["balancing", "creating", "changing", "maintaining"],
+          "question": "<b>Transmuting</b> is most closely related to",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "13",
+          "options": ["an emerald", "a pearl", "a band", "a nugget"],
+          "question": "Which of the following is most likely to have <b>facets</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "14",
+          "options": ["vulnerable", "unaffected", "disrupted", "penetrated"],
+          "question": "If something is <b>impervious</b>, it is",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "15",
+          "options": ["uncertainty", "doubt", "puzzlement", "confidence"],
+          "question": "Which of the following does not describe a <b>quandary</b>?",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Read the passage and answer the questions"
+        },
+        {
+          "passage": [
+            "What do you picture when you hear the word <i>suburb</i>? Many people imagine rows of <b>nondescript</b>, boxlike houses, each a <b>facsimile</b> of the others. They imagine that the people living in the houses are all the same, too. It might be easy to make such an assumption from the outside. They can’t see beyond the sameness of the houses to realize that the individuals inside are different and distinctive.",
+            "Residents of houses in the suburbs, however, know just how unique they are, and how unique their communities are. Over time, as they make connections with friends and family within those communities, they become <b>impervious</b> to the judgment from outsiders. They know they don’t have to make a choice between <b>reposing</b> in a quiet suburban backyard and having <b>scintillating</b> conversations with fascinating people—they can have both. A good conversation can happen anywhere!"
+          ]
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "16",
+          "options": [
+            "indescribable",
+            "unremarkable",
+            "beyond description",
+            "distinctive"
+          ],
+          "question": "In line 2, <b>nondescript</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "17",
+          "options": ["exact copy", "different version", "a part", "a detail"],
+          "question": "The meaning of <b>facsimile</b> (line 3) is",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "18",
+          "options": [
+            "not penetrable",
+            "concerned by",
+            "not affected by",
+            "affected by"
+          ],
+          "question": "In line 11, <b>impervious</b> most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "19",
+          "options": [
+            "lying down",
+            "resting and relaxing",
+            "placing power in",
+            "sleeping"
+          ],
+          "question": "The word <b>reposing</b> (line 13) most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "20",
+          "options": ["flashing", "sparkling", "lively", "intellectual"],
+          "question": "In line 14, <b>scintillating</b> means",
+          "type": "mcq"
+        }
+      ],
+      "type": "test"
+    }
+  ]
+}

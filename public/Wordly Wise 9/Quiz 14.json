@@ -1,0 +1,197 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Quiz 14",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "number": "1",
+          "question": "The toddler’s vocabulary grew faster than his ability to <b>articulate</b> the words he was learning.",
+          "options": ["pronounce", "understand", "apply", "recognize"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "Billy was determined to <b>decimate</b> the aphids before they ate his rosebushes.",
+          "options": ["nourish", "kill", "repel", "embrace"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "Risk is an <b>inherent</b> part of investing.",
+          "options": ["unfortunate", "undesirable", "avoidable", "built-in"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "The class was embarrassed when Ms. Wright caught them <b>parodying</b> her accent.",
+          "options": ["imitating", "discussing", "filming", "noticing"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "It was hard for someone as <b>gregarious</b> as Laura to be alone for very long.",
+          "options": ["popular", "bored", "sociable", "eager"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "number": "6",
+          "question": "Carla spent a month <b>amassing</b> thousands of signatures on the petition.",
+          "options": ["gathering", "dispersing", "collecting", "accumulating"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "Roxana had never displayed such <b>pugnacity</b> before in her life.",
+          "options": ["passiveness", "aggression", "belligerence", "rudeness"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Jude bewailed his <b>reprehensible</b> involvement in the caper.",
+          "options": ["regretful", "innocent", "accidental", "deliberate"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "Thanks to Luke’s calling 911 immediately, the fire was still <b>tractable</b> when help arrived.",
+          "options": ["burning", "destructive", "contained", "unmanageable"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "Rather than giving a straightforward book report, Clyde chose to surprise his teacher with a <b>zany</b> skit depicting his favorite scene.",
+          "options": ["clownish", "comical", "serious", "funny"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "With which of the following are you least likely to <b>garb</b> yourself?",
+          "options": ["bathrobe", "shampoo", "pajamas", "shower cap"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "Another word for <b>maternal</b> is",
+          "options": ["fatherly", "brotherly", "sisterly", "motherly"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "If good manners are the result of <b>nurture</b>, they come from one’s",
+          "options": [
+            "inherited aptitudes",
+            "luck",
+            "dedicated studying",
+            "upbringing"
+          ],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "Which of the following is least <b>obtrusive</b>?",
+          "options": [
+            "a bull in a china shop",
+            "a hose in a garden",
+            "a dog in a courtroom",
+            "a cat in a cradle"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "What does one use to <b>articulate</b> something?",
+          "options": ["pictures", "words", "gestures", "ideas"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        { "section_header": "Read the passage and answer the questions" },
+        {
+          "passage": [
+            "Hiro wanted to join the Drama Club. He wasn’t the most <b>gregarious</b> person, but he liked the idea of socializing with people who loved acting, comedy, and theater as much as he did. So, despite the fact that he wasn’t very outgoing, he signed up.",
+            "The first meeting was much more fun than he could have ever imagined. He and the other members played some warm-up games, in which each person <b>articulated</b> his or her reasons for joining. One new girl said she wanted to star in a Broadway musical someday. No one laughed; instead, they all encouraged her to sing a song, and she did. She was amazing!",
+            "That made Hiro brave enough to tell everyone he acted out <b>parodies</b> of his favorite reality TV shows and uploaded them to the Internet. Before he knew it, he was acting out his favorite TV chef’s <b>dextrous</b> and theatrical handling of pots and pans, mimicking his <b>obtrusive</b> personality, yelling at people and lunging around an imaginary kitchen. By the time the meeting ended, Hiro had made two new friends, and lots of people had told him they’d subscribe to his video channel. He was so glad he’d joined the club!"
+          ]
+        },
+        {
+          "number": "16",
+          "question": "The word <b>gregarious</b> (line 2) most nearly means",
+          "options": ["quiet", "confident", "sociable", "talented"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "In line 8, <b>articulated</b> means",
+          "options": ["explained", "whispered", "acted out", "wrote"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "The meaning of <b>parodies</b> (line 13) is",
+          "options": ["dramas", "reviews", "imitations", "jokes"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "In line 15, <b>dextrous</b> means",
+          "options": ["fancy", "skillful", "forceful", "careful"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "The meaning of <b>obtrusive</b> (line 16) is",
+          "options": ["mean", "comical", "pushy", "interesting"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

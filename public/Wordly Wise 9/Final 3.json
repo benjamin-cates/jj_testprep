@@ -1,0 +1,148 @@
+{
+  "type": "test",
+  "name": "Final Test 3",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Read the passage. Choose the best answer for each sentence or question about a bold word"
+        },
+        {
+          "passage": [
+            "Andrew Carnegie lived the American Dream. Born in Scotland in 1835, Carnegie and his family struggled as machines took the place of skilled labor in weaving, which was his father’s trade. They came to America and settled in Pennsylvania when Carnegie was a teenager, and he soon found work in the railroad industry. He was already a rich man at 37 years old when he learned of a method for making the large quantities of steel the modern world was demanding. With wealth earned from making steel, he was able to give the world much more than building materials.",
+            "Carnegie’s partner in the steel business, Henry Clay Frick, was interested in profits as well as power. He believed in running his business the way he wanted and felt that the factory workers had no right to a say in the matter. On the other hand, Carnegie had written essays in which he supported the right of workers to form unions to protect their own interests. Frick’s normal response to pressure from unions was to absolutely refuse to <b>concede</b> their demands. Carnegie was interested in keeping the steel moving, and during one dispute with labor, he issued Frick an <b>injunction</b> to grant the union its demands and get the workers back to the factory.",
+            "Never <b>complacent</b>, Carnegie was always looking for better ways to do things. He wanted equipment of the highest <b>caliber</b>, on the cutting edge of technology. Better machines meant fewer employees were needed, but the strong unions prevented the company from letting anyone go. This time, Carnegie told Frick to handle it however he thought best, but not to give in. Carnegie and Frick wanted to do away with the union and <b>subjugate</b> its workers. The workers not only walked out, but they also tried to stop the factory from operating with replacements. Armed guards were brought in to protect the replacement workers, and a long, violent battle resulted. In the end, the state military had to step in to return control of the factory to its owners. Carnegie had won the fight, but the damage to his reputation as a champion for labor was done.",
+            "He did not want to be known as the man who went back on his word and betrayed the working class. In his later years, he focused his energy and fortune on making the world a better place. He wanted to achieve world peace, and <b>subsidized</b> those institutions he felt would advance that goal. The legacy of his philanthropy is <b>manifest</b> in the universities, libraries, hospitals, parks, and concert halls that bear his name.",
+            "Though he donated funds for nearly 3,000 libraries, his most notable gift may be a performance hall in New York City. Carnegie Hall opened its doors in 1891 and has hosted the world’s <b>virtuoso</b> musicians for more than a century. A performance at Carnegie Hall is considered by many to be the <b>zenith</b> of a career in the performing arts. Some of his other donations were considered <b>eccentric</b> even by those that received them. In 1904, on a tour of Princeton University’s athletic facilities, he had an idea. He decided that Princeton needed a lake where students could row to take their minds off of football, a sport of which he disapproved. Two years later, there was a three-mile lake at Princeton.",
+            "By the time he died in 1919, he had given away more than $350 million. Since then, the organizations he founded have given away over $2 billion. A <b>quirk</b> in his nature was that he disapproved of stockpiling wealth, yet he was the richest man of his time. He had a gift for gathering money, but it was balanced by the gifts he gave from it."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "To <b>concede</b> to labor's demands, Frick would have",
+          "options": [
+            "ignored them",
+            "granted them",
+            "negotiated over them",
+            "denied them"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "In the third paragraph, <b>caliber</b> means",
+          "options": ["excellence", "expense", "value", "rarity"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "An ANTONYM for <b>subjugate</b> is",
+          "options": ["liberate", "enslave", "empower", "subdue"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "A SYNONYM for <b>subsidize</b> is",
+          "options": ["authorize", "finance", "plan", "organize"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "In this passage, <b>virtuoso</b> describes",
+          "options": ["the most", "the least", "the best", "the worst"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "6",
+          "question": "A SYNONYM for <b>zenith</b> is",
+          "options": ["edge", "bottom", "middle", "top"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "In the fifth paragraph, <b>eccentric</b> means",
+          "options": ["odd", "ordinary", "generous", "unpredictable"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "An ANTONYM for <b>complacent</b> is",
+          "options": ["dissatisfied", "happy", "content", "curious"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "Which is NOT a SYNONYM for <b>manifest</b>?",
+          "options": ["apparent", "visible", "suggested", "evinced"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "An ANTONYM for <b>injunction</b> is",
+          "options": ["order", "demand", "request", "idyll"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "11",
+          "question": "In the second paragraph, <b>injunction</b> most nearly means",
+          "options": ["suggestion", "command", "threat", "urge", "plea"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "In the third paragraph, <b>complacent</b> most nearly means",
+          "options": ["restless", "calm", "worried", "satisfied", "anxious"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "What best captures the meaning of the word <b>manifest</b> in the fourth paragraph?",
+          "options": ["evident", "hidden", "suggested", "implied", "alive"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "In the fifth paragraph, <b>zenith</b> most nearly means",
+          "options": ["low point", "beginning", "end", "highlight", "peak"],
+          "answer": "E",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "In the sixth paragraph, <b>quirk</b> most nearly means",
+          "options": ["peculiarity", "defect", "charm", "element", "aspect"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

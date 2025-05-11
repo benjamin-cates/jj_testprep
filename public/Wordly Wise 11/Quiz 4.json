@@ -1,0 +1,210 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 11 Lesson 4 Test",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word."
+        },
+        {
+          "number": "1",
+          "question": "Viking marauders <b>pillaged</b> villages along the Atlantic coast.",
+          "options": ["inhabited", "built", "abandoned", "plundered"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "Many fugitives try to travel <b>incognito</b>.",
+          "options": ["alone", "together", "unrecognized", "frequently"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "Mark would not give up his <b>hapless</b> attempts at a writing career despite repeated failure.",
+          "options": ["addictive", "unfortunate", "successful", "witty"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "Premeditated murder is among the most <b>heinous</b> of crimes.",
+          "options": ["illegal", "regrettable", "savage", "vague"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "Gross anatomy, a class taken in the first year of medical school, <b>indoctrinates</b> some students and convinces others to pursue a different career.",
+          "options": ["trains", "changes", "graduates", "needs"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word."
+        },
+        {
+          "number": "6",
+          "question": "The uninitiated should be <b>circumspect</b> about mountain biking.",
+          "options": ["excited", "reckless", "careful", "fearful"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "Running for political office requires great <b>composure</b> under the constant attacks from opponents and scrutiny from the media.",
+          "options": ["money", "calm", "agitation", "thievery"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Ms. Diaz was appointed <b>interim</b> principal after Mr. Sheehan’s sudden departure.",
+          "options": ["substitute", "permanent", "emergency", "temporary"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "By donning a blonde wig and dark glasses, Bridget was able to walk <b>incognito</b> through her neighborhood.",
+          "options": ["disguised", "recognized", "guilty", "well-dressed"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "Religious cults provide more <b>indoctrination</b> than spiritual guidance.",
+          "options": ["training", "commercials", "objectivity", "humor"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "Which of the following is most likely to be found in the <b>environs</b> of a major city?",
+          "options": [
+            "a neighboring state",
+            "suburbs",
+            "rural areas",
+            "countries"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "Where is a robin’s egg most likely to be <b>ensconced</b>?",
+          "options": [
+            "in a nest",
+            "on a shelf",
+            "in a cupboard",
+            "in a pantry"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "Lost in a <b>reverie</b> about her upcoming vacation, when the teacher called on her, Annie was",
+          "options": ["frightened", "thrilled", "unprepared", "ready"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "Which is most likely to build an <b>edifice</b>?",
+          "options": [
+            "a science class",
+            "a bird in a tree",
+            "a child on a beach",
+            "generations of researchers"
+          ],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "Carson craved being <b>autonomous</b> at work so he could be",
+          "options": ["supervised", "independent", "realistic", "important"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Read the passage and answer the questions"
+        },
+        {
+          "passage": [
+            "Petra’s mother thought cemeteries were peaceful and beautiful, and as a result, so did Petra. She didn’t think they were at all creepy or scary.",
+            "One day, Petra stopped at a cemetery she’d visited before. She had a clear memory of a picnic there with her mother, right next to the <b>edifice</b> she was looking at now. It was an elaborate marble <b>mausoleum</b> with angels and roses carved into the door. She remembered that after they had eaten, her mother had fallen into a daydream while Petra watched an old man walk very slowly toward a grave, pausing after each step to steady himself. Petra had to tap her mother’s shoulder to jolt her out of her <b>reverie</b>.",
+            "‘That’s Mr. Goldstein,’ her mother told her. ‘He must be visiting his wife’s grave. Poor guy, he’s the most <b>hapless</b> person I know. His wife passed away last year, right after his business went bankrupt and his boat was destroyed in a bad storm.’ Petra and Ms. Goldman fell into silence once again.",
+            "When Petra saw Mr. Goldstein stumble overa stone in his path, she jumped up to help him ‘’Be <b>circumspect</b> when you approach him so you don’t scare him,’ her mother warned. ‘On top of everything else, he’s going deaf and won’t hear you coming.’"
+          ]
+        },
+        {
+          "number": "16",
+          "question": "The word <b>edifice</b> (line 6) most nearly means",
+          "options": [
+            "grave",
+            "cemetery",
+            "large, imposing structure",
+            "statue built over time"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "In line 7, <b>mausoleum</b> means",
+          "options": ["gravestone", "cathedral", "floral display", "tomb"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "The word <b>reverie</b> (line 12) most nearly means",
+          "options": ["place", "diagram", "daydream", "agreement"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "The meaning of <b>hapless</b> (line 14) is",
+          "options": ["hopeless", "friendly", "forgetful", "unlucky"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "The meaning of <b>circumspect</b> (line 18) is",
+          "options": ["creepy", "reckless", "unstable", "cautious"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

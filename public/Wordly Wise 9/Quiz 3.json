@@ -1,0 +1,195 @@
+{
+  "subject": "Wordly Wise",
+  "name": "Wordly Wise 9 Quiz 3",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "1",
+          "options": ["fragmented", "split", "wasted", "devoted"],
+          "question": "Maria <b>consecrated</b> her energies to creating health care for everyone.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "2",
+          "options": ["reference", "expression", "request", "invitation"],
+          "question": "My only clue about what was bothering him was the one <b>allusion</b> he made to his job.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "3",
+          "options": ["ignorant", "unaware", "immoral", "accidental"],
+          "question": "Speeding in neighborhoods at night without headlights shows a <b>wanton</b> disregard for the safety of people who may be walking.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "4",
+          "options": ["liberty", "freedom", "control", "triumph"],
+          "question": "The conqueror sought <b>subjugation</b> of the conquered.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "5",
+          "options": ["advised", "requested", "asked", "urged"],
+          "question": "Tasneem <b>exhorted</b> her friends not to smoke.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "6",
+          "options": ["careful", "irresponsible", "lazy", "careless"],
+          "question": "Martin’s mother worried about her <b>feckless</b> son.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "7",
+          "options": ["natural", "artificial", "stiff", "formal"],
+          "question": "He presented the corsage in a <b>stilted</b> manner.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "8",
+          "options": ["playful", "merry", "somber", "frolicsome"],
+          "question": "The <b>wanton</b> kittens found homes quickly.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "9",
+          "options": ["spoil", "deny", "pamper", "indulge"],
+          "question": "Maureen found that the trick to babysitting was to <b>dote</b> on the children.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "10",
+          "options": ["thoughtful", "active", "meditative", "reflective"],
+          "question": "Nathan’s <b>pensive</b> moods never last long.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "11",
+          "options": ["victimized", "lying", "judging", "accused"],
+          "question": "Someone <b>implicated</b> in a crime is likely to be",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "12",
+          "options": ["collecting", "scattering", "spreading", "dispersing"],
+          "question": "Which of the following least describes <b>dissemination</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "13",
+          "options": ["physical", "moral", "emotional", "spiritual"],
+          "question": "“The <b>trauma</b> of being orphaned as a child” describes what kind of shock?",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "14",
+          "options": ["a poem", "a song", "an essay", "a statue"],
+          "question": "Which of the following is least likely to be a <b>lamentation</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "15",
+          "options": ["language", "money", "currency", "coinage"],
+          "question": "<b>Monetary</b> is least likely to describe",
+          "type": "mcq"
+        },
+        {
+          "passage": [
+            "Diana, Princess of Wales, died on August 31, 1997, as the result of a <b>traumatic</b> car accident. Her public life as a princess was filled with grandeur, <b>pomp</b>, and ceremony, but her private life was known to be troubled. Following her divorce from Prince Charles, she remained beloved by the British people and had millions of fans and followers worldwide. She had a significant impact on the world of fashion and in popular culture that extended beyond her role as a member of royalty. On the day of her funeral, thousands of people lined the streets <b>lamenting</b> her sudden death, at age thirty-six, with an incredible outpouring of sorrow. Although tabloid newspapers <b>alluded</b> to murder as the reason for her death, it was discovered later that it was nothing but a tragic accident, rather than a <b>wanton</b> act of violence."
+          ]
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "16",
+          "options": ["horrifying", "menacing", "unfortunate", "emotional"],
+          "question": "In line 2, <b>traumatic</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "17",
+          "options": ["music", "showy display", "fine fashion", "celebrity"],
+          "question": "The meaning of <b>pomp</b> (line 3) is",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "18",
+          "options": [
+            "celebrating",
+            "talking about",
+            "feeling grief about",
+            "singing about"
+          ],
+          "question": "The word <b>lamenting</b> (line 10) most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "19",
+          "options": ["hinted at", "disapproved of", "rejected", "proved"],
+          "question": "The phrase <b>alluded to</b> (line 12) means",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "20",
+          "options": [
+            "playful",
+            "deliberate and wrong",
+            "hidden",
+            "unfortunate"
+          ],
+          "question": "The word <b>wanton</b> (line 14) most nearly means",
+          "type": "mcq"
+        }
+      ],
+      "type": "test"
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Midterm Test 2",
+  "pages": [
+    {
+      "content": [
+        {
+          "name": "The Last of the Seven Wonders",
+          "passage": [
+            "Of the Seven Wonders of the Ancient World, only Egypt’s Great Pyramid at Giza still stands. It is the tomb of the pharaoh Khufu, and it was an <b>antiquity</b> even in <b>antiquity</b>. Its earliest history comes from a Greek traveler named Herodotus who visited Egypt nearly 2,500 years ago, when the pyramid was already 2,000 years old. With its <b>facets</b> covered in polished white limestone, it shone like a diamond rising from the desert. Light bounced off its surface like a mirror, and it could be seen from hundreds of miles away, even at night. Although the reflective surface was stolen ages ago, the monument is still an impressive sight.",
+            "The pyramid is made up of 2,300,000 blocks of stone. Each weighs about 2 1/2 tons. The sides are more than 750 feet long. All are within a few inches of the same length. The four sides face the four points of a compass—north, south, east, and west—perfectly. It is forty-five centuries old, and it remained the tallest structure on Earth for the first forty-three. Scholars have spent generations <b>speculating</b> about how the huge stone blocks of the pyramid were put into place so precisely with the <b>rudimentary</b> tools they had. Levers, ramps, sleds, and even space aliens have been considered as possible methods for moving the stone. The theory that the blocks were pushed or pulled up spiral ramps made slick with mud is accepted as the most <b>practicable</b> of the theories considered. Another puzzle to scientists is the question of how the pyramid was built so evenly, with evenly sloped and centered triangular sides. Some suggest that they measured the distance from a <b>plumb</b> line. Others believe the same ramp system used to move the stones provided a level gauge of the pyramid’s progress.",
+            "Despite the widely held belief that ancient enslaved people built the massive structure, experts believe that free Egyptians were more likely the workforce for the project. Every year when the river Nile flooded their farmland, farmers would come to Giza to work until the water receded. Some think they did it for the glory of Egypt and to <b>venerate</b> their king, but others think they may not have participated entirely of their own free will. They were most likely <b>remunerated</b> generously with food rather than with wages.",
+            "In ancient Egypt, all dead rulers were entombed with the <b>paraphernalia</b> of wealth, power, and comfort they might need in the next world. Many were buried with untold treasures, like the famous treasure of Tutankhamen, better known today as King Tut. The problem of how to protect the <b>consecrated</b> monuments from thieves is as old as the pyramids themselves. No matter how <b>ingenious</b> the pyramid designers were, they could not build a tomb that was truly <b>impervious</b> to robbers. Thieves in the 9th century decided to search for Khufu’s fortune, and they found no trace of the pharaoh. Nobody knows what happened to Khufu’s mummy and treasure. Some believe the treasure was stolen before that attempt. Some think the pyramid never held the riches at all. Still others think that the ancient wonder did its job perfectly, and continues to protect Khufu in his final place of <b>repose</b>."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "In this passage, “in <b>antiquity</b>” means",
+          "options": [
+            "in Egypt",
+            "in the desert",
+            "in ancient times",
+            "in stories"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "An ANTONYM for <b>rudimentary</b> is",
+          "options": ["primitive", "simple", "expensive", "advanced"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "In the second paragraph, <b>practicable</b> means",
+          "options": ["feasible", "unlikely", "complicated", "popular"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "A <b>plumb</b> line is",
+          "options": ["level", "crooked", "dotted", "vertical"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "To <b>venerate</b> means",
+          "options": [
+            "to flatter",
+            "to show respect",
+            "to embarrass",
+            "to threaten"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "6",
+          "question": "A SYNONYM for <b>paraphernalia</b> is",
+          "options": ["personal belongings", "tributes", "gifts", "decoys"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "In the fourth paragraph, <b>consecrated</b> means",
+          "options": ["valuable", "enormous", "holy", "tempting"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "What is an <b>ingenious</b> designer like?",
+          "options": ["determined", "happy", "lazy", "clever"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "To <b>repose</b> means to",
+          "options": ["rest", "celebrate", "withdraw", "escape"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "In this passage, <b>remunerated</b> means",
+          "options": ["charged", "paid", "fed", "honored"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "11",
+          "question": "To say the Great Pyramid was an <b>antiquity</b> means it was",
+          "options": [
+            "run down",
+            "valuable",
+            "from an ancient time",
+            "a popular attraction",
+            "unusual"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "In the first paragraph, <b>facets</b> most nearly means",
+          "options": ["stones", "sides", "windows", "jewels", "edges"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "What best captures the meaning of the word <b>speculating</b> in the second paragraph?",
+          "options": [
+            "studying",
+            "arguing",
+            "researching",
+            "testing",
+            "guessing"
+          ],
+          "answer": "E",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "In the third paragraph, <b>remunerated</b> most nearly means",
+          "options": ["lured", "rewarded", "punished", "bribed", "motivated"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "In the fourth paragraph, <b>impervious</b> most nearly means",
+          "options": [
+            "incapable of being penetrated",
+            "impossible to escape from",
+            "unconcerned about",
+            "frustrating",
+            "inviting"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

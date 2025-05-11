@@ -1,0 +1,154 @@
+{
+  "type": "test",
+  "name": "Final Test 1",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Read the passage. Choose the best answer for each sentence or question about a bold word"
+        },
+        {
+          "passage": [
+            "Koko the gorilla, a <b>scion</b> of the San Francisco Zoo’s breeding program, was named Hanabi-Ko, Japanese for “fireworks child,” in honor of her birth on Independence Day in 1971. Life for Koko really became exciting a year later when she met Penny Patterson, a scientist who wanted to see if the great ape could communicate. Penny had learned of the work of other researchers who had taught sign language to chimpanzees, and she believed that gorillas had the same <b>potential</b>. Koko was an able student, with both the manual <b>dexterity</b> and intellectual <b>faculties</b> needed to express herself.",
+            "Koko’s vocabulary has grown to more than 1,000 signs. She has used her hands to express everything from humor and emotion to insults and moral judgment. She even <b>articulates</b> her thoughts with some signs she invented herself. The language <b>prodigy</b> also understands some 2,000 spoken words. Although she is talented at communicating with her hands, Koko still uses her voice. Apparently purring and barking remain the best way to <b>enunciate</b> her pleasure and displeasure.",
+            "Her <b>maternal</b> side began to emerge when she told Penny she wanted a kitten. She chose a gray kitten and named him “All Ball.” She <b>nurtured</b> the kitten like a mother would a baby gorilla, carrying him on her back and playing with him. When she lost All Ball to a traffic accident, the sadness she <b>evinced</b> showed that gorillas experience the same basic feelings as humans. Her fans all over the world felt tremendous <b>empathy</b> for her grief.",
+            "Koko has expressed her desire to <b>propagate</b>, but she has not become a mother. To improve the chances of Koko having a baby, Penny set up a form of video dating. She showed Koko videos of different male gorillas and let Koko decide which one she liked most. She chose Ndume, and the two are good friends. Penny and the zoo hope that Koko and her companion will one day become parents. One big question the researchers would like answered is whether Koko would <b>impart</b> her ability to communicate to her child. They have seen her shaping her doll’s hands into signs, and they think she would probably pass that skill along to her young.",
+            "Even if Koko never becomes the mother of a line of talking apes, she has improved the public image of her species enormously. Before Koko, gorillas were thought to be stupid, vicious brutes incapable of intelligent thought or tender emotion. Since she learned to express herself in a way humans can understand, she has set the record straight."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "In the first paragraph, <b>dexterity</b> refers to use of",
+          "options": ["the head", "the mouth", "the legs", "the hands"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "What types of abilities are <b>faculties</b>?",
+          "options": ["natural", "learned", "taught", "unusual"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "As used in the second paragraph, a SYNONYM for <b>articulates</b> is",
+          "options": ["says", "expresses", "writes", "implies"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "Like Koko, a <b>prodigy</b> is",
+          "options": ["extraordinary", "childish", "common", "young"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "A SYNONYM for <b>maternal</b> is",
+          "options": ["playful", "motherly", "caring", "selfish"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "6",
+          "question": "As used in the third paragraph, <b>nurtured</b> means",
+          "options": ["cared for", "abandoned", "watched", "raised"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "A SYNONYM for <b>empathy</b> is",
+          "options": ["feeling", "sorrow", "understanding", "frustration"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "As used in the fourth paragraph, <b>propagate</b> means",
+          "options": ["reproduce", "adopt", "grow", "change"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "An ANTONYM for <b>evinced</b> is",
+          "options": ["displayed", "showed", "hid", "expressed"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "Which is NOT a SYNONYM for <b>impart</b>?",
+          "options": ["give", "bestow", "remove", "convey"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "11",
+          "question": "In the first paragraph, <b>scion</b> most nearly means",
+          "options": [
+            "resident",
+            "graduate",
+            "celebrity",
+            "favorite",
+            "descendant"
+          ],
+          "answer": "E",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "In the first paragraph, <b>potential</b> most nearly means",
+          "options": [
+            "intelligence",
+            "capacity",
+            "desire",
+            "talent",
+            "ability"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "What best captures the meaning of the word <b>enunciate</b> in the second paragraph?",
+          "options": ["describe", "suggest", "imply", "announce", "say"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "In the third paragraph, <b>evinced</b> most nearly means",
+          "options": ["expressed", "felt", "experienced", "seemed", "withheld"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "In the fourth paragraph, <b>impart</b> most nearly means",
+          "options": ["demonstrate", "bestow", "show", "explain", "take"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

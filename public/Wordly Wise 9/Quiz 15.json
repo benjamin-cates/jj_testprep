@@ -1,0 +1,210 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Quiz 15",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select a SYNONYM for each bold word"
+        },
+        {
+          "number": "1",
+          "question": "Many long hours practicing were <b>antecedent</b> to Kerri’s triumph at the tournament.",
+          "options": ["unrelated", "preceding", "coincidental", "subsequent"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "Breaking her previous record by several seconds was <b>indubitable</b> proof that the sprinter had been training seriously.",
+          "options": ["unquestionable", "likely", "probable", "suspicious"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "We gathered enough <b>momentum</b> on the downhill part of the trail to carry us up the hill at the end.",
+          "options": ["energy", "determination", "breath", "support"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "Dark clouds represented a <b>potential</b> flaw in the plan for a perfect day outdoors.",
+          "options": ["growing", "unexpected", "unlikely", "possible"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "Her mother insisted that Rachel begin to exercise her <b>volition</b> in everyday matters.",
+          "options": ["power", "choice", "reason", "responsibility"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "number": "6",
+          "question": "The divide between industrialized and developing nations is <b>accentuated</b> by the infant mortality rate.",
+          "options": ["emphasized", "minimized", "intensified", "stressed"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "A classical music <b>aficionado</b>, Derrick had season tickets to the symphony.",
+          "options": ["detractor", "fan", "supporter", "follower"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Sam had a <b>visceral</b> reaction to the Holocaust documentary.",
+          "options": ["powerful", "strong", "mild", "allergic"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "Melissa was frustrated by the <b>disingenuous</b> way Liz cancelled their plans.",
+          "options": ["awkward", "insincere", "indirect", "straightforward"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "The family became <b>jaded</b> about eating lobster after a year in Maine.",
+          "options": ["weary", "excited", "dulled", "distrustful"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "<b>Centrifugal</b> has to do with something’s relative position to the",
+          "options": ["edge", "corner", "center", "surface"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "Origami is the Japanese art of making <b>convoluted</b> shapes from single sheets of paper. It involves",
+          "options": ["cutting", "folding", "gluing", "coloring"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "What body part is involved in <b>decapitating</b>?",
+          "options": ["the head", "the arms", "the hands", "the legs"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "A <b>masochistic</b> person is one who enjoys",
+          "options": ["books", "sleep", "exercise", "pain"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "If something is <b>obsolescent</b>, how likely are you to see it in use?",
+          "options": ["very", "somewhat", "moderately", "hardly at all"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Read the passage and answer the questions"
+        },
+        {
+          "passage": [
+            "“Fans of horror movies must be <b>masochists</b>! After all, it can’t be fun to watch blood and gore and <b>viscera</b> just splash across the screen! That stuff makes me cringe!” Jorge said, shivering. It was getting close to Halloween, and we were sitting in our seats at the movie theater. We’d just watched two trailers for horror movies. They were pretty tame, actually, and a little funny to me. Same old scary music, same old tricks to make viewers jump out of their seats.",
+            "“I must be <b>jaded</b>, because horror movies make me laugh,” I said, grabbing a handful of popcorn from the bucket we were sharing. “I wouldn’t go to one of my own <b>volition</b>,” I admitted, “but the gory scenes are so fake, they’re funny.”",
+            "“Come on,” Jorge said, “don’t be <b>disingenuous</b>. You must get a little scared, or at least disgusted!”",
+            "“I’m being totally honest,” I said. “If you make it through two or three horror movies, you’ll see how they’re all alike and how hard the filmmakers are trying to scare you. Then you’ll just laugh because they’re ridiculous and predictable.”"
+          ]
+        },
+        {
+          "number": "16",
+          "question": "In line 1, <b>masochists</b> means",
+          "options": [
+            "people who are crazy",
+            "people who are stupid",
+            "people who enjoy pain",
+            "people who like movies"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "The word <b>viscera</b> (line 2) most nearly means",
+          "options": [
+            "special effects",
+            "internal organs of the body",
+            "liquids",
+            "dead bodies"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "In line 9, <b>jaded</b> most nearly means",
+          "options": [
+            "too bored",
+            "frightened",
+            "too used to it to be affected",
+            "worried"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "The phrase “of my own <b>volition</b>” (line 11) most nearly means",
+          "options": [
+            "voluntarily",
+            "without adult supervision",
+            "by myself",
+            "with enthusiasm"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "In line 13, <b>disingenuous</b> means",
+          "options": ["obnoxious", "silly", "unkind", "insincere"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

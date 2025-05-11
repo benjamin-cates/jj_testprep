@@ -1,0 +1,205 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 11 Lesson 2 Test",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word."
+        },
+        {
+          "number": "1",
+          "question": "Owning a vintage limited edition Rolls Royce is a display of great <b>opulence</b>.",
+          "options": ["intelligence", "skill", "wealth", "rudeness"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "Reid was <b>disconcerted</b> by the stranger’s barrage of personal questions.",
+          "options": ["charmed", "flustered", "enlightened", "pleased"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "Some sports fans can get <b>choleric</b> when they think a referee makes a bad call.",
+          "options": ["giddy", "self-righteous", "disappointed", "angry"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "The police are seeking a <b>marauder</b> whose reputation has made people all over Connecticut feel unsafe in their homes.",
+          "options": ["thief", "shoplifter", "racketeer", "embezzler"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "Fresh air and sunshine can have a <b>therapeutic</b> effect on people.",
+          "options": ["sickening", "healthful", "terrifying", "depressing"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word."
+        },
+        {
+          "number": "6",
+          "question": "Grandmother wished she had a more <b>utilitarian</b> design.",
+          "options": ["awkward", "impractical", "realistic", "overbearing"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "Melinda’s clients valued her <b>patrician</b> style of interior design.",
+          "options": ["unrefined", "elegant", "stingy", "inherited"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Her father knew Lina was sick when she remained <b>phlegmatic</b> even when he offered to take her out for a pancake breakfast.",
+          "options": ["calm", "excited", "belligerent", "practical"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "Sonya’s <b>choleric</b> brother was always unpredictable in public.",
+          "options": ["funny", "excitable", "calm", "nervous"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "As soon as they started hitting below the belt, the referee <b>interposed</b> himself between the boxers.",
+          "options": ["intervened", "removed", "relaxed", "positioned"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Chose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "Which of the following would be considered <b>accoutrements</b> of a painter?",
+          "options": ["museums", "lenses", "brushes", "visitors"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "Which of the following is most likely to be among Africa’s <b>fauna</b>?",
+          "options": ["an oasis", "a rhinoceros", "a palm tree", "a violet"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "Someone with a <b>propensity</b> for fighting has",
+          "options": [
+            "a largely peaceful personality",
+            "an ability to win most fights",
+            "a belief that fighting is wrong",
+            "a tendency to get into fights"
+          ],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "A gymnast with only a <b>modicum</b> of grace is likely to give what type of performance?",
+          "options": [
+            "a clumsy one",
+            "a stellar one",
+            "an agile one",
+            "an expert one"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "Drew could only feel <b>aggrieved</b> when the scholarship committee treated him so",
+          "options": ["kindly", "generously", "enthusiastically", "unfairly"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Read the passage and answer the questions"
+        },
+        {
+          "passage": [
+            "Sadaf liked watching spy movies with her mother, particularly the James Bond films. Both of them laughed at the way the villains in these films <b>comported</b> themselves. They acted like <b>marauding</b> pirates in one scene, completely out of control and thirsty for money and power, and then turned around in the next scene and behaved in a much more <b>patrician</b> manner, delicately sipping from a cup of tea. The contrast was often hilarious.",
+            "One afternoon Sadaf watched a marathon of James Bond movies with her mom, and they both noticed something equally amusing. Many of the villains seemed to share a predilection for keeping hungry sharks in tanks at their headquarters. They supposedly served a very <b>utilitarian</b> purpose: to kill the villain’s enemies.",
+            "“They’re very expensive pets,” Sadaf’s mother said, giggling. “Imagine spending all that money on special shark food and equipment in hopes that your enemy would fall into your private tank and be eaten.”",
+            "This got Sadaf thinking about all the various <b>fauna</b> in James Bond films. No matter what exotic location, there was always a threatening animal to be dealt with by the hero—scorpions, a giant squid, crocodiles, alligators, etc. How much did it cost the film companies to take care of and use these animals?"
+          ]
+        },
+        {
+          "number": "16",
+          "question": "The phrase “<b>comported</b> themselves” (line 3) means",
+          "options": [
+            "defeated themselves",
+            "acted and behaved",
+            "looked at themselves",
+            "controlled themselves"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "The word <b>marauding</b> (line 4) most nearly means",
+          "options": ["angry", "evil", "plundering", "greedy"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "In line 6, <b>patrician</b> means",
+          "options": ["peaceful", "gentle", "wild", "civilized"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "The meaning of <b>utilitarian</b> (line 13) is",
+          "options": ["practical", "decorative", "ridiculous", "perfect"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "In line 19, <b>fauna</b> most nearly means",
+          "options": ["sea creatures", "weapons", "animals", "pets"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

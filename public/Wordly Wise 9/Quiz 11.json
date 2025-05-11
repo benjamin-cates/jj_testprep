@@ -1,0 +1,208 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Quiz 11",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "number": "1",
+          "question": "Terri has an <b>aversion</b> to cold-blooded animals.",
+          "options": ["fondness", "warmness", "opposition", "attraction"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "Chalmers works two jobs to <b>defray</b> the cost of his education and avoid borrowing.",
+          "options": ["pay", "defer", "extend", "forgive"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "Personal computers have <b>superseded</b> typewriters as the most popular tool for word processing.",
+          "options": ["dominated", "subjugated", "joined", "replaced"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "The administration was caught off guard by the <b>furor</b> over the decision to stop offering the salad bar in the cafeteria.",
+          "options": ["uproar", "silence", "calm", "serenity"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "The manager wrote the weekly schedule on a calendar so it would be <b>tangible</b> for all involved.",
+          "options": ["vague", "understandable", "indistinct", "uncertain"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "number": "6",
+          "question": "Waiting until the last minute to register meant Terry had to choose from the <b>paucity</b> of elective options that were still available.",
+          "options": ["abundance", "scarcity", "insufficiency", "lack"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "Dad tried to provide one last <b>idyllic</b> summer weekend before school started again.",
+          "options": ["calm", "pleasant", "carefree", "traumatic"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Among the <b>amenities</b> in the community were all the shops within walking distance.",
+          "options": ["comforts", "detriments", "bonuses", "conveniences"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "<b>Complacency</b> is the enemy of improvement.",
+          "options": ["concern", "satisfaction", "contentment", "calm"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "The formula failed because it was based on a <b>fallacious</b> assumption.",
+          "options": ["wrong", "mistaken", "correct", "untrue"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "What remains after an animal has <b>decomposed</b>?",
+          "options": ["roots", "sprouts", "skin", "elements"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "Which of the following does not describe a <b>facetious</b> remark’s tone?",
+          "options": ["serious", "joking", "playful", "kidding"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "In paying attention to <b>amenities</b>, one would not display",
+          "options": ["manners", "courtesy", "aggression", "politeness"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "Where are things <b>envisaged</b>?",
+          "options": [
+            "in books",
+            "in the mind",
+            "in photographs",
+            "in museums"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "Which of the following is the least <b>porous</b>?",
+          "options": ["sponge", "marble", "Swiss cheese", "cotton ball"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Read the passage and answer the questions"
+        },
+        {
+          "passage": [
+            "The <b>paucity</b> of inexpensive options for vacations that please the whole family can make parents of teens very stressed. Sharing hotel rooms isn’t easy with grown children, but getting extra rooms is often too expensive.",
+            "Going camping is a popular choice for many families trying to work within a budget, but this option can cause conflict. Teens may think <b>amenities</b> such as Internet access and cell-phone service are absolutely essential. Many are <b>averse</b> to going without daily showers and hate the idea of using a chemical toilet instead of one that flushes. What seems <b>idyllic</b> to parents seeking time in nature can feel like a nightmare to their children. The parents may love the smell of <b>decomposing</b> leaves or enjoy the sound of rain as it hits their tent, but their teens may be holding their noses and complaining loudly about being unable to sleep."
+          ]
+        },
+        {
+          "number": "16",
+          "question": "In line 1, <b>paucity</b> means",
+          "options": ["variety", "lack", "choice", "number"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "The word <b>amenities</b> (line 7) most nearly means",
+          "options": [
+            "technicalities",
+            "social courtesies",
+            "things that are nice to have",
+            "necessary items"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "The phrase “are <b>averse</b> to” (line 9) most nearly means",
+          "options": [
+            "like",
+            "are opposed to",
+            "are pleased by",
+            "look forward to"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "In line 11, <b>idyllic</b> means",
+          "options": [
+            "peaceful and relaxing",
+            "tolerable",
+            "exciting",
+            "important"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "The word <b>decomposing</b> (line 13) most nearly means",
+          "options": ["wet", "fall", "decaying", "fresh"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

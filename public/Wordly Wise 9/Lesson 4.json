@@ -1,0 +1,543 @@
+{
+  "name": "Wordly Wise 9 Lesson 4",
+  "pages": [
+    {
+      "name": "Definitions",
+      "type": "definition_table",
+      "content": [
+        {
+          "word": "adage",
+          "definition": "<i>n.</i> An old saying that has come to be accepted as true; a proverb.<br>Preparing to move again, we comforted ourselves with the <b>adage</b> 'A rolling stone gathers no moss.'"
+        },
+        {
+          "word": "camaraderie",
+          "definition": "<i>n.</i> Good will and warm feelings among friends.<br>A spirit of <b>camaraderie</b> filled the room where the group gathered for its high-school reunion."
+        },
+        {
+          "word": "contend",
+          "definition": "<i>v.</i> 1. To struggle with.<br>Mail carriers sometimes have to <b>contend</b> with bothersome dogs.<br>2. To maintain or assert.<br>Opponents of nuclear power plants <b>contend</b> that the risk of a malfunction in one is too great.<br><b>contention</b> <i>n.</i> 1. A conflict or struggle.<br>Miwa and Jessie are in <b>contention</b> for first place on the honor roll.<br>2. A point made in an argument.<br>It is my <b>contention</b> that the ghost you claim to have seen was merely a shadow on the wall."
+        },
+        {
+          "word": "extraneous",
+          "definition": "<i>adj.</i> Not necessary; irrelevant.<br>When you revise your written instructions, eliminate any <b>extraneous</b> details."
+        },
+        {
+          "word": "hubbub",
+          "definition": "<i>n.</i> Noisy confusion; uproar.<br>Fans thronged onto the field in a <b>hubbub</b> of excitement when their team won the pennant."
+        },
+        {
+          "word": "meander",
+          "definition": "<i>v.</i> 1. To follow a winding course.<br>The Mississippi River <b>meanders</b> from northern Minnesota to the Gulf of Mexico.<br>2. To wander aimlessly.<br>Shoppers at the sidewalk sale <b>meandered</b> through the street looking for bargains."
+        },
+        {
+          "word": "odoriferous",
+          "definition": "<i>adj.</i> Having or giving off a smell.<br><b>Odoriferous</b> fumes spewed from the truck’s exhaust."
+        },
+        {
+          "word": "paraphernalia",
+          "definition": "<i>n.</i> 1. Personal belongings.<br>We accumulated so much <b>paraphernalia</b> that the closets couldn’t hold it all.<br>2. Equipment associated with a particular activity.<br>We keep our riding <b>paraphernalia</b> in the barn."
+        },
+        {
+          "word": "punctilious",
+          "definition": "<i>adj.</i> Careful of and attentive to details, especially ones relating to good manners and behavior.<br>A <b>punctilious</b> host tries to leave nothing to chance when preparing for guests."
+        },
+        {
+          "word": "recuperate",
+          "definition": "<i>v.</i> To regain health or strength.<br>Her doctor expects Amanda to <b>recuperate</b> quickly."
+        },
+        {
+          "word": "regale",
+          "definition": "<i>v.</i> To entertain or delight.<br>Dish <b>regaled</b> his friends with his funny stories."
+        },
+        {
+          "word": "sedentary",
+          "definition": "<i>adj.</i> Doing or requiring a lot of sitting.<br>Operating a computer is <b>sedentary</b> work."
+        },
+        {
+          "word": "Spartan",
+          "definition": "<i>adj.</i> Marked by simplicity and lack of luxury.<br>The sergeant described the <b>Spartan</b> way of life to the new recruits at the training camp."
+        },
+        {
+          "word": "temporal",
+          "definition": "<i>adj.</i> Relating to the everyday world as opposed to that which is spiritual or eternal.<br>Medieval kings were the <b>temporal</b> rulers of their states, but in religious matters they accepted the Pope’s authority."
+        },
+        {
+          "word": "wry",
+          "definition": "<i>adj.</i> 1. Turned or bent to one side in distaste or humor.<br>He gave a <b>wry</b> smile as he admitted believing such a far-fetched tale.<br>2. Amusing in a quiet but sharp way.<br>The poem’s <b>wry</b> wit made me smile inwardly."
+        }
+      ]
+    },
+    {
+      "name": "4A: Determining Precise Meaning",
+      "subheading": "Choose the most accurate paraphrase for each sentence.",
+      "content": [
+        {
+          "number": "1",
+          "question": "We went inside to escape the <b>hubbub</b>.",
+          "type": "mcq",
+          "options": [
+            "We went inside to escape the noise and confusion.",
+            "We went inside to escape the stormy weather."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "2",
+          "question": "I miss the <b>camaraderie</b> of my Girl Scout troop.",
+          "type": "mcq",
+          "options": [
+            "I miss the loudness of my Girl Scout troop.",
+            "I miss the friendliness of my Girl Scout troop."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "3",
+          "question": "We <b>meandered</b> through the old part of the town.",
+          "type": "mcq",
+          "options": [
+            "We wandered through the old part of the town.",
+            "We hastened through the old part of the town."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "4",
+          "question": "The rules are for <b>temporal</b> matters.",
+          "type": "mcq",
+          "options": [
+            "The rules are for everyday matters.",
+            "The rules are for spiritual matters."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "5",
+          "question": "We got rid of everything that was <b>extraneous</b>.",
+          "type": "mcq",
+          "options": [
+            "We got rid of everything that was harmful.",
+            "We got rid of everything that we had no use for."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "6",
+          "question": "Some people prefer to lead a <b>sedentary</b> life.",
+          "type": "mcq",
+          "options": [
+            "Some people prefer to lead an active life.",
+            "Some people prefer to lead an inactive life."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "7",
+          "question": "I was reminded the other day of an old <b>adage</b>.",
+          "type": "mcq",
+          "options": [
+            "I was reminded the other day of an old saying.",
+            "I was reminded the other day of an old friend."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "8",
+          "question": "My grandmother went to the tropics to <b>recuperate</b>.",
+          "type": "mcq",
+          "options": [
+            "My grandmother went to the tropics to recover her health.",
+            "My grandmother went to the tropics to study for an exam."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "9",
+          "question": "Arturo was <b>punctilious</b> at paying his debts.",
+          "type": "mcq",
+          "options": [
+            "Arturo was careful about paying his debts.",
+            "Arturo was often slow at paying his debts."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "10",
+          "question": "Conditions at summer camp were <b>Spartan</b>.",
+          "type": "mcq",
+          "options": [
+            "Conditions at summer camp were extremely luxurious.",
+            "Conditions at summer camp were far from luxurious."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "11",
+          "question": "The chef <b>contends</b> that her restaurant is best.",
+          "type": "mcq",
+          "options": [
+            "The chef denies that her restaurant is best.",
+            "The chef insists that her restaurant is best."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "12",
+          "question": "My socks were incredibly <b>odoriferous</b>.",
+          "type": "mcq",
+          "options": [
+            "My socks were incredibly colorful.",
+            "My socks were incredibly smelly."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "13",
+          "question": "Please move your <b>paraphernalia</b> aside.",
+          "type": "mcq",
+          "options": [
+            "Please move your personal belongings aside.",
+            "Please move your family aside."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "14",
+          "question": "He <b>regaled</b> the children with tales of his childhood.",
+          "type": "mcq",
+          "options": [
+            "He delighted the children with tales of his childhood.",
+            "He bored the children with tales of his childhood."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "15",
+          "question": "Bao made a <b>wry</b> comment when asked how he felt.",
+          "type": "mcq",
+          "options": [
+            "Bao made a hostile comment when asked how he felt.",
+            "Bao made a quietly amusing comment when asked how he felt."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "name": "4B: Understanding Word Relationships",
+      "subheading": "Circle the letter next to each correct answer. There may be more than one correct answer.",
+      "content": [
+        {
+          "number": "1",
+          "question": "Which word or words are related to <b>camping</b>?",
+          "type": "multi_select",
+          "options": ["equipment", "adage", "hubbub", "paraphernalia"],
+          "answer": "TFFT"
+        },
+        {
+          "number": "2",
+          "question": "Which word or words are related to <b>an old saying</b>?",
+          "type": "multi_select",
+          "options": ["camaraderie", "maxim", "adage", "contention"],
+          "answer": "FTTF"
+        },
+        {
+          "number": "3",
+          "question": "Which word or words are related to <b>claim</b>?",
+          "type": "multi_select",
+          "options": ["allege", "meander", "contend", "regale"],
+          "answer": "TFTF"
+        },
+        {
+          "number": "4",
+          "question": "Which word or words are related to <b>uproar</b>?",
+          "type": "multi_select",
+          "options": ["bedlam", "hubbub", "paraphernalia", "tumult"],
+          "answer": "TTFT"
+        },
+        {
+          "number": "5",
+          "question": "Which word or words are related to <b>entertain</b>?",
+          "type": "multi_select",
+          "options": ["reproach", "regale", "recuperate", "perturb"],
+          "answer": "FTFF"
+        },
+        {
+          "number": "6",
+          "question": "Which word or words are related to <b>lack of luxury</b>?",
+          "type": "multi_select",
+          "options": ["temporal", "feckless", "Spartan", "frugal"],
+          "answer": "FFTT"
+        },
+        {
+          "number": "7",
+          "question": "Which word or words are related to <b>smell</b>?",
+          "type": "multi_select",
+          "options": ["camaraderie", "odoriferous", "trauma", "fragrant"],
+          "answer": "FTFT"
+        },
+        {
+          "number": "8",
+          "question": "Which word or words are related to <b>humor</b>?",
+          "type": "multi_select",
+          "options": ["banter", "wry", "temporal", "punctilious"],
+          "answer": "TTFF"
+        },
+        {
+          "number": "9",
+          "question": "Which word or words are related to <b>illness</b>?",
+          "type": "multi_select",
+          "options": ["recuperate", "meander", "regale", "convalesce"],
+          "answer": "TFFT"
+        },
+        {
+          "number": "10",
+          "question": "Which word or words are related to <b>attentive</b>?",
+          "type": "multi_select",
+          "options": ["ubiquitous", "punctilious", "meticulous", "sedentary"],
+          "answer": "FTTF"
+        }
+      ]
+    },
+    {
+      "name": "4C: Word Study: Parts of Speech",
+      "subheading": "Change each of the verbs or adjectives into a noun by changing, adding, or dropping the suffix. Write the word in the space provided.",
+      "content": [
+        {
+          "number": "1",
+          "question": "emancipate",
+          "type": "frq_short",
+          "answer": "emancipation"
+        },
+        {
+          "number": "2",
+          "question": "disseminate",
+          "type": "frq_short",
+          "answer": "dissemination"
+        },
+        {
+          "number": "3",
+          "question": "exhort",
+          "type": "frq_short",
+          "answer": "exhortation"
+        },
+        {
+          "number": "4",
+          "question": "lament",
+          "type": "frq_short",
+          "answer": "lamentation"
+        },
+        {
+          "number": "5",
+          "question": "subjugate",
+          "type": "frq_short",
+          "answer": "subjugation"
+        },
+        {
+          "number": "6",
+          "question": "contend",
+          "type": "frq_short",
+          "answer": "contention"
+        },
+        {
+          "number": "7",
+          "question": "destitute",
+          "type": "frq_short",
+          "answer": "destitution"
+        },
+        {
+          "number": "8",
+          "question": "flamboyant",
+          "type": "frq_short",
+          "answer": "flamboyance"
+        },
+        {
+          "number": "9",
+          "question": "ingenious",
+          "type": "frq_short",
+          "answer": "ingenuity"
+        },
+        {
+          "number": "10",
+          "question": "traumatic",
+          "type": "frq_short",
+          "answer": "trauma"
+        }
+      ]
+    },
+    {
+      "name": "4D: Understanding Contextual Meanings",
+      "subheading": "Read the following sentences. If the word in bold is used correctly, write C on the line. If the word is used incorrectly, write a new sentence using the word correctly.",
+      "content": [
+        {
+          "number": "1",
+          "question": "Carlos's favorite teacher is quiet but always has something <b>wry</b> to say.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "2",
+          "question": "I started work as a dishwasher, but it was only a <b>temporal</b> job.",
+          "type": "frq_short",
+          "answer": "If I'm upset about something, I distract myself with temporal activities",
+          "manual_grading": true
+        },
+        {
+          "number": "3",
+          "question": "A team of Brazilian dancers performed a <b>camaraderie</b>.",
+          "type": "frq_short",
+          "answer": "The team of dancers displayed <b>camaraderie</b> during their performance.",
+          "manual_grading": true
+        },
+        {
+          "number": "4",
+          "question": "The soccer coach was <b>punctilious</b> about remembering the players’ names.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "5",
+          "question": "Elena can <b>recuperate</b> the names of all the United States presidents.",
+          "type": "frq_short",
+          "answer": "Elena needs to <b>recuperate</b> after her surgery.",
+          "manual_grading": true
+        },
+        {
+          "number": "6",
+          "question": "<b>Sedentary</b> rocks are formed over millions of years from sandy deposits.",
+          "type": "frq_short",
+          "answer": "I need to stretch after being sedentary for so long on our drive across the state.",
+          "manual_grading": true
+        },
+        {
+          "number": "7",
+          "question": "The guests rushed outside to see what all the <b>hubbub</b> was about.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "8",
+          "question": "Abla’s <b>odoriferous</b> behavior was always getting her in trouble.",
+          "type": "frq_short",
+          "answer": "Abla's <b>odoriferous</b> socks were always making her room smelly.",
+          "manual_grading": true
+        },
+        {
+          "number": "9",
+          "question": "The machinery was wrapped in <b>paraphernalia</b> to protect it during travel.",
+          "type": "frq_short",
+          "answer": "It is difficult to walk through my brother's room with all the paraphernalia covering the floor",
+          "manual_grading": true
+        },
+        {
+          "number": "10",
+          "question": "The Appalachian Trail <b>meanders</b> its way north for over two thousand miles.",
+          "type": "frq_short",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "name": "4E: Vocabulary in Context",
+      "subheading": "Read the passage. Answer each question with a sentence. If a question does not contain a word from the lesson, use one in your answer. Use each word only once.",
+      "content": [
+        {
+          "name": "The Longest Journey",
+          "passage": [
+            "An old <b>adage</b> states that the longest journey begins with a single step. If the journey is along the length of the 2,144-mile Appalachian National Scenic Trail, that step will be followed by approximately five million more! The trail stretches primarily along the crest of the Appalachian Mountains from Springer Mountain, Georgia, to Mount Katahdin, Maine. Known as 'the longest footpath in the world,' it <b>meanders</b> through fourteen states along the Atlantic seaboard. Virtually all the land over which the trail passes is owned by the National Park Service. The trail itself, however, is privately managed by thirty-one Appalachian Trail Clubs. These clubs, whose members are all volunteers, are <b>punctilious</b> about maintaining the trail and its markers; they also provide the <b>Spartan</b> shelters located a day's hike apart along its length.",
+            "Several million people walk a part of the Appalachian Trail each year. A hundred or so travel its entire length. It takes them up to half a year to do so. These 'thru-hikers' include people from all walks of life. They range in age from teenagers to people in their seventies and older. A retired admiral, a couple on a six-month honeymoon walk, and a veteran hiker who has traveled the trail half a dozen times may find themselves bedding down in the same shelter at the end of the day to <b>recuperate</b> from six or eight hours of strenuous walking. As the sun goes down, hikers enjoy the <b>camaraderie</b> that develops among those enjoying a common experience. They can rub their sore feet, share the food they carry in their backpacks, and <b>regale</b> each other with stories of the day’s adventures.",
+            "Perhaps the most remarkable 'thru-hiker' is Bill Irwin. Irwin’s eight-month adventure began when he set off from Springer Mountain in the early spring of 1990. It ended when he reached Mount Katahdin on November 22. Because his trip took longer than most, he had to <b>contend</b> with ghastly weather conditions toward the end. Such conditions included one-hundred-mile-per-hour wind gusts and a blizzard that dumped two feet of snow on the trail. The reason his hike was so long and slow is that Irwin is a blind person. He was accompanied only by Orient, his service dog. In a wry allusion, Irwin referred to himself and his companion as 'the Orient Express'.",
+            "The trail’s true allure is one of its main attractions. Although Irwin was unable to enjoy the splendid mountain views it affords, other senses are so highly developed that through listening, feeling, and smelling, he believes he missed very little. He couldn’t read the white two-by-six-inch markers painted on trees and rocks beside the trail; but he was never in danger of getting lost. To Orient, whose sense of smell is unusually well developed, it was easy to follow the <b>odoriferous</b> trail—filled with the smell of foliage, earth, and other hikers and their belongings.",
+            "What is it that draws people to the Appalachian Trail? Some seek the challenge of exchanging a <b>sedentary</b> lifestyle for one that tests their strengh and will to the limit. For such people, success can be exhilarating. Carrying a fifty-pound backpack crammed with hiking <b>paraphernalia</b> while trudging with wet, bilistered feet up a steep hill in a heavy downpour might not seem like fun. Those who have done it, however, say that to dwell on such times is to miss the point. Satisfaction comes from coping with whatever nature brings",
+            "Other hikers set out to escape the <b>hubbub</b> of the city for a few days, weeks, or months of solitude in the wilderness. As they ignore minor physical discomforts, they say that they can escape <b>temporal</b> concerns and reflect upon what is essential and what is <b>extraneous</b> in their lives.",
+            "Most set out from Springer Mountain and head north, but regardless of the direction hikers travel, many say that the inner journey they experience is the most important one."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "Why do hikers owe a debt of gratitude to Appalachian Trail Club members?",
+          "type": "frq_short",
+          "answer": "Because the <b>punctilious</b> volunteers maintain the trail and provide shelters.",
+          "manual_grading": true
+        },
+        {
+          "number": "2",
+          "question": "Why is the actual trail longer than the distance from Springer Mountain to Mount Katahdin?",
+          "type": "frq_short",
+          "answer": "Because the trail <b>meanders</b> instead of taking a direct route.",
+          "manual_grading": true
+        },
+        {
+          "number": "3",
+          "question": "What are some of the things hikers might have to <b>contend</b> with?",
+          "type": "frq_short",
+          "answer": "They may have to <b>contend</b> with extreme weather like wind and snow.",
+          "manual_grading": true
+        },
+        {
+          "number": "4",
+          "question": "What does the term '<b>Spartan</b> shelters' suggest?",
+          "type": "frq_short",
+          "answer": "It suggests the shelters are very simple with nothing <b>extraneous</b>.",
+          "manual_grading": true
+        },
+        {
+          "number": "5",
+          "question": "Why was Bill Irwin not in danger of getting lost on the trail?",
+          "type": "frq_short",
+          "answer": "Because his guide dog, Orient, followed the <b>odoriferous</b> trail markers.",
+          "manual_grading": true
+        },
+        {
+          "number": "6",
+          "question": "What <b>adage</b> about dogs would describe Bill Irwin's relationship with Orient?",
+          "type": "frq_short",
+          "answer": "A dog is a man's best friend",
+          "manual_grading": true
+        },
+        {
+          "number": "7",
+          "question": "Why is 'the Orient Express' described as a <b>wry</b> expression?",
+          "type": "frq_short",
+          "answer": "Irwin and his dog had to move slowly because Irwin is a blind person; they did not move at express speeds",
+          "manual_grading": true
+        },
+        {
+          "number": "8",
+          "question": "Why is it likely that 'thru-hikers' would develop a special <b>camaraderie</b>?",
+          "type": "frq_short",
+          "answer": "Because they share hardships and adventures while hiking.",
+          "manual_grading": true
+        },
+        {
+          "number": "9",
+          "question": "What aspect of life in the city is absent from life on the Appalachian Trail?",
+          "type": "frq_short",
+          "answer": "The <b>hubbub</b> of the city is absent.",
+          "manual_grading": true
+        },
+        {
+          "number": "10",
+          "question": "What <b>paraphernalia</b> would a hiker be likely to take on a trip?",
+          "type": "frq_short",
+          "answer": "Sleeping bags, boots, and backpacks are hiking <b>paraphernalia</b>.",
+          "manual_grading": true
+        },
+        {
+          "number": "11",
+          "question": "How do the hikers likely spend their evenings in the shelters?",
+          "type": "frq_short",
+          "answer": "They often enjoy regaling each other with the day's experiences, along with resting and recuperating from the day's exercise",
+          "manual_grading": true
+        },
+        {
+          "number": "12",
+          "question": "According to the passage, what are two reasons people might hike the Appalachian Trail?",
+          "type": "frq_short",
+          "answer": "Reasons might include getting away from a <b>sedentary</b> lifestyle and escaping <b>temporal</b> concerns.",
+          "manual_grading": true
+        }
+      ]
+    }
+  ]
+}

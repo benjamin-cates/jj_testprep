@@ -1,0 +1,213 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Quiz 17",
+  "pages": [
+    {
+      "name": "Wordly Wise 9 Lesson 17 Quiz",
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "number": "1",
+          "question": "Ms. Diaz’s library was <b>cited</b> for constantly innovating.",
+          "options": ["noted", "punished", "rebuked", "praised"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "While she did not claim to be innocent, the prisoner appealed to the governor for <b>clemency</b>.",
+          "options": ["release", "mercy", "favors", "sentencing"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "From a shoebox of letters, photos, and keepsakes, I <b>gleaned</b> that my grandparents had once been young and crazy about each other.",
+          "options": ["guessed", "understood", "gathered", "disagreed"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "Lawrence was thrilled when the judge <b>quashed</b> the injunction prohibiting him from selling the historic home.",
+          "options": ["stopped", "upheld", "reduced", "strengthened"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "Grandma’s <b>verve</b> is apparent at her famous parties.",
+          "options": ["dourness", "vivacity", "creepiness", "popularity"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "number": "6",
+          "question": "Smoking had <b>blighted</b> Leslie’s beautiful smile.",
+          "options": ["damaged", "benefited", "harmed", "ruined"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "The drama club produced a <b>farce</b> about electronic communication gone haywire.",
+          "options": ["play", "comedy", "musical", "drama"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Ms. McCalla remained the <b>nominal</b> editor-in-chief long after she stopped being involved in day-to-day operations at the magazine.",
+          "options": ["actual", "dedicated", "devoted", "ceremonial"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "Chuck was afraid he would be <b>ostracized</b> from the group once the truth about his past emerged.",
+          "options": ["banned", "removed", "included", "suspended"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "We were the <b>recipients</b> of Alfredo’s hospitality when we traveled to Guatemala.",
+          "options": ["donors", "targets", "receivers", "guests"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "When drivers are <b>cited</b> for traffic violations, where are they being summoned to appear?",
+          "options": [
+            "in a court of law",
+            "in traffic school",
+            "at the police station",
+            "in a driver’s education class"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "The behavior of an <b>eccentric</b> is all of the following except",
+          "options": ["peculiar", "ordinary", "odd", "unusual"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "When is a <b>posthumous</b> award given?",
+          "options": [
+            "after retirement",
+            "before dinner",
+            "after death",
+            "before promotion"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "Susan B. Anthony was a crusader for women’s <b>suffrage</b>. What right did she want?",
+          "options": [
+            "to own property",
+            "to bear arms",
+            "to vote",
+            "to assemble"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "If you participate in a <b>foray</b>, where will you find yourself?",
+          "options": [
+            "in enemy territory",
+            "at a lively party",
+            "at a neighbor’s home",
+            "in a peaceful sanctuary"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        { "section_header": "Read the passage and answer the questions" },
+        {
+          "passage": [
+            "There are many things that make an old-fashioned county fair unique. While many have the same rides as amusement parks do, they tend to charge less for entry and also have some charming traditions that make attending one a fun and worthwhile experience.",
+            "One tradition is the contests. For example, farmers grow “monster” pumpkins and zucchini squash and then pay a <b>nominal</b> fee just to enter a contest to see who grew the biggest and best. Contest judges carefully check for <b>blight</b> with magnifying glasses and measure and weigh each giant gourd as the eager crowd watches. Usually everyone agrees on the winner of these contests, but the pie and baking competitions are different. These can be seen as a <b>farce</b> because the same people often win year after year. Lastly, many fairs feature a different kind of “contest”: reenactments of historical military battles, in which people dressed as soldiers pretend to make <b>forays</b> into “enemy territory.”",
+            "One of the oldest county fairs, held annually in Fryeburg, Maine, includes night performances by entertainers. All performers make sure their shows are family-friendly. For example, comedians try not to tell <b>ribald</b> jokes or use language that would not be appropriate for children. Thus, this county fair—like all others—remains a great way for families to have fun together."
+          ]
+        },
+        {
+          "number": "16",
+          "question": "The word <b>nominal</b> (line 8) most nearly means",
+          "options": ["in name only", "small", "outrageous", "large"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "The meaning of <b>blight</b> (line 9) is",
+          "options": ["crime", "disease", "color", "flaws"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "The phrase “seen as a <b>farce</b>” (line 13) most nearly means",
+          "options": [
+            "viewed as comedy",
+            "seen as authentic",
+            "seen as inauthentic",
+            "viewed humorously"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "In line 17, the phrase “make <b>forays</b> into” means",
+          "options": ["invade", "judge", "look into", "create"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "The word <b>ribald</b> (line 21) most nearly means",
+          "options": ["funny", "bad", "crude and inappropriate", "advanced"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

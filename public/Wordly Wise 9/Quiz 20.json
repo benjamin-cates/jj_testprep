@@ -1,0 +1,196 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Quiz 20",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM of the bold word"
+        },
+        {
+          "number": "1",
+          "question": "The letter looked to be from my long-lost uncle, but my mother suspected that it was <b>bogus</b>.",
+          "options": ["overwhelming", "genuine", "friendly", "fake"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "The ascendancy of the automobile meant the <b>demise</b> of the horse-drawn buggy.",
+          "options": ["revival", "end", "beginning", "decline"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "Sara <b>devised</b> a plan that would allow us to visit roadside attractions along our route from Florida to Washington.",
+          "options": ["formed", "copied", "borrowed", "bought"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "News of Carl’s delay <b>evinced</b> a frown from his grandfather.",
+          "options": ["displayed", "expressed", "provoked", "demanded"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "Will was intimidated by the sheer weight of the <b>tome</b> assigned that week.",
+          "options": ["experiment", "book", "essay", "problem"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for the bold words"
+        },
+        {
+          "number": "6",
+          "question": "Not all decisions are <b>irrevocable</b>.",
+          "options": ["permanent", "changeable", "correct", "unquestionable"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "<b>Martial</b> law was imposed in Hawaii after the bombing of Pearl Harbor.",
+          "options": ["civil", "military", "wartime", "army"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Taking pleasure in <b>mundane</b> details is key to happiness.",
+          "options": ["normal", "usual", "extraordinary", "boring"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "Dawn <b>patronized</b> her older brother by reminding him to wear a coat and gloves.",
+          "options": ["insulted", "condescended", "belittled", "respected"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "Several witnesses <b>refuted</b> her claim that she had never been in the restaurant before the robbery.",
+          "options": ["proved", "supported", "suggested", "denied"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "A <b>quirk</b> of fate is most likely to be",
+          "options": ["sudden", "predictable", "unremarkable", "uninteresting"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "The United States sometimes uses economic <b>sanctions</b> to try to influence policy in other countries. <b>Sanctions</b> are",
+          "options": ["problems", "unfair", "actions", "situations"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "Which best describes an object that is <b>enshrined</b>?",
+          "options": ["dangerous", "fragile", "worthless", "valued"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "Which of the following is least likely to be considered <b>memorabilia</b>?",
+          "options": [
+            "a Beatles poster",
+            "an Eisenhower campaign button",
+            "today’s newspaper",
+            "an old movie costume"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "A <b>querulous</b> person is most likely to",
+          "options": ["complain", "approve", "compliment", "flatter"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "passage": [
+            "Jackson was excited. His stepmother, Shirley, was taking him to get his hair cut. Later that afternoon he would graduate from high school. He was glad he had Shirley to cheer him on today. There was nothing <b>bogus</b> about her. She’d become his stepmother when he was just three years old, and she’d been there for him ever since. He had <b>enshrined</b> the memory of each time she’d picked him up after a long day of work at the hospital to give him a big hug. Even as a teenager, every time he felt alone or needed strength, all he had to do was think of Shirley’s hugs.",
+            "He was thrilled that Shirley had <b>sanctioned</b> his plans to get a stylish new haircut the morning of graduation. Jackson planned to get a fade and have his favorite barber, Mr. Lee, shave a geometric design on one side. He grinned when they arrived at the barbershop they’d <b>patronized</b> for years. Jackson had learned a lot about life by talking to the regulars here. He even enjoyed listening to their <b>querulous</b> arguments because they made him think about current events in new ways.",
+            "As Mr. Lee began snipping Jackson’s hair, he sighed. Today was going to be amazing."
+          ]
+        },
+        {
+          "number": "16",
+          "question": "The meaning of <b>bogus</b> (line 4) is",
+          "options": ["unpleasant", "fake", "sad", "bad"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "In line 6, <b>enshrined</b> means",
+          "options": ["cherished", "understood", "liked", "thought about"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "The word <b>sanctioned</b> (line 11) most nearly means",
+          "options": [
+            "decided against",
+            "didn't allow",
+            "approved of",
+            "recommended"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "The meaning of <b>patronized</b> (line 15) is",
+          "options": ["put down", "gone to", "made fun of", "passed by"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "In line 17, <b>querulous</b> most nearly means",
+          "options": ["critical", "reasonable", "constant", "cruel"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

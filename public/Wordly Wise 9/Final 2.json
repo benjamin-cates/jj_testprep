@@ -1,0 +1,157 @@
+{
+  "type": "test",
+  "name": "Final Test 2",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Read the passage. Choose the best answer for each sentence or question about a bold word"
+        },
+        {
+          "passage": [
+            "In the early 1800s, cotton was the main cash crop in the southern United States. The textile industry had strong demand for the plant, which thrived in the rich soil and warm climate. Over time, constant planting of the same crop <b>depreciated</b> the nutrients in the soil. Weaker soil led to weaker crops, which led to weaker profits. By the turn of the century, southern farmers faced economic disaster. Finding the solution to a problem often requires just thinking about the problem differently. Luckily for those farmers, an agricultural scientist at the time made it his <b>crusade</b> to find out how to sell what would grow, rather than how to grow what would sell.",
+            "George Washington Carver was born <b>enslaved</b> in Missouri during the Civil War. He showed a <b>precocious</b> talent for gardening and as a boy he was known as the “plant doctor” to friends and neighbors. He was eager to learn, but there were no local schools for African American students. His drive for <b>erudition</b> led him to Kansas, where he graduated from high school, and then to Iowa, where he went to college to study painting and piano. His talent with plants caught the attention of the Iowa State College Department of Horticulture, where he soon was the first African American student. He graduated in 1894 and became the first African American member of the Iowa State’s faculty that year. He gained national attention studying plant <b>blights</b>, and he was invited to join the faculty at Alabama’s Tuskegee Institute when he finished his master’s degree in 1896.",
+            "He knew that the <b>antecedent</b> cause of the poor soil was constant planting of cotton, which demanded nitrogen from the soil. He knew that the land needed to take a break from cotton and to grow crops that restored nitrogen, like peanuts and soybeans. He also knew that there was no demand for peanuts and soybeans. His <b>sagacious</b> solution was to create demand. He spent the rest of his career developing a <b>multitude</b> of products from the <b>array</b> of crops best suited to the area. He created hundreds of products from local crops, including adhesives, cheese, ink, paper, and shaving cream. It is a <b>fallacy</b> that Dr. Carver invented peanut butter, although he did come up with more than 300 uses for the peanut.",
+            "His work had fast, <b>tangible</b> results. Peanuts became one of the country’s leading crops and created an industry worth $200 million before 1940. Of all his hundreds of discoveries, he only patented three. He <b>contended</b> that his purpose was to help the people of the community, not to profit from them. When he died in 1943, he left his life’s savings to the Tuskegee Institute so that his work could continue. Southern farmers still grow cotton, but thanks to Dr. Carver’s work and legacy, they no longer depend on it."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "<b>Precocious</b> people show their abilities when they are",
+          "options": ["old", "relaxing", "young", "under pressure"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "In the second paragraph, <b>blights</b> means",
+          "options": ["seeds", "diseases", "blooms", "roots"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "What is a problem’s <b>antecedent</b>?",
+          "options": [
+            "its cause",
+            "its solution",
+            "its result",
+            "its complication"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "In the third paragraph, <b>sagacious</b> means",
+          "options": ["bold", "risky", "clever", "wise"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "In this passage, <b>multitude</b> describes",
+          "options": [
+            "a large number of products",
+            "a small number of products",
+            "a stockpile of products",
+            "a demand for products"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "6",
+          "question": "A SYNONYM for <b>array</b> is",
+          "options": ["a few", "a lot", "a sample", "a collection"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "In the fourth paragraph, <b>contended</b> means",
+          "options": ["accepted", "disagreed", "disputed", "maintained"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "An ANTONYM for <b>erudition</b> is",
+          "options": ["wisdom", "ignorance", "silliness", "importance"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "A <b>crusade</b> takes place over what period of time?",
+          "options": ["instantly", "a little while", "a long time", "forever"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "The <b>tangible</b> nature of Dr. Carver’s work means the results could be",
+          "options": ["touched", "seen", "guessed at", "deduced"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "11",
+          "question": "When something is <b>depreciated</b>, its value",
+          "options": ["increases", "doubles", "decreases", "ages", "vanishes"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "In the first paragraph, <b>crusade</b> most nearly means",
+          "options": ["struggle", "wish", "command", "hope", "search"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "What best captures the meaning of the word <b>erudition</b> in the second paragraph?",
+          "options": ["freedom", "knowledge", "wealth", "power", "status"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "In the third paragraph, <b>fallacy</b> most nearly means",
+          "options": ["given", "victory", "fact", "secret", "wrong idea"],
+          "answer": "E",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "In the fourth paragraph, <b>tangible</b> most nearly means",
+          "options": [
+            "radical",
+            "significant",
+            "destructive",
+            "real",
+            "unimportant"
+          ],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 11 Lesson 3 Test",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word."
+        },
+        {
+          "number": "1",
+          "question": "The class could feel the <b>vibrant</b> percussions of the drum corps rehearsing downstairs.",
+          "options": ["vibrating", "pounding", "relentless", "distracting"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "Ashley was reluctant to admit it, but doing all the required reading for an assignment was an <b>efficacious</b> way to prepare for the test.",
+          "options": ["easy", "speedy", "effective", "entertaining"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "The losing team seemed <b>stoic</b> in the face of defeat.",
+          "options": ["reluctant", "devastated", "pathetic", "indifferent"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "Army training <b>inculcates</b> soldiers with values of teamwork and discipline.",
+          "options": ["teaches", "rewards", "alienates", "requires"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "The painter’s <b>stellar</b> representations of light in different seasons and at different times of day impressed even the normally jaded critics.",
+          "options": ["unique", "ordinary", "outlandish", "outstanding"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word."
+        },
+        {
+          "number": "6",
+          "question": "Gymnasts perform <b>prodigious</b> acts of flexibility and strength.",
+          "options": ["repeated", "ordinary", "skillful", "wondrous"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "Ever since he received the telescope for his birthday, Travis has been preoccupied with <b>stellar</b> occurrences.",
+          "options": ["arcane", "earthly", "repeated", "boring"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Keri decorated her room with the <b>vibrant</b> colors that streaked the sky at sunset.",
+          "options": ["mixed", "bright", "dull", "primary"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "The <b>efficacy</b> of many prescription drugs depends on the patient’s proper usage.",
+          "options": ["value", "content", "failure", "power"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "Dani’s refusal to think, read, or write will cause her mind to <b>atrophy</b>.",
+          "options": ["develop", "waste", "remember", "succeed"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "You are most likely to receive an <b>emolument</b> when you",
+          "options": [
+            "commit a crime",
+            "find change on the sidewalk",
+            "finish a week of work",
+            "need to be vaccinated"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "Stanley prepared for the marathon with a daily workout <b>regimen</b>. A regimen is",
+          "options": [
+            "a strategy",
+            "a philosophy",
+            "an obsession",
+            "a routine"
+          ],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "Because of his refusal to bend any rule, Coach Brown was known to be a <b>martinet</b>. He is most likely",
+          "options": ["strict", "well-loved", "a performer", "successful"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "While everyone else was hysterical, Lance, always the <b>stoic</b>, seemed",
+          "options": ["jovial", "unaffected", "angry", "spiritual"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "If a painting is described as an <b>icon</b>, it is likely to be",
+          "options": ["popular", "religious", "controversial", "disturbing"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Read the passage and answer the questions"
+        },
+        {
+          "passage": [
+            "While an <b>inestimable</b> number of people love acting and are passionate about it, relatively few are brave enough to pursue acting in films and television as a career. This is because even the most <b>zealous</b> and dedicated actors can find themselves out of work for long periods of time. They can move to Hollywood, hire an agent, and go to several auditions a day, even get a few roles here and there in commercials, and still not be able to get work steadily enough to pay their rent.",
+            "Most actors are realistic about their careers. They know only a few actors become successful, and very few become <b>icons</b> within the industry. They don’t expect to become movie stars. They also know that even the stars with <b>prodigious</b> numbers of awards can go through times when they are unable to find work. It is not an easy industry to be successful in for a lifetime. One <b>lackluster</b> performance onscreen, or one bad review, can seriously impact an actor’s reputation."
+          ]
+        },
+        {
+          "number": "16",
+          "question": "The phrase “an <b>inestimable</b> number” (line 1) most nearly means",
+          "options": [
+            "a certain number",
+            "an exact number",
+            "a very large number",
+            "a very small number"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "The meaning of <b>zealous</b> (line 4) is",
+          "options": [
+            "enthusiastic and passionate",
+            "crazy",
+            "realistic",
+            "organized and prepared"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "The word <b>icons</b> (line 11) most nearly means",
+          "options": ["wealthy", "idolized", "liked", "misunderstood"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "In line 12, <b>prodigious</b> means",
+          "options": ["amazingly large", "fewer", "increasing", "average"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "The word <b>lackluster</b> (line 15) most nearly means",
+          "options": ["horrible", "uninspiring", "interesting", "worthwhile"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

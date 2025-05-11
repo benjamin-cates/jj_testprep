@@ -1,0 +1,201 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Quiz 13",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "number": "1",
+          "question": "The song’s rise to the top of the chart had been <b>meteoric</b>.",
+          "options": ["slow", "indirect", "fast", "surprising"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "Taylor’s <b>precocity</b> in music had emerged by his third birthday.",
+          "options": ["aptitude", "intuition", "reputation", "enjoyment"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "The science club was thrilled by the lab’s <b>proffer</b> of meeting space and experimental materials.",
+          "options": ["suggestion", "offer", "request", "mention"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "To distinguish himself from his voluble twin, Brett tried to be more <b>succinct</b>.",
+          "options": ["quiet", "wordy", "concise", "kind"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "Jesse faced the principal with <b>trepidation</b>.",
+          "options": ["dread", "confidence", "relaxation", "anger"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "number": "6",
+          "question": "Jack grew weary of Bobby’s always <b>deprecating</b> any new idea.",
+          "options": ["criticizing", "belittling", "embracing", "ignoring"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "Try not to <b>discomfit</b> newcomers with too many personal questions.",
+          "options": ["calm", "embarrass", "taunt", "perplex"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "Maria was careful not to trip on the <b>rift</b> in the sidewalk.",
+          "options": ["crack", "break", "turn", "repair"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "Isabella’s <b>overbearing</b> manner annoyed her coworkers.",
+          "options": ["pushy", "submissive", "domineering", "arrogant"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "Getting a flat tire on the way to a job interview is particularly <b>untoward</b>.",
+          "options": ["favorable", "unlucky", "frustrating", "ominous"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "A child is most likely to <b>remonstrate</b> with a parent about which of the following?",
+          "options": ["bedtime", "playtime", "lunchtime", "anytime"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "A <b>virtuoso</b> performance is most likely to be",
+          "options": ["funny", "boring", "long", "excellent"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "<b>Blandishments</b> are not intended to",
+          "options": ["coax", "persuade", "threaten", "convince"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "A <b>sylvan</b> setting is full of",
+          "options": ["animals", "buildings", "lakes", "trees"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "Which of the following is a <b>solicitous</b> friend least likely to do?",
+          "options": [
+            "forget your birthday",
+            "help you move",
+            "visit you in the hospital",
+            "cheer you up"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        { "section_header": "Read the passage and answer the questions" },
+        {
+          "passage": [
+            "When I arrived at the dance studio, Denali was staring at herself in the mirror, her arms crossed, frowning at her reflection. She was dressed in a bright skirt and a black leotard, ready for her performance at the African Festival.",
+            "“I keep messing up. I guess I just wasn’t born with rhythm,” she said sourly. Nothing could have been further from the truth, but she tended to <b>deprecate</b> herself when she was nervous.",
+            "“Are you kidding me? You were born with rhythm, energy, grace… uh…” I paused, trying to think of more ways to bolster her confidence. She turned and put up her hand to silence me before I could <b>proffer</b> any more <b>blandishments</b>.",
+            "“You’re just biased because you’re my friend!”",
+            "“Listen,” I said firmly. “I know you feel some <b>trepidation</b>. That’s natural. But you’re going to be great tonight. You practiced all week.”",
+            "Denali turned back to the mirror. She tilted her head at her reflection, sighed, and placed both hands on her hips, rocking back and forth on her heels.",
+            "I patted her shoulder in my usual <b>solicitous</b> way. “You are going to be great,” I repeated. “Trust me.”"
+          ]
+        },
+        {
+          "number": "16",
+          "question": "In line 7, <b>deprecate</b> most nearly means",
+          "options": ["look at", "isolate", "criticize", "represent"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "The meaning of <b>proffer</b> (line 12) is",
+          "options": ["offer", "yell", "sell", "take"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "In line 12, <b>blandishments</b> means",
+          "options": [
+            "insults",
+            "flattering words",
+            "pieces of advice",
+            "unnecessary information"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "The word <b>trepidation</b> (line 14) most nearly means",
+          "options": ["excitement", "hope", "fear", "despair"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "In line 20, <b>solicitous</b> means",
+          "options": ["unfriendly", "concerned", "soft", "playful"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}

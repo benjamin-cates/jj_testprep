@@ -1,0 +1,208 @@
+{
+  "subject": "Wordly Wise",
+  "name": "Wordly Wise 9 Quiz 4",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "1",
+          "options": ["sloppy", "careless", "rude", "attentive"],
+          "question": "Barbara was a <b>punctilious</b> host.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "2",
+          "options": ["irrelevant", "important", "necessary", "vital"],
+          "question": "Natalie’s stories were full of <b>extraneous</b> details.",
+          "type": "mcq"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "3",
+          "options": ["fable", "slang", "idiom", "proverb"],
+          "question": "Aunt Edna had an <b>adage</b> ready for any occasion.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "4",
+          "options": ["deteriorate", "weaken", "recover", "submit"],
+          "question": "It takes several weeks to <b>recuperate</b> from a fractured wrist.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "5",
+          "options": ["relax", "struggle", "assist", "retreat"],
+          "question": "Insomniacs have to <b>contend</b> with many sleepless nights.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "answer": "D",
+          "mode": "test_question",
+          "number": "6",
+          "options": ["lazy", "motionless", "sluggish", "active"],
+          "question": "A <b>sedentary</b> lifestyle can lead to heart problems.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "7",
+          "options": ["bored", "entertained", "delighted", "amused"],
+          "question": "Sam <b>regaled</b> us with stories of his trip to New Zealand.",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "8",
+          "options": ["competition", "rivalry", "cooperation", "tournament"],
+          "question": "Relations were tense between the best friends in <b>contention</b> for the same job.",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "9",
+          "options": ["luxurious", "simple", "frugal", "restrained"],
+          "question": "Woody preferred to keep his room looking <b>Spartan</b>.",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "10",
+          "options": ["amusing", "showy", "quiet", "understated"],
+          "question": "His <b>wry</b> sense of humor often went unnoticed.",
+          "type": "mcq"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "11",
+          "options": ["contestants", "distant relatives", "friends", "rivals"],
+          "question": "Which group of people is most likely to enjoy <b>camaraderie</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "12",
+          "options": ["matches", "paint", "canvas", "brushes"],
+          "question": "Which of these things would probably not be among an artist’s <b>paraphernalia</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "13",
+          "options": [
+            "in a library",
+            "at a party",
+            "at a soccer match",
+            "at a pep rally"
+          ],
+          "question": "Where are you least likely to find a <b>hubbub</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "14",
+          "options": ["a rock", "a flower", "fruit", "perfume"],
+          "question": "Which of the following is least <b>odoriferous</b>?",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "15",
+          "options": ["a tunnel", "a hallway", "a stream", "an elevator"],
+          "question": "Which of the following is most likely to <b>meander</b>?",
+          "type": "mcq"
+        },
+        {
+          "passage": [
+            "I have a <b>punctilious</b> friend named Chao who never displays anything but the most polite manners, no matter where we are or what we are doing. So what happened one weekend shouldn't have surprised me. We had hiked up a <b>meandering</b> trail through the woods that took us to the top of a hill, when Cha ostopped. We had been hiking for three hours, and we were sweaty and dirty, with blisters on our feet.",
+            "“We need to rest and <b>recuperate</b>,” he said. “Would you like something to eat?”",
+            "He reached into his backpack and took out some sort of <b>Spartan</b> meal in a plain paper bag, like crackers and peanut butter or trail mix. Instead, with a <b>wry</b> smile, Chao pulled out a vinyl tablecloth, napkins, paper plates, salt and pepper packets, hand sanitizer, two individually wrapped turkey sandwiches, and two apples.",
+            "\"After you,\" he said after we sat down on a flat rock, waiting for me to take my first bite before he began eating. I had to laugh. There we were, sweating and smelling like insect repellent, yet eating a formal meal on the top of a hill in the woods."
+          ]
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "16",
+          "options": [
+            "smart and serious",
+            "funny and carefree",
+            "careful and polite",
+            "friendly and active"
+          ],
+          "question": "The word <b>punctilious</b> (line 1) most nearly means",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "17",
+          "options": ["walking", "winding", "hiking", "aimless"],
+          "question": "In line 5, <b>meandering</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "C",
+          "mode": "test_question",
+          "number": "18",
+          "options": [
+            "eat a snack",
+            "start back down",
+            "regain energy",
+            "enjoy the view"
+          ],
+          "question": "The meaning of <b>recuperate</b> (line 8) is",
+          "type": "mcq"
+        },
+        {
+          "answer": "A",
+          "mode": "test_question",
+          "number": "19",
+          "options": ["simple", "heroic", "fancy", "nutritious"],
+          "question": "In line 12, <b>Spartan</b> means",
+          "type": "mcq"
+        },
+        {
+          "answer": "B",
+          "mode": "test_question",
+          "number": "20",
+          "options": [
+            "slightly frightened",
+            "quietly amused",
+            "fierce",
+            "wide"
+          ],
+          "question": "The meaning of <b>wry</b> (line 13) is",
+          "type": "mcq"
+        }
+      ],
+      "type": "test"
+    }
+  ]
+}

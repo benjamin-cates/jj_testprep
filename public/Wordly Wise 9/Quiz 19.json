@@ -1,0 +1,207 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Quiz 19",
+  "pages": [
+    {
+      "content": [
+        {
+          "section_header": "Select the SYNONYM for each bold word"
+        },
+        {
+          "number": "1",
+          "question": "Fear of heights prevented Ryan from reaching the <b>apex</b> of the Eiffel Tower.",
+          "options": ["center", "base", "top", "vicinity"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "2",
+          "question": "During India’s struggle for independence, Gandhi went on several hunger strikes and was ready to be <b>martyred</b> for the cause.",
+          "options": ["publicized", "ridiculed", "killed", "jailed"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "3",
+          "question": "A <b>multitude</b> assembled to catch a glimpse of the candidate on her stop in town.",
+          "options": ["lot", "crowd", "trio", "demonstration"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "4",
+          "question": "Placed in a glass of water, the <b>scion</b> from the philodendron should grow roots in a few weeks.",
+          "options": ["cutting", "leaf", "bud", "bloom"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "5",
+          "question": "Suzanne was happy for the chance to <b>vindicate</b> her claim that she had discovered Mark Twain’s diaries.",
+          "options": ["promote", "publish", "prove", "withdraw"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Select the ANTONYM for each bold word"
+        },
+        {
+          "number": "6",
+          "question": "The 21st Amendment <b>rescinded</b> the 18th Amendment, thereby ending Prohibition.",
+          "options": ["enforced", "ended", "cancelled", "annulled"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "7",
+          "question": "The family <b>revered</b> their matriarch, and they came from the four corners of the globe to celebrate her 90th birthday with her.",
+          "options": ["loved", "disrespected", "feared", "obeyed"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "8",
+          "question": "The stranger was so <b>suave</b> that everybody was immediately put at ease.",
+          "options": ["rude", "smooth", "polite", "pleasant"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "9",
+          "question": "The artist’s sketch was a <b>travesty</b> of what really happened at the rally.",
+          "options": ["approximation", "imitation", "distortion", "facsimile"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "10",
+          "question": "The <b>sordid</b> facts of the bribery scandal ruined the careers of all the people involved.",
+          "options": ["dirty", "pleasant", "offensive", "disgusting"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "section_header": "Choose the best way to complete each sentence or answer each question"
+        },
+        {
+          "number": "11",
+          "question": "<b>Collusion</b> between businesses to artificially drive up demand for a product may be all of the following except",
+          "options": ["secret", "deceitful", "legal", "criminal"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "12",
+          "question": "<b>Indictments</b> involve what kind of charges?",
+          "options": ["civil", "criminal", "credit card", "electrical"],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "13",
+          "question": "Which of the following does not have to do with <b>incinerating</b>?",
+          "options": ["recycling", "burning", "fire", "ashes"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "14",
+          "question": "The brothers’ exchanges could be so <b>vitriolic</b> that strangers might think they hated each other. What element characterizes the exchanges?",
+          "options": ["jokes", "flattery", "bitterness", "compliments"],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "15",
+          "question": "Which of the following is not <b>judicial</b>?",
+          "options": ["a judge", "the courts", "the law", "a senator"],
+          "answer": "D",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        { "section_header": "Read the passage and answer the question" },
+        {
+          "passage": [
+            "<b>Judicial</b> interpreters are people fluent in at least two languages who help those who are <b>indicted</b> with a crime, and who don’t speak English well, understand what is happening throughout the judicial process. These interpreters are highly fluent in what is sometimes called “legalese”—the specialized language of the court.",
+            "Working with attorneys, judicial interpreters help individuals understand what is happening when they must stand before the judge to plead guilty or not guilty to a crime. They must convey not just the meaning of the words spoken, but the tone as well—for example, when the tone from a sarcastic judge is <b>vitriolic</b>.",
+            "Judicial interpreters are always learning. Sometimes they are sent materials to study so they can become familiar with specific technical words and phrases related to the evidence in a trial. An interpreter working on a case in which someone is <b>indicted</b> for setting a fire might have to learn the names of chemicals used for <b>incineration</b>. Or, if a case involves a religious group, the interpreter may need to learn about beliefs, practices, and important religious figures such as <b>martyrs</b>."
+          ]
+        },
+        {
+          "number": "16",
+          "question": "In line 1, <b>judicial</b> means",
+          "options": ["court", "foreign", "working", "language"],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "17",
+          "question": "The meaning of <b>indicted</b> (line 2) is",
+          "options": [
+            "suspected of",
+            "charged with",
+            "fined for",
+            "jailed for"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "18",
+          "question": "In line 12, <b>vitriolic</b> most nearly means",
+          "options": [
+            "mean",
+            "bitterly sarcastic",
+            "extremely arrogant",
+            "loud"
+          ],
+          "answer": "B",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "19",
+          "question": "The word <b>incineration</b> (line 18) most nearly means",
+          "options": [
+            "setting something on fire",
+            "planning a crime",
+            "putting out a fire",
+            "putting someone in jail"
+          ],
+          "answer": "A",
+          "type": "mcq",
+          "mode": "test_question"
+        },
+        {
+          "number": "20",
+          "question": "In line 21, <b>martyrs</b> means",
+          "options": [
+            "religious educators",
+            "leaders of churches",
+            "those who have died for their beliefs",
+            "lawyers involved in the case"
+          ],
+          "answer": "C",
+          "type": "mcq",
+          "mode": "test_question"
+        }
+      ]
+    }
+  ]
+}
