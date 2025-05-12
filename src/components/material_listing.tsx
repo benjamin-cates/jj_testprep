@@ -1,5 +1,5 @@
 import React, { useContext, useState } from "react";
-import { Assignment, Material, Response } from "../schema";
+import { Material } from "../schema";
 import { AuthContext } from "../auth";
 import { doc, setDoc, writeBatch } from "firebase/firestore";
 import { AssignmentListing, ResponseListing, UnassignedListing } from "./assignment_listing";
