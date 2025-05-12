@@ -43,6 +43,7 @@ export const AuthWrapper = (props: { children?: React.ReactNode }) => {
                             alias: user.displayName,
                             subjects: [],
                             school: "School not entered",
+                            graduation_year: "",
                             active: true,
                             image: user.photoURL,
                             email: user.email,

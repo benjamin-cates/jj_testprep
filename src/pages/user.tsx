@@ -67,8 +67,12 @@ const UserPage: React.FC = () => {
         <div className="vertical_list">
             <div className="user_data">
                 <img className="user_image" src={userData.image} />
-                <div className="user_name">{userData.alias}</div>
-                <div className="user_school">{userData.school}</div>
+                <div className="user_info_text">
+                    <div className="user_name">{userData.alias}</div>
+                    <div className="user_email">{userData.email}</div>
+                    <div className="user_school">{userData.school}</div>
+
+                </div>
             </div>
             <TabBar active_tab={tab} set_tab={setTab} tab_names={["Assignments", "Responses", "Materials"]}></TabBar>
             {tab_content}

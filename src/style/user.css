@@ -8,6 +8,21 @@
   justify-content: space-between;
   box-sizing: border-box;
 }
+.user_data {
+  width: 45rem;
+  display: flex;
+  flex-direction: row;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  border: 1px #888 solid;
+  border-radius: 1rem;
+  box-sizing: border-box;
+  gap: 1rem;
+}
+.user_data img {
+  border-radius: 25%;
+}
 .assignment:not(:first-child) {
   border-top: #888 dashed 1px;
 }
@@ -81,7 +96,7 @@
 }
 
 .material_header {
-  width: 50rem;
+  width: 45rem;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -95,7 +110,7 @@
 .material_header > button {
   width: 2rem;
   height: 2rem;
-  border-radius: 0.7rem;
+  border-radius: 0.6rem;
   background: #eee;
   border: none;
   padding: 0;

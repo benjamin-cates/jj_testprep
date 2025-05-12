@@ -1,6 +1,6 @@
 import React, { useContext, useEffect, useState } from "react";
 import { Header } from "../components/header";
-import { collection, getDocs, query } from "firebase/firestore";
+import { collection, getDocs, orderBy, query } from "firebase/firestore";
 import { NavLink, useNavigate } from "react-router";
 
 import "../style/dashboard.css";
@@ -35,7 +35,7 @@ const Dashboard: React.FC = () => {
             return;
         }
         let users_collection = collection(firebase.db, "users")
-        const q = query(users_collection);
+        const q = query(users_collection, orderBy("alias"));
         getDocs(q).then(value => {
             console.log(value)
             let user_list = [] as any;
@@ -47,12 +47,12 @@ const Dashboard: React.FC = () => {
     }, [firebase?.user, firebase?.is_admin]);
     let header = <Header></Header>;
     if (!firebase || !firebase.user) {
-        return <>{header}<div>You are not logged in</div></>;
+        return <div className="page">{header}<h2>You are not logged in</h2></div>;
     }
     if (firebase.is_admin) {
         return <div className="page">
             {header}
-            <h2>Users List</h2>
+            <h2>Students</h2>
             <div className="vertical_list">
                 {users_list.map((v, i) => (<UserListing key={i} {...v}></UserListing>))}
             </div>
@@ -60,7 +60,7 @@ const Dashboard: React.FC = () => {
     }
     return <div className="page">
         {header}
-        Hello user
+        <h2>You are not logged in</h2>
     </div>;
 }
 
