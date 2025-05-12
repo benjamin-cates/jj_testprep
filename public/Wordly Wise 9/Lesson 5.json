@@ -84,41 +84,39 @@
           "question": "A <b>sagacious</b> person is difficult to rouse to action.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "A <b>sagacious</b> person gives wise and thoughtful advice."
+          "answer": "A <b>sagacious</b> person is wise."
         },
         {
           "number": "3",
           "question": "A <b>secular</b> group is one concerned primarily with spiritual or religious matters.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "A <b>secular</b> group is not connected with religion or the church."
+          "answer": "A <b>secular</b> group is one concerned primarily with wordly matters."
         },
         {
           "number": "4",
           "question": "<b>Strife</b> between people is a condition of tranquility.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "<b>Strife</b> is a conflict or struggle, not tranquility."
+          "answer": "<b>Strife</b> between people is a condition of conflict"
         },
         {
           "number": "5",
           "question": "To <b>speculate</b> is to make a precarious monetary transaction.",
           "type": "frq_short",
-          "manual_grading": true,
-          "answer": "To <b>speculate</b> is to think about or make guesses, or to engage in a risky business venture."
+          "answer": "C"
         },
         {
           "number": "6",
           "question": "A <b>callow</b> person is someone who is easily frightened.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "A <b>callow</b> person is young and inexperienced."
+          "answer": "A callow person is someone who is young and inexperienced."
         },
         {
           "number": "7",
           "question": "To <b>venerate</b> someone is to hold that person in high regard.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "C"
         },
         {
@@ -133,13 +131,12 @@
           "question": "<b>Indolence</b> is a state of indecision.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "<b>Indolence</b> is a state of laziness or avoidance of exertion."
+          "answer": "<b>Indolence</b> is a state of laziness."
         },
         {
           "number": "10",
           "question": "To <b>enunciate</b> a principle is to express it clearly.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "C"
         },
         {
@@ -154,13 +151,12 @@
           "question": "To <b>wane</b> is to go from place to place in aimless fashion.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "To <b>wane</b> means to become smaller, dimmer, or weaker; to near an end."
+          "answer": "To <b>wane</b> means to become smaller, dimmer, or weaker."
         },
         {
           "number": "13",
           "question": "An <b>impediment</b> is a barrier or obstruction.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "C"
         },
         {
@@ -174,12 +170,10 @@
           "number": "15",
           "question": "To be <b>impoverished</b> is to lack sufficient money for one’s needs.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "C"
         }
       ]
     },
-    /* CHECKED TEXT UP TO HERE */
     {
       "name": "Using Words",
       "subheading": "If the word (or a form of the word) in bold fits in a sentence in the group following it, write the word in the blank space. If the word does not fit, leave the space empty. There may be more than one correct answer or no correct answer.",
@@ -194,19 +188,19 @@
           "number": "1b",
           "question": "<b>enunciate</b>: The letters were so faded that I could not ________ the message.",
           "type": "frq_short",
-          "answer": "enunciate"
+          "answer": "(leave blank)"
         },
         {
           "number": "1c",
           "question": "<b>enunciate</b>: The child ________ her words as she read the poem to the assembly.",
+          "manual_grading": true,
           "type": "frq_short",
-          "answer": "enunciated"
+          "answer": "(leave blank)"
         },
         {
           "number": "2a",
           "question": "<b>sagacious</b>: Pericles, known for his ________, made ancient Athens an early center of democracy, art, and literature in the fifth century BCE.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "sagacity"
         },
         {
@@ -214,14 +208,14 @@
           "question": "<b>sagacious</b>: The ________ of the tennis net can be corrected simply by tightening it.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": ""
+          "answer": "(leave blank)"
         },
         {
           "number": "2c",
           "question": "<b>sagacious</b>: You'll be able to squeeze into this jacket because of the ________ of the fabric.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": ""
+          "answer": "(leave blank)"
         },
         {
           "number": "3a",
@@ -234,7 +228,6 @@
           "number": "3b",
           "question": "<b>wane</b>: After the moon is full, it begins to ________.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "wane"
         },
         {
@@ -242,34 +235,32 @@
           "question": "<b>wane</b>: His face was so ________ that I felt something must be the matter with him.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "wan"
+          "answer": "(leave blank)"
         },
         {
           "number": "4a",
           "question": "<b>callow</b>: As an intern, I produced ________ work that always had to be checked by my supervisor.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "callow"
+          "answer": "(leave blank)"
         },
         {
           "number": "4b",
           "question": "<b>callow</b>: Those peaches are still too ________ to be eaten.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": ""
+          "answer": "(leave blank)"
         },
         {
           "number": "4c",
           "question": "<b>callow</b>: When I was a ________ schoolboy, I didn’t have the courage to speak my mind.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "callow"
         },
         {
           "number": "5a",
           "question": "<b>impoverish</b>: The farmers were ________ by a series of poor harvests.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "impoverished"
         },
         {
@@ -277,27 +268,24 @@
           "question": "<b>impoverish</b>: Cars and trucks abandoned by the side of the road ________ the highway.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": ""
+          "answer": "(leave blank)"
         },
         {
           "number": "5c",
           "question": "<b>impoverish</b>: Determined that her children not be culturally ________, she took them frequently to the library.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "impoverished"
         },
         {
           "number": "6a",
           "question": "<b>speculate</b>: I'm not prepared to ________ about what happened to them after they left here.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "speculate"
         },
         {
           "number": "6b",
           "question": "<b>speculate</b>: Can you prove that they ________ with the money entrusted to them?",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "speculated"
         },
         {
@@ -305,41 +293,37 @@
           "question": "<b>speculate</b>: I ________ the facts for the group in order to help them reach a decision.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": ""
+          "answer": "(leave blank)"
         },
         {
           "number": "7a",
           "question": "<b>strife</b>: Our math teacher said that we must ________ to do better on our next quiz.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": ""
+          "answer": "(leave blank)"
         },
         {
           "number": "7b",
           "question": "<b>strife</b>: “Jealousy and greed cause much ________ in the world,” she sighed.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "strife"
         },
         {
           "number": "7c",
           "question": "<b>strife</b>: Frequent ________ between labor and management in the factory resulted in many work stoppages.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "strife"
         },
         {
           "number": "8a",
           "question": "<b>contemporary</b>: Advances in biomedical research are ________ with a growing interest in alternative medicine.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "contemporary"
         },
         {
           "number": "8b",
           "question": "<b>contemporary</b>: Sally Ride and Judith Resnik, the first and second women astronauts, were ________.",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "contemporaries"
         },
         {
@@ -347,83 +331,73 @@
           "question": "<b>contemporary</b>: This is just a ________ arrangement until we come up with something better.",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "temporary"
+          "answer": "(leave blank)"
         }
       ]
     },
     {
       "name": "Word Study: Word Parts",
-      "subheading": "Complete each sentence. Then write a brief definition of the word. The number after each sentence is the lesson the word is from.",
+      "subheading": "Complete each sentence. The number after each sentence is the lesson the word is from.",
       "content": [
         {
           "number": "1",
-          "question": "The prefix <b>con-</b> means \"with.\" It combines with the Latin <i>tempus</i> (time) to form the English word ________.",
+          "question": "The prefix <b>con-</b> means \"with.\" It combines with the Latin <i>tempus</i> (time) to form the English word ________ (5).",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "contemporary"
         },
         {
           "number": "2",
-          "question": "The prefix <b>ex-</b> means \"from\" or \"out.\" It combines with the Latin <i>torrere</i> (to burn) to form the English word ________.",
+          "question": "The prefix <b>ex-</b> means \"from\" or \"out.\" It combines with the Latin <i>torrere</i> (to burn) to form the English word ________ (1).",
           "type": "frq_short",
-          "manual_grading": true,
-          "answer": "exacerbate"
+          "answer": "extol"
         },
         {
           "number": "3",
-          "question": "The prefix <b>inter-</b> means \"between.\" It combines with the Latin <i>mittere</i> (to send) to form the English word ________.",
+          "question": "The prefix <b>inter-</b> means \"between.\" It combines with the Latin <i>mittere</i> (to send) to form the English word ________ (1).",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "intermittent"
         },
         {
           "number": "4",
-          "question": "The prefix <b>in-</b> means \"not.\" It combines with the Latin <i>superare</i> (to overcome) to form the English word ________.",
+          "question": "The prefix <b>in-</b> means \"not.\" It combines with the Latin <i>superare</i> (to overcome) to form the English word ________ (1).",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "insuperable"
         },
         {
           "number": "5",
-          "question": "The prefix <b>in-</b> combines with the Latin <i>dolere</i> (to feel pain) to form the English word ________.",
+          "question": "The prefix <b>in-</b> combines with the Latin <i>dolere</i> (to feel pain) to form the English word ________ (5).",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "indolent"
         },
         {
           "number": "6",
-          "question": "The Latin <i>vagus</i> means \"wandering.\" It forms the English word ________.",
+          "question": "The Latin <i>vagus</i> means \"wandering.\" It forms the English word ________ (1).",
           "type": "frq_short",
-          "manual_grading": true,
-          "answer": "vagrant"
+          "answer": "vagabond"
         },
         {
           "number": "7",
-          "question": "The prefix <b>de-</b> means \"from.\" It combines with the Latin <i>trahere</i> (to draw or pull) to form the English word ________.",
+          "question": "The prefix <b>de-</b> means \"from.\" It combines with the Latin <i>trahere</i> (to draw or pull) to form the English word ________ (1).",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "detract"
         },
         {
           "number": "8",
-          "question": "The Latin <i>vorare</i> means \"to devour.\" It forms the English word ________.",
+          "question": "The Latin <i>vorare</i> means \"to devour.\" It forms the English word ________ (5).",
           "type": "frq_short",
-          "manual_grading": true,
           "answer": "voracious"
         },
         {
           "number": "9",
           "question": "The Latin <i>torrere</i> means \"to parch.\" It forms the English word ________.",
           "type": "frq_short",
-          "manual_grading": true,
-          "answer": "torrent"
+          "answer": "torrid"
         },
         {
           "number": "10",
-          "question": "The Latin <i>visus</i> means \"appearance.\" It forms the English word ________.",
+          "question": "The Latin <i>visus</i> means \"appearance.\" It forms the English word ________ (2).",
           "type": "frq_short",
-          "manual_grading": true,
-          "answer": "vision"
+          "answer": "visage"
         }
       ]
     },
@@ -435,14 +409,12 @@
         {
           "name": "Ideas That Endure",
           "passage": [
-            "The present educators are those whose lessons are still remembered centuries after their deaths. Among this select group, few stand higher than the Chinese sage Confucius. He was the first to <b>enunciate</b> the Golden Rule—treat others as you would have them treat you.",
+            "The greatest educators are those whose lessons are still remembered centuries after their deaths. Among this select group, few stand higher than the Chinese sage Confucius. He was the first to <b>enunciate</b> the Golden Rule—treat others as you would have them treat you.",
             "Confucius was born into a noble but <b>impoverished</b> family in 551 BCE in what is now the province of Shantung. His father died when he was three; as a young man he worked as a herder and storekeeper in order to support himself and his widowed mother. Unable to pay for a formal education, he became a <b>voracious</b> reader whose wide and lively learning soon earned him a formidable reputation as a scholar.",
-            "Hired as a tutor to the sons of the wealthy, he decided to open his own school. Willingness to learn was the only requirement; lack of money was no <b>impediment</b>. Because Confucius required the wealthier parents to pay for the education of the poorer students, many of his students were one and the same, thereby adding to his reputation as a man of learning and moral character. Almost all who knew Confucius extolled his virtues.",
-            "An exception to these admirers was Lao-tzu, a man whose writings are second only to those of Confucius in their impact on China. The two sages met when Confucius was in his early thirties. Lao-tzu was more than fifty years his senior. The older man was <b>venerated</b> as the founder of the religion of Taoism, although he thought the younger man <b>callow</b>. This judgment is not surprising, for Lao-tzu’s concerns were spiritual, while Confucius’ thoughts were focused largely on <b>secular</b> matters. For example, Confucius declined to discuss whether the soul survives the death of the body. His position was that because one cannot understand the meaning of life, there is no point in <b>speculating</b> about the mystery of death.",
-            "<b>Contemporary</b> with a time of great unrest, Confucius’s concern had always been with such practical questions as how to achieve good government and how best to conduct relations within the family and between individuals. His answer to both questions was 'li'—translated as 'good manners.' That meant those in authority should show respect to those beneath them. Confucius’ ideas were particularly appropriate for his time because during that period, China lacked a strong central government. <b>Despotic</b> warlords ruled China, and their constant <b>strife</b> and widespread vice brought disorder and misery to the common people. In the words of one of Confucius’ <b>contemporaries</b>: 'The world had fallen into decay, and right principles had disappeared.'",
-            "As a result of his success with former pupils, Confucius was made a minister of justice in his native province of Lu. Not surprisingly, he proved to be a <b>sagacious</b> administrator. As high officer, Confucius was able to practice and encourage others to do the same. In this way, he helped restore order in the land, all but eliminated crime, and gave the people of Lu a period of peace.",
-            "This happy state was short-lived. The ruler of Lu Province grew <b>indolent</b> and began taking advice from those who wanted to return to the old ways. They wanted more opportunity for personal enrichment. Confucius found his influence <b>waning</b> in the corrupting government of Lu. After four years in office, he was dismissed as a result of the maneuvers of jealous rivals. Now fifty-six, Confucius spent the next thirteen years traveling throughout China, hoping to find a ruler who would accept his guidance. Although he failed in this endeavor, there is no evidence that he ever became <b>cynical</b>.",
-            "Although Confucius did not put his principles into writing, groups of his followers passed on his teachings. These dealt with codes of conduct based on the belief that strong moral character is the basis of civilization and that inner goodness is reflected in outer behavior. Some three thousand principles of Confucius survive and became the basis of Chinese education for over two thousand years."
+            "Hired as a tutor to the sons of the wealthy, he decided to open his own school. Willingness to learn was the only requirement; lack of money was no <b>impediment</b>. Because Confucius required the wealthier parents to pay for the education of the poorer students, many of his students went on to hold important government offices, thereby adding to his reputation as a man of learning and moral character. Almost all who knew Confucius extolled his virtues.",
+            "An exception to these admirers was Lao-tzu, a man whose writings are second only to those of Confucius in their impact on China. The two sages met when Confucius was in his early thirties. Lao-tzu was more than fifty years his senior. Confucius was deeply impressed by the older man's wisdom, but Lao-tzu, <b>venerated</b> as the founder of the religion of Taoism, thought the younger man <b>callow</b>. This judgment is not surprising, for Lao-tzu’s concerns were spiritual, while Confucius’ thoughts were focused largely on <b>secular</b> matters. For example, Confucius declined to discuss whether the soul survives the death of the body. His position was that because one cannot understand the meaning of life, there is no point in <b>speculating</b> about the mystery of death.",
+            "Confucius’s concern had always been with such practical questions as how to achieve good government and how best to conduct relations within the family and between individuals. His answer to both questions was 'li'—translated as 'good manners.' That meant those in authority should show respect to those beneath them. Confucius’ ideas were particularly appropriate for his time because during that period, China lacked a strong central government. <b>Despotic</b> warlords ruled China, and their constant <b>strife</b> and widespread vice brought disorder and misery to the common people. In the words of one of Confucius’ <b>contemporaries</b>: 'The world had fallen into decay, and right principles had disappeared.' As a result of his success with former pupils, Confucius was made a minister of justice in his native province of Lu. Not surprisingly, he proved to be a <b>sagacious</b> administrator. As high officer, Confucius was able to practice and encourage others to do the same. In this way, he helped restore order in the land, all but eliminated crime, and gave the people of Lu a period of peace.",
+            "This happy state was short-lived. The ruler of Lu Province grew <b>indolent</b> and began taking advice from those who wanted to return to the old ways. They wanted more opportunity for personal enrichment. Confucius found his influence <b>waning</b> in the corrupting government of Lu. After four years in office, he was dismissed as a result of the maneuvers of jealous rivals. Now fifty-six, Confucius spent the next thirteen years traveling throughout China, hoping to find a ruler who would accept his guidance. Although he failed in this endeavor, there is no evidence that he ever became <b>cynical</b>. Although Confucius did not put his principles into writing, groups of his followers passed on his teachings. These dealt with codes of conduct based on the belief that strong moral character is the basis of civilization and that inner goodness is reflected in outer behavior. Some three thousand principles of Confucius survive and became the basis of Chinese education for over two thousand years."
           ]
         },
         {
@@ -457,84 +429,84 @@
           "question": "Which detail in the passage suggests that Confucius was not an <b>indolent</b> youth?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "He worked as a herder and storekeeper and became a <b>voracious</b> reader to educate himself."
+          "answer": "He worked at various jobs to support his mother and himself"
         },
         {
           "number": "3",
           "question": "How did Confucius educate himself?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "He was a <b>voracious</b> reader and learned through wide and lively reading."
+          "answer": "He read voraciously"
         },
         {
           "number": "4",
           "question": "How might following the Golden Rule reduce <b>strife</b>?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "If people treat others with respect, as the Golden Rule advises, it may prevent <b>strife</b> and conflict."
+          "answer": "If we were to treat others as we would like to be treated, we would not harm each other."
         },
         {
           "number": "5",
           "question": "What would be an appropriate description for the person who says that the Golden Rule is 'The one with the gold makes the rules'?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "That person might be seen as <b>cynical</b>, doubting the sincerity or fairness of others."
+          "answer": "A person who believes this would be described as cynical."
         },
         {
           "number": "6",
           "question": "What evidence do we have that the followers of Confucius <b>venerated</b> him?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "They passed down his teachings and based Chinese education on them for over two thousand years."
+          "answer": "The passage says they passed down his ideas"
         },
         {
           "number": "7",
           "question": "What <b>impediments</b> did Confucius have to overcome as a young man?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "He had no money and had to support his family, yet he still pursued learning."
+          "answer": "Poverty and a lack of formal education were both obstacles."
         },
         {
           "number": "8",
           "question": "What were some of the differences in point of view between Confucius and Lao-tzu?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "Lao-tzu was focused on spiritual matters, while Confucius focused on <b>secular</b> and practical issues."
+          "answer": "Confucius focused on <b>secular</b> matters, whereas Lao-tzu <b>speculated</b> about spiritual matters."
         },
         {
           "number": "9",
           "question": "How do you know that Confucius and Lao-tzu were <b>contemporaries</b>?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "The passage states that the two sages met when Confucius was in his early thirties and Lao-tzu was older."
+          "answer": "They met each other"
         },
         {
           "number": "10",
           "question": "What contributed to Lao-tzu’s impression that Confucius was <b>callow</b>?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "Confucius focused on practical affairs instead of spiritual matters, which may have seemed immature to Lao-tzu."
+          "answer": "When they met, Confucius was fifty years younger than Lao-tzu"
         },
         {
           "number": "11",
           "question": "What quality did Confucius and Lao-tzu share?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "They were both <b>sagacious</b> thinkers who influenced Chinese thought deeply."
+          "answer": "Each possessed <b>sagacity</b>"
         },
         {
           "number": "12",
           "question": "Why was it unlikely that <b>despotic</b> rulers would appoint Confucius to a position of authority?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "Because Confucius promoted fairness, order, and morality, which contrasted with the interests of <b>despotic</b> rulers."
+          "answer": "Confucius's belief that people in authority must show respect for those they rule would not be popular with rulers who want absolute power."
         },
         {
           "number": "13",
           "question": "Why do you think interest in Confucius' teachings has not <b>waned</b>?",
           "type": "frq_short",
           "manual_grading": true,
-          "answer": "Because his teachings on morality and order continue to resonate and guide people even today."
+          "answer": "Confucius <b>enunciated</b> ideas that have meaning independent of time and place."
         }
       ]
     }

@@ -1,0 +1,506 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Lesson 6",
+  "pages": [
+    {
+      "name": "Definitions",
+      "type": "definition_table",
+      "content": [
+        {
+          "word": "apropos",
+          "definition": "<i>adj.</i> Fitting the occasion; suitable or apt.<br>The governor’s red, white, and blue blouse seemed quite <b>apropos</b> for her post-election celebration."
+        },
+        {
+          "word": "ascendancy",
+          "definition": "<i>n.</i> Controlling influence; domination.<br>The <b>ascendancy</b> of the United States as a world power coincided with the decline of the British Empire."
+        },
+        {
+          "word": "assess",
+          "definition": "<i>v.</i> To analyze and determine the nature, value, or importance of.<br>After she <b>assessed</b> the difficulties we faced in repairing the storm damage, she proposed a plan.<br><i>n.</i> <b>Assessment</b>: My <b>assessment</b> of the contents of the refrigerator showed that we were in dire need of going to the grocery store."
+        },
+        {
+          "word": "aver",
+          "definition": "<i>v.</i> To declare positively; to state as the truth.<br>The lawyer <b>averred</b> that her client was innocent."
+        },
+        {
+          "word": "concede",
+          "definition": "<i>v.</i> 1. To admit to be true, often reluctantly.<br>Bungee jumpers <b>concede</b> that the sport can be dangerous.<br>2. To grant or let have.<br>When it was clear that she wouldn’t win, Marla <b>conceded</b> the chess game to her opponent."
+        },
+        {
+          "word": "deficient",
+          "definition": "<i>adj.</i> Lacking.<br>A diet <b>deficient</b> in fruits and vegetables won’t provide enough vitamins for good nutrition.<br><i>n.</i> <b>Deficiency</b>: Teachers argued that students experienced a serious <b>deficiency</b> when schools could not provide music and art education."
+        },
+        {
+          "word": "dogma",
+          "definition": "<i>n.</i> An unproven principle or belief held to be true.<br>The danger is that what starts out as a vague theory can soon harden into <b>dogma</b>.<br><i>adj.</i> <b>Dogmatic</b>: Overly positive and assertive about opinions, as if they were facts.<br>My coach is not <b>dogmatic</b> about her favored method of teaching dance, because she knows there is no one right way to teach it."
+        },
+        {
+          "word": "embody",
+          "definition": "<i>v.</i> 1. To put an idea into a form that can be seen.<br>The painting <b>embodies</b> the love of a parent for a child.<br>2. To make part of a system; incorporate.<br>The Bill of Rights <b>embodies</b> the basic freedoms of all Americans."
+        },
+        {
+          "word": "impart",
+          "definition": "<i>v.</i> 1. To make known; disclose.<br>He <b>imparted</b> his views in such a humorous manner that we were unsure whether to take them seriously.<br>2. To bestow.<br>The capers <b>impart</b> just the right amount of piquancy to the fish sauce."
+        },
+        {
+          "word": "oratory",
+          "definition": "<i>n.</i> The art of public speaking.<br>Miriam’s inspired <b>oratory</b> earned her the highest grade in the public-speaking class.<br><i>n.</i> <b>Orator</b>: A public speaker.<br>Patrick Henry, a contemporary of George Washington, was a brilliant <b>orator</b>.<br><i>adj.</i> <b>Oratorical</b>: Practicing your speech in the mirror can help sharpen your <b>oratorical</b> skills."
+        },
+        {
+          "word": "propagate",
+          "definition": "<i>v.</i> 1. To reproduce.<br>The scientists were puzzled when the frogs that <b>propagated</b> in the fall had unusually few offspring.<br>2. To cause to reproduce.<br>Begonias are easy plants to <b>propagate</b>.<br>3. To foster the spread of.<br>The professor wrote several articles to <b>propagate</b> his theory explaining the causes of sudden climate change.<br><i>n.</i> <b>Propagation</b>: The <b>propagation</b> of information has been facilitated by the use of computers."
+        },
+        {
+          "word": "proponent",
+          "definition": "<i>n.</i> Someone who proposes or supports an idea; an advocate.<br>The bill passed easily because its <b>proponents</b> were in the majority."
+        },
+        {
+          "word": "rudimentary",
+          "definition": "<i>adj.</i> 1. Not yet fully developed; basic.<br>The <b>rudimentary</b> train system of the United States developed rapidly during the second half of the nineteenth century.<br>2. Elementary.<br>Juan speaks four languages perfectly and has a <b>rudimentary</b> knowledge of several others."
+        },
+        {
+          "word": "sojourn",
+          "definition": "<i>n.</i> A visit or temporary stay.<br>Our summer <b>sojourn</b> with our cousins ended after six wonderful weeks in Puerto Rico.<br><i>v.</i> To stay for a while.<br>We usually <b>sojourn</b> for a week or so at our grandparents’ cabin as we make our way north."
+        },
+        {
+          "word": "vociferous",
+          "definition": "<i>adj.</i> Making one’s feelings known in a loud way.<br>The community’s <b>vociferous</b> opposition to a stadium in the neighborhood led the governor to abandon the plan."
+        }
+      ]
+    },
+    {
+      "name": "6A: Determining Precise Meaning",
+      "subheading": "Choose the most accurate paraphrase for each sentence.",
+      "content": [
+        {
+          "number": "1",
+          "question": "The <b>deficiency</b> amounted to a hundred dollars.",
+          "type": "mcq",
+          "options": [
+            "The shortage amounted to a hundred dollars.",
+            "The excess amounted to a hundred dollars."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "2",
+          "question": "The students made <b>vociferous</b> objections to the new dress code.",
+          "type": "mcq",
+          "options": [
+            "The students made loud objections to the new dress code.",
+            "The students made muted objections to the new dress code."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "3",
+          "question": "Paulo’s <b>sojourn</b> in Los Angeles turned out to be a disappointment.",
+          "type": "mcq",
+
+          "options": [
+            "Paulo’s hotel in Los Angeles turned out to be a disappointment.",
+            "Paulo’s stay in Los Angeles turned out to be a disappointment."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "4",
+          "question": "The party plans are in a <b>rudimentary</b> stage.",
+          "type": "mcq",
+
+          "options": [
+            "The party plans are in an early stage.",
+            "The party plans are fully developed."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "5",
+          "question": "I <b>imparted</b> what I knew of the accident.",
+          "type": "mcq",
+
+          "options": [
+            "I withheld what I knew of the accident.",
+            "I told what I knew of the accident."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "6",
+          "question": "The political candidate’s <b>oratory</b> played a major part in her victory.",
+          "type": "mcq",
+
+          "options": [
+            "The political candidate’s skills as a public speaker played a major part in her victory.",
+            "The political candidate’s ability to think ahead played a major part in her victory."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "7",
+          "question": "The new principal held a meeting to <b>propagate</b> her views.",
+          "type": "mcq",
+
+          "options": [
+            "The new principal held a meeting to stifle her views.",
+            "The new principal held a meeting to spread her views as widely as possible."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "8",
+          "question": "Thomasina <b>avers</b> that flying saucers are real.",
+          "type": "mcq",
+
+          "options": [
+            "Thomasina claims that flying saucers are real.",
+            "Thomasina denies that flying saucers are real."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "9",
+          "question": "I <b>concede</b> that the number of school dropouts is rising.",
+          "type": "mcq",
+
+          "options": [
+            "I deny that the number of school dropouts is rising.",
+            "I acknowledge that the number of school dropouts is rising."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "10",
+          "question": "The governor is a <b>proponent</b> of solar energy.",
+          "type": "mcq",
+
+          "options": [
+            "The governor opposes solar energy.",
+            "The governor supports solar energy."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "11",
+          "question": "A shirt and tie are <b>apropos</b> for the meeting at the statehouse.",
+          "type": "mcq",
+
+          "options": [
+            "A shirt and tie are quite acceptable for the meeting at the statehouse.",
+            "A shirt and tie are not suitable for the meeting at the statehouse."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "12",
+          "question": "Great Britain’s <b>ascendancy</b> during this time period was enormous.",
+          "type": "mcq",
+
+          "options": [
+            "Great Britain’s decline during this time period was enormous.",
+            "Great Britain’s dominance during this time period was enormous."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "13",
+          "question": "I <b>assessed</b> my chances of winning a scholarship.",
+          "type": "mcq",
+
+          "options": [
+            "I figured out my chances of winning a scholarship.",
+            "I forgot about my chances of winning a scholarship."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "14",
+          "question": "Will’s <b>dogmatic</b> attitude about the best way to travel annoys his friends.",
+          "type": "mcq",
+
+          "options": [
+            "Will’s assertive attitude about the best way to travel annoys his friends.",
+            "Will’s condescending attitude about the best way to travel annoys his friends."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "15",
+          "question": "For many Americans, the eagle <b>embodies</b> the idea of freedom.",
+          "type": "mcq",
+
+          "options": [
+            "For many Americans, the eagle physically represents the idea of freedom.",
+            "For many Americans, the eagle makes abstract the idea of freedom."
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Word Relationships",
+      "subheading": "Circle the letter next to each correct answer. There may be more than one correct answer.",
+      "content": [
+        {
+          "number": "1",
+          "question": "Which word or words are related to <b>stubborn</b>?",
+          "type": "multi_select",
+          "options": ["dogmatic", "callow", "rigid", "vociferous"],
+          "answer": "TFTF"
+        },
+        {
+          "number": "2",
+          "question": "Which word or words are related to <b>fitting for an event</b>?",
+          "type": "multi_select",
+          "options": ["approximate", "appropriate", "apropos", "rudimentary"],
+          "answer": "FTTF"
+        },
+        {
+          "number": "3",
+          "question": "Which word or words are related to <b>figure out</b>?",
+          "type": "multi_select",
+          "options": ["concede", "assess", "impart", "estimate"],
+          "answer": "FTFT"
+        },
+        {
+          "number": "4",
+          "question": "Which word or words are related to <b>power</b>?",
+          "type": "multi_select",
+          "options": ["ascendancy", "sojourn", "dominance", "impediment"],
+          "answer": "TFTF"
+        },
+        {
+          "number": "5",
+          "question": "Which word or words are related to <b>make part of</b>?",
+          "type": "multi_select",
+          "options": ["probe", "embody", "concede", "speculate"],
+          "answer": "FTFF"
+        },
+        {
+          "number": "6",
+          "question": "Which word or words are related to <b>declare</b>?",
+          "type": "multi_select",
+          "options": ["proclaim", "aver", "propagate", "affirm"],
+          "answer": "TTFT"
+        },
+        {
+          "number": "7",
+          "question": "Which word or words are related to <b>give in</b>?",
+          "type": "multi_select",
+          "options": ["impoverish", "capitulate", "impart", "concede"],
+          "answer": "FTFT"
+        },
+        {
+          "number": "8",
+          "question": "Which word or words are related to <b>loud</b>?",
+          "type": "multi_select",
+          "options": ["deficient", "voracious", "vociferous", "reverberate"],
+          "answer": "FFTT"
+        },
+        {
+          "number": "9",
+          "question": "Which word or words are related to <b>crude</b>?",
+          "type": "multi_select",
+          "options": ["primitive", "oratorical", "rudimentary", "sagacious"],
+          "answer": "TFTF"
+        },
+        {
+          "number": "10",
+          "question": "Which word or words are related to <b>too little</b>?",
+          "type": "multi_select",
+          "options": ["sojourn", "deficient", "meager", "scarcity"],
+          "answer": "FTTT"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Contextual Meanings",
+      "subheading": "Read the following sentences. If the word in bold is used correctly, write C on the line. If the word is used incorrectly, write a new sentence using the word correctly.",
+      "content": [
+        {
+          "number": "1",
+          "question": "The <b>vociferous</b> winds took tiles off roofs and overturned trees.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She was vociferous about her fear of heights."
+        },
+        {
+          "number": "2",
+          "question": "My <b>rudimentary</b> Spanish enabled me to order meals in Mexico City.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "3",
+          "question": "My grandparents enjoy a six-month <b>sojourn</b> in Florida to escape winter.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "4",
+          "question": "The X-1500 jet fighter reaches an <b>ascendancy</b> of fifty thousand feet.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "The ascendance of the new president made some people nervous."
+        },
+        {
+          "number": "5",
+          "question": "I had <b>deficient</b> money to pay the bus fare.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "6",
+          "question": "Jacob’s <b>proponent</b> in the wrestling tournament shook his hand before the match.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "My dad is a proponent of curfews."
+        },
+        {
+          "number": "7",
+          "question": "Amoebas <b>propagate</b> by dividing in half.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "8",
+          "question": "When the tide began to <b>concede</b>, numerous seashells were left on the beach.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Our teacher conceded that she gave us too much homework after the class had to pull an all-nighter to finish it"
+        },
+        {
+          "number": "9",
+          "question": "I <b>assessed</b> carefully to the sound of the rain.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Exams are given at the end of the year to assess student learning."
+        },
+        {
+          "number": "10",
+          "question": "Katya <b>averred</b> that she had been told nothing of the plan.",
+          "type": "frq_short",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary in Context",
+      "subheading": "Read the passage. Answer each question with a sentence. If a question does not contain a word from the lesson, use one in your answer. Use each word only once.",
+      "type": "reading_check",
+      "content": [
+        {
+          "name": "Silent World?",
+          "passage": [
+            "Imagine living in a totally silent world, one in which no words are spoken and no sounds are heard. Would you be entirely unable to communicate with others, and therefore feel very isolated? Probably not if you could express your thoughts in a <b>rudimentary</b> manner by using simple gestures. Pointing to yourself, for example, would mean “me”; pointing to another person would mean “you.”",
+            "In 1755, Abbé Michel de l’Epée used this idea to develop a simple language with its own vocabulary and grammar. At the school he founded in Paris, he taught people whose profound loss of hearing had left them speechless to communicate through hand and arm movements (later known as the “manual” method). During the same time period, a different system was developed in England and Germany; its <b>proponents</b> rejected the French method and favored teaching people who are deaf to enunciate words and to lip-read (later known as the “oral” method).",
+            "At this time, the United States had no school for people who are deaf. Concerned about this <b>deficiency</b>, a group of Connecticut citizens sent Thomas Gallaudet, a young minister, to Europe in 1815 to make an <b>assessment</b> of both the manual and the oral approaches. For some reason, the people running the English school were unwilling to <b>impart</b> their teaching methods to Gallaudet; perhaps they feared he would lure away their students, depriving them of their livelihood. So Gallaudet went to France. After a lengthy <b>sojourn</b> in Paris, he returned to Connecticut to <b>propagate</b> the French method in the United States. His advocacy of the French approach might have had something to do with his treatment by the English.",
+            "Within a year, Gallaudet had opened the first free school for the deaf, which later became the American School for the Deaf, in Hartford, Connecticut. Here, he used a system known as American Sign Language (ASL), in which signs are wordlike units made with one or both hands to form obvious shapes and make distinctive movements. Spatial relations, direction, and orientation of hand movements comprise the grammar of ASL, which shares some elements with spoken English. Gallaudet’s method caught on quickly; other schools opened, and for the next few decades ASL held the <b>ascendancy</b> in the United States.",
+            "Then in the 1840s, the alternative (oral) method, using speech and especially lip-reading, was introduced at the Clarke School for the Deaf in Worcester, Massachusetts. Both methods, and the different approaches they <b>embody</b>, have continued to generate <b>vociferous</b> debate. Opponents of the speech/lip-reading method claim that students who have never heard speech cannot be expected to be understood properly. Also, lip-reading can be misleading: the lip movements when pronouncing the words <i>bat</i>, <i>mat</i>, and <i>pat</i>, for example, all look the same. Opponents of ASL, on the other hand, argue that students who communicate with gestures can do so only among themselves and are thus cut off from contact with the rest of the population.",
+            "In 1969, a large residential school in Maryland introduced the concept of total communication. This philosophy, increasingly influential today, does not follow a single approach <b>dogmatically</b>; instead it uses a combination of whatever works for a particular individual. Options include speech, lip-reading, signing, mime, gestures, finger spelling, art, reading, writing, and use of electronic media.",
+            "Since the mid-twentieth century, significant gain has been made in removing the barriers that separate people with disabilities from the rest of the population. Progress toward this end continues with the passing of federal and state legislation, the advocacy of parents and educators, and the challenges of individual citizens. One such challenge was made by Shannon Merriman, who was a sixteen-year-old Rhode Island high school student. At that time, she tried to enter the high school Voice of Democracy contest, a national <b>oratorical</b> competition, that attracts over two hundred thousand entrants annually.",
+            "Merriman, having lost her hearing when she was two, communicates through ASL. When the sponsors of the competition rejected her application, she challenged the legality of their act, causing them to <b>concede</b> her the right to participate. She didn’t win the competition, but she opened up one more opportunity for hearing-impaired people to participate in mainstream American life. The topic of the contest that year was particularly <b>apropos</b>; it was “My Voice in America’s Future.”"
+          ]
+        },
+        {
+          "number": "1",
+          "question": "Why would it be inaccurate to describe the education for hearing-impaired people in the United States before 1815 as <b>rudimentary</b>?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "It would be inaccurate because no education for hearing-impaired people existed in the United States before 1815."
+        },
+        {
+          "number": "2",
+          "question": "How do you know that Gallaudet’s <b>sojourn</b> in France was successful?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "The passage says that shortly after he returned, he opened a school to propagate the method he had learned."
+        },
+        {
+          "number": "3",
+          "question": "Why did Gallaudet become a <b>proponent</b> of the method taught in France?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "The English refused to teach him their method, so he supported the method he had learned."
+        },
+        {
+          "number": "4",
+          "question": "How was Gallaudet’s reception in France different from that in England?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "The French were willing to impart their methods to Galludet; the English refused."
+        },
+        {
+          "number": "5",
+          "question": "As a means of communication, does American Sign Language have any <b>deficiencies</b>, in your opinion?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "People can communicate in ASL only with others who know it."
+        },
+        {
+          "number": "6",
+          "question": "Why was American Sign Language in the <b>ascendancy</b> after it was introduced in the U.S.?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "It was the only method being taught and thus had no competition"
+        },
+        {
+          "number": "7",
+          "question": "What is a problem with lip-reading that supporters of the oral method might <b>concede</b>?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "They would probably admit that many words can be misunderstood in the process of lip-reading because the lips look the same when particular words are pronounced."
+        },
+        {
+          "number": "8",
+          "question": "Why do you think the debate over the competing methods was <b>vociferous</b> at times?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "The discussions could have been loud and heated because people felt strongly about the method they preferred."
+        },
+        {
+          "number": "9",
+          "question": "How is the total-communication approach related to American Sign Language and lip-reading?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "It embodies both methods in its approach."
+        },
+        {
+          "number": "10",
+          "question": "Why would it be inaccurate to describe the total-communication approach as <b>dogmatic</b>?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "This approach doesn't say one method is the best; instead, it encourages individuals to use any methods that work for them."
+        },
+        {
+          "number": "11",
+          "question": "Describe Merriman’s <b>assessment</b> of the rejection of her application to enter the Voice of Democracy contest.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Merryman questioned the legality of the sponsors' decision."
+        },
+        {
+          "number": "12",
+          "question": "Why was the topic of the contest so <b>apropos</b> for Merriman?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "The title 'My Voice in America's Future' was very appropriate because by using sign language, Merryman added to the meaning of voice."
+        },
+        {
+          "number": "13",
+          "question": "Why do you think Merriman <b>averred</b> that she had a right to compete in the contest?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She may have insisted because she was able to communicate even if it was not in the accustomed way."
+        },
+        {
+          "number": "14",
+          "question": "How did Merriman expand the meaning of the word <b>oratory</b>?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "She showed it didn't need to tbe limited only to spoken words."
+        }
+      ]
+    }
+  ]
+}
