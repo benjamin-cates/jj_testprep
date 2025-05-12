@@ -1,8 +1,8 @@
 import React, { useContext, useEffect, useState } from "react";
 import { default_response, Lesson, Response } from "../schema";
 import { PageRender } from "./page_renderer";
-import { deleteDoc, doc, getDoc, setDoc } from "firebase/firestore";
-import { useParams } from "react-router";
+import { deleteField, doc, getDoc, setDoc, updateDoc } from "firebase/firestore";
+import { useBlocker, useParams } from "react-router";
 import { AuthContext } from "../auth";
 import { Header } from "../components/header";
 import { score_response } from "../scoring";
@@ -16,8 +16,15 @@ const LessonViewer: React.FC = () => {
     const [response, set_response] = useState(() => default_response(material_name, lesson_name));
     const user_id = params.user_id as string;
     const [lesson_data, set_lesson_data] = useState({ pages: [], name: "", id: "" } satisfies Lesson as Lesson);
-    const [update_scores, set_update_scores] = useState(false);
+    const [has_changes, set_has_changes] = useState(false);
 
+    const blocker = useBlocker(has_changes);
+    useEffect(() => {
+        if (blocker.state == "blocked") {
+            if (confirm("You have unsaved changes. Are you sure you want to leave?")) blocker.proceed();
+            else blocker.reset();
+        }
+    }, [blocker.state]);
     useEffect(() => {
         if (!firebase) return;
         if (firebase.user) {
@@ -42,13 +49,25 @@ const LessonViewer: React.FC = () => {
             });
         }
     }, [firebase, firebase?.user, lesson_name, user_id]);
+    useEffect(() => {
+        if (!has_changes) return;
+        function beforeUnload(e: BeforeUnloadEvent) {
+            e.preventDefault();
+            e.returnValue = "You have unsaved changes";
+            return "You have unsaved changes";
+        }
+        window.addEventListener('beforeunload', beforeUnload);
+        return () => {
+            window.removeEventListener('beforeunload', beforeUnload);
+        };
+    }, [has_changes]);
     if (lesson_data.pages.length == 0) {
         return <div className="page"><Header></Header></div>
-
     }
     const update_answer = (number: string, new_answer: string) => {
         let new_answers = { ...response.answers };
         new_answers[page + "," + number] = "N," + new_answer;
+        set_has_changes(true);
         set_response({ ...response, answers: new_answers });
     };
     const submit = (my_answers: Response) => {
@@ -59,9 +78,9 @@ const LessonViewer: React.FC = () => {
             console.log("Submitted answers");
         })
         if (my_answers.completion_date != "") {
-            deleteDoc(doc(firebase.db, "users", user_id, "assignments", material_name + "|" + lesson_name)).then(() => {
-                console.log("Deleted assignment");
-            })
+            let location = material_name + "|" + lesson_name;
+            updateDoc(doc(firebase.db, "users", user_id, "scores", "scores"), location, my_answers.completion_date + "," + my_answers.score + "/" + my_answers.unscored + "/" + my_answers.max_score);
+            updateDoc(doc(firebase.db, "users", user_id, "assignments", "assignments"), location, deleteField());
         }
         set_response({ ...my_answers });
     };
@@ -83,7 +102,7 @@ const LessonViewer: React.FC = () => {
         console.log(max_score);
         new_answers.answers[key] = "S-" + (parseInt(score) || 0) + "/0/" + max_score + "," + new_answers.answers[key].split(",").slice(1).join(",");
         set_response(new_answers);
-        set_update_scores(true);
+        set_has_changes(true);
     }
     let unanswered = [];
     let not_submitted = false;
@@ -95,8 +114,12 @@ const LessonViewer: React.FC = () => {
 
         {!firebase?.is_admin && !not_submitted && <div>Page {page + 1} submitted</div>}
         {!firebase?.is_admin && not_submitted && unanswered.length == 0 && <button className="submit active" onClick={submit_page}>{not_submitted ? "Submit page" : "Answers submitted"}</button>}
-        {!firebase?.is_admin && unanswered.length != 0 && <button className="submit" onClick={() => alert("Questions " + unanswered + " have not been answered")}>Submit page</button>}
-        {firebase?.is_admin && <button className={"update_scores" + (update_scores ? " active" : "")} onClick={() => { submit(response); set_update_scores(false) }}>Update Scores</button>}
+        {!firebase?.is_admin && unanswered.length != 0 && <button className="submit" onClick={() => {
+            if (confirm("Questions " + unanswered + " have not been answered. Continue submission?")) {
+                submit_page()
+            }
+        }}>Submit page</button>}
+        {firebase?.is_admin && <button className={"update_scores" + (has_changes ? " active" : "")} onClick={() => { submit(response); set_has_changes(false) }}>Update Scores</button>}
         <div>Page {page + 1}/{lesson_data.pages.length}</div><button onClick={() => setPage(Math.min(page + 1, lesson_data.pages.length - 1))} className={page == lesson_data.pages.length - 1 ? "inactive" : "active"}><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#FFFFFF"><path d="m321-80-71-71 329-329-329-329 71-71 400 400L321-80Z" /></svg></button></div>;
     return <>
         <div className="page">

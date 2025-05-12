@@ -2,10 +2,11 @@ import './App.css'
 import './style/quiz.css'
 import './style/page.css'
 import { LessonViewer } from './pages/lesson_viewer'
-import { Route, Routes } from "react-router";
+import { createBrowserRouter, RouterProvider } from "react-router";
 import { Dashboard } from './pages/dashboard';
 import { UserPage } from './pages/user';
 import { AuthWrapper } from './auth';
+import { FourOhFourPage } from './pages/404';
 
 const firebaseConfig = {
   apiKey: "AIzaSyAYfJSxsFfGi1OX7lZZdhRxTF3WdfZv6S8",
@@ -21,15 +22,17 @@ export { firebaseConfig };
 
 
 function App() {
-  return <AuthWrapper><Routes>
-    <Route index element={<Dashboard />} />
-    <Route path="user/:user_id">
-      <Route index element={<UserPage />}></Route>
-      <Route path="material/:material_name">
-        <Route path="lesson/:lesson_name" element={<LessonViewer />}></Route>
-      </Route>
-    </Route>
-  </Routes ></AuthWrapper>;
+  const router = createBrowserRouter([
+    { index: true, Component: Dashboard },
+    {
+      path: "user/:user_id", children: [
+        { index: true, Component: UserPage },
+        { path: "material/:material_name/lesson/:lesson_name", Component: LessonViewer }
+      ]
+    },
+    { path: "*", Component: FourOhFourPage }
+  ])
+  return <AuthWrapper><RouterProvider router={router}></RouterProvider></AuthWrapper>
 }
 
 export default App

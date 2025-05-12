@@ -1,16 +1,16 @@
 import React, { useContext, useState } from "react";
 import { Assignment, Material, Response } from "../schema";
 import { AuthContext } from "../auth";
-import { doc, writeBatch } from "firebase/firestore";
+import { doc, setDoc, writeBatch } from "firebase/firestore";
 import { AssignmentListing, ResponseListing, UnassignedListing } from "./assignment_listing";
 import "../style/assignment_page.css";
 
 interface Props {
     item: Material,
-    assignments: Assignment[],
-    responses: Response[]
+    assignments: { [key: string]: string },
+    scores: { [key: string]: string },
     user_id: string,
-    setAssignments: (a: Assignment[]) => void,
+    setAssignments: (a: { [key: string]: string }) => void,
 }
 
 const MaterialListing: React.FC<Props> = (props: Props) => {
@@ -29,22 +29,19 @@ const MaterialListing: React.FC<Props> = (props: Props) => {
         let batch = writeBatch(firebase!.db);
         let due_date = new Date(basis);
         if (days_of_week[due_date.getDay()] == true) due_date.setDate(due_date.getDate() - 1);
-        let new_assignments = props.assignments.slice();
+        let new_assignments = { ...props.assignments };
         for (let i in queue) {
             if (queue[i]) continue;
             due_date.setDate(due_date.getDate() + 1);
             if (do_dates) while (days_of_week[due_date.getDay()] == false) due_date.setDate(due_date.getDate() + 1);
             let old_date = due_date.toISOString().split("T")[0];
             if (!do_dates) old_date = "";
-            let assignment: Assignment = { due_date: old_date, lesson_name: material.lessons[i].name, material_name: material.name, questions: material.lessons[i].questions.toString() };
-            let assign_idx = new_assignments.findIndex(v => v.lesson_name == assignment.lesson_name && v.material_name == assignment.material_name);
-            if (assign_idx == -1) {
-                new_assignments.push(assignment);
-            }
-            else new_assignments[assign_idx] = assignment;
-            batch.set(doc(firebase!.db, "users", user_id, "assignments", material.name + "|" + material.lessons[i].name), assignment as any);
+
+            new_assignments[material.name + "|" + material.lessons[i].name] = old_date + "," + material.lessons[i].questions;
         }
+
         props.setAssignments(new_assignments);
+        setDoc(doc(firebase!.db, "users", user_id, "assignments", "assignments"), new_assignments);
         setIsAssign(false);
         await batch.commit();
     };
@@ -55,7 +52,7 @@ const MaterialListing: React.FC<Props> = (props: Props) => {
             <button onClick={() => setOpen(!open)} className={open ? "active" : "inactive"}><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#ffffff"><path d="M504-480 320-664l56-56 240 240-240 240-56-56 184-184Z" /></svg></button>
             <div className="material_header_name">{material.name}</div>
             <div className="material_header_subject">{material.subject}</div>
-            {"Completed: " + props.responses.reduce((c, e) => e.material_name == material.name ? (c + 1) : c, 0) + "/" + material.lessons.length}
+            {"Completed: " + Object.keys(props.scores).reduce((c, e) => e.startsWith(material.name + "|") ? (c + 1) : c, 0) + "/" + material.lessons.length}
         </div>
         {open && <div className="material_listing_body">
             {firebase?.is_admin &&
@@ -63,7 +60,7 @@ const MaterialListing: React.FC<Props> = (props: Props) => {
                     <button className={is_assign ? "cancel_button" : "reassign_button"} onClick={() => {
                         let start_queue = Array.from({ length: material.lessons.length }, () => false);
                         for (let i = 0; i < start_queue.length; i++) {
-                            if (props.responses.findIndex(v => v.lesson_name == material.lessons[i].name && v.material_name == material.name) != -1) {
+                            if (props.scores[material.name + "|" + material.lessons[i].name]) {
                                 start_queue[i] = true;
                             }
                         }
@@ -79,7 +76,7 @@ const MaterialListing: React.FC<Props> = (props: Props) => {
             }
             {is_assign && firebase?.is_admin &&
                 material.lessons.map((v: any, i: number) => {
-                    let response = props.responses.find(r => r.material_name == material.name && r.lesson_name == v.name);
+                    let response = props.scores[material.name + "|" + v.name];
                     let old_date = "";
                     if (!queue[i]) {
                         due_date.setDate(due_date.getDate() + 1);
@@ -97,13 +94,14 @@ const MaterialListing: React.FC<Props> = (props: Props) => {
                     </div>;
                 })}
             {((!is_assign) || !(firebase?.is_admin)) && material.lessons.map((lesson, i) => {
-                let assignment = props.assignments.find(a => a.material_name == material.name && a.lesson_name == lesson.name);
-                let response = props.responses.find(r => r.material_name == material.name && r.lesson_name == lesson.name);
-                if (assignment) {
-                    return <AssignmentListing key={i} item={assignment!} user_id={props.user_id}></AssignmentListing>;
-                }
+                let location = material.name + "|" + lesson.name;
+                let response = props.scores[location];
                 if (response) {
-                    return <ResponseListing key={i} item={response!} user_id={props.user_id}></ResponseListing>
+                    return <ResponseListing key={i} location={location} date_and_score={response} user_id={props.user_id}></ResponseListing>
+                }
+                let assignment = props.assignments[location];
+                if (assignment) {
+                    return <AssignmentListing key={i} location={location} date_and_questions={assignment} user_id={props.user_id}></AssignmentListing>;
                 }
                 return <UnassignedListing key={i} lesson={lesson.name} material={material.name} user_id={props.user_id}></UnassignedListing>;
 

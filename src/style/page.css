@@ -24,13 +24,19 @@
   background: #fff;
   height: 3rem;
   border-bottom: 1px solid #888;
-  box-shadow: 1px 1px 6px 0px rgba(0,0,0,0.2);
+  box-shadow: 1px 1px 6px 0px rgba(0, 0, 0, 0.2);
   align-items: center;
 }
 .header > div > img {
   border-radius: 50%;
   width: 2rem;
   height: 2rem;
+}
+.header_pfp {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  margin-right: 0.4rem;
 }
 .update_scores.active {
   background: #008800;
@@ -49,4 +55,7 @@
 }
 .update_scores:not(.active):hover {
   background: transparent !important;
+}
+.page {
+  margin-bottom: 15rem;
 }
