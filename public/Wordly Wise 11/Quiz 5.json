@@ -1,0 +1,171 @@
+{
+    "type": "test",
+    "name": "Wordly Wise 11 Lesson 5 Test",
+    "pages": [
+      {
+        "content": [
+          {
+            "section_header": "Select the SYNONYM for each bold word."
+          },
+          {
+            "number": "1",
+            "question": "Her complicated teaching method makes simple subjects <b>abstruse</b>.",
+            "options": ["easier", "intense", "difficult", "boring"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "2",
+            "question": "If the club doubted Toby’s <b>penitence</b> after he misused the funds, his hard work at every subsequent event convinced them.",
+            "options": ["regret", "excitement", "anger", "pride"],
+            "answer": "A",
+            "type": "mcq"
+          },
+          {
+            "number": "3",
+            "question": "The squad knew that practice was the key to winning, so their <b>acquiescence</b> to the intense rehearsal schedule came without a murmur of objection.",
+            "options": ["support", "disrespect", "acceptance", "commitment"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "4",
+            "question": "The car salesperson’s customers appreciated his <b>probity</b>.",
+            "options": ["curiosity", "honesty", "fitness", "intelligence"],
+            "answer": "B",
+            "type": "mcq"
+          },
+          {
+            "number": "5",
+            "question": "After a heated debate, the manager <b>acquiesced</b> to Yvonne’s demand for a raise.",
+            "options": ["left", "complied", "disagreed", "shouted"],
+            "answer": "B",
+            "type": "mcq"
+          },
+          {
+            "section_header": "Select the ANTONYM for each bold word."
+          },
+          {
+            "number": "6",
+            "question": "The <b>surfeit</b> of ice cream varieties at the Dream Cream Ice Cream Parlor made it hard for Luz to decide which one she wanted in her sundae.",
+            "options": ["abundance", "disrepair", "scarcity", "collection"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "7",
+            "question": "Judging from that gory movie he took me to, Brian has <b>unsavory</b> tastes in film.",
+            "options": ["wholesome", "laughable", "poor", "offensive"],
+            "answer": "A",
+            "type": "mcq"
+          },
+          {
+            "number": "8",
+            "question": "The bank would stand for no <b>improprieties</b> from the tellers when it came to the way they handled their cash.",
+            "options": ["mistakes", "accidents", "errors", "recommendations"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "9",
+            "question": "Mark was <b>penitent</b> about forgetting to pick up his grandparents at the airport.",
+            "options": ["angry", "tranquil", "unsure", "unapologetic"],
+            "answer": "D",
+            "type": "mcq"
+          },
+          {
+            "number": "10",
+            "question": "The intellectual <b>edifice</b> of art history has <b>accrued</b> over many years through the work of artists and scholars.",
+            "options": ["happened", "prospered", "opposed", "decreased"],
+            "answer": "D",
+            "type": "mcq"
+          },
+          {
+            "section_header": "Choose the best way to complete each sentence or answer each question"
+          },
+          {
+            "number": "11",
+            "question": "Something with an <b>unsavory</b> aroma smells",
+            "options": ["sweet", "floral", "unpleasant", "delicious"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "12",
+            "question": "Which of the following is most likely to <b>accrue</b>?",
+            "options": ["beach erosion", "freshly planted flowers", "an infected wound", "vacation time at a job"],
+            "answer": "D",
+            "type": "mcq"
+          },
+          {
+            "number": "13",
+            "question": "Nathan <b>inveigled</b> concert money from his mother by",
+            "options": ["flattery", "struggling", "threatening", "reasoning"],
+            "answer": "A",
+            "type": "mcq"
+          },
+          {
+            "number": "14",
+            "question": "A <b>revelation</b> makes what was unknown",
+            "options": ["hidden", "forgotten", "irrelevant", "known"],
+            "answer": "D",
+            "type": "mcq"
+          },
+          {
+            "number": "15",
+            "question": "<b>Purporting</b> to be related to someone means to",
+            "options": ["doubt your kinship", "suspect your kinship", "imply your kinship", "deny your kinship"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "section_header": "Read the passage and answer the questions"
+          },
+          {
+            "passage": [
+              "Parents of toddlers often have a difficult time doing basic tasks such as grocery shopping because their children are still learning how to behave in public. Toddlers are known for their <b>histrionic</b> temper tantrums and other <b>improprieties</b> that cause people around them to cringe or complain—particularly people who don’t have children of their own and don’t remember what it was like to be a child. That is why you see many parents <b>inveigling</b> their toddlers into being quiet with the promise of a treat or giving them a toy to play with as they shop.",
+              "It may help for parents to be as <b>explicit</b> as possible about the rules for their child. For example, just before going to a grocery store, a parent might explain: “We use only quiet voices in this store.” However, toddlers are not old enough to fully understand the <b>repercussions</b> of their actions. Their sense of right and wrong is still very limited, and when they are tired and cranky, after being told “no” a lot, they tend to ignore rules."
+            ]
+          },
+          {
+            "number": "16",
+            "question": "In line 4, <b>histrionic</b> means",
+            "options": ["historical", "electronic", "dramatic", "unhelpful"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "17",
+            "question": "The word <b>improprieties</b> (line 4) most nearly means",
+            "options": ["inappropriate behaviors", "arguments", "lawsuits", "unwise decisions"],
+            "answer": "A",
+            "type": "mcq"
+          },
+          {
+            "number": "18",
+            "question": "In line 8, <b>inveigling</b> most nearly means",
+            "options": ["luring", "asking", "arguing", "ensuring"],
+            "answer": "A",
+            "type": "mcq"
+          },
+          {
+            "number": "19",
+            "question": "The meaning of <b>explicit</b> (line 11) is",
+            "options": ["inappropriate", "clear", "strict", "flexible"],
+            "answer": "B",
+            "type": "mcq"
+          },
+          {
+            "number": "20",
+            "question": "In line 15, <b>repercussions</b> most nearly means",
+            "options": ["meanings", "purposes", "consequences", "decisions"],
+            "answer": "C",
+            "type": "mcq"
+          }
+        ]
+      }
+    ]
+  }
+  
+  
+  

@@ -1,0 +1,173 @@
+{
+    "type": "test",
+    "name": "Wordly Wise 11 Lesson 6 Test",
+    "pages": [
+      {
+        "content": [
+          {
+            "section_header": "Select the SYNONYM for each bold word."
+          },
+          {
+            "number": "1",
+            "question": "The father <b>assuaged</b> his baby's teething pain with some numbing drops.",
+            "options": ["understood", "noticed", "angered", "relieved"],
+            "answer": "D",
+            "type": "mcq"
+          },
+          {
+            "number": "2",
+            "question": "The party’s <b>convivial</b> atmosphere put Jacob right at ease.",
+            "options": ["uncomfortable", "carnival", "sociable", "secretive"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "3",
+            "question": "Jessie had her <b>eclectic</b> music collection to thank for landing her the DJ job.",
+            "options": ["large", "specific", "varied", "ethnic"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "4",
+            "question": "Charities rely on <b>munificent</b> contributions from private citizens as well as endowments from corporations.",
+            "options": ["generous", "yearly", "steady", "public"],
+            "answer": "A",
+            "type": "mcq"
+          },
+          {
+            "number": "5",
+            "question": "His mother was known in the neighborhood for her <b>perspicacity</b> when advising on difficult matters.",
+            "options": ["shrewdness", "bluntness", "understanding", "reassurance"],
+            "answer": "A",
+            "type": "mcq"
+          },
+          {
+            "section_header": "Select the ANTONYM for each bold word."
+          },
+          {
+            "number": "6",
+            "question": "There is something <b>intrinsic</b> to human biology that makes language possible for us, but not for chimpanzees.",
+            "options": ["essential", "peripheral", "important", "valuable"],
+            "answer": "B",
+            "type": "mcq"
+          },
+          {
+            "number": "7",
+            "question": "Julian’s <b>inveterate</b> tardiness angered his boss.",
+            "options": ["inconsiderate", "bold", "occasional", "repeated"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "8",
+            "question": "The plant’s plentiful blooms were a <b>propitious</b> indication of Clare’s potential as a gardener.",
+            "options": ["ominous", "promising", "useless", "possible"],
+            "answer": "A",
+            "type": "mcq"
+          },
+          {
+            "number": "9",
+            "question": "Ringing cell phones were <b>anathema</b> to the theater’s patrons.",
+            "options": ["forbidden", "accessories", "distasteful", "welcome"],
+            "answer": "D",
+            "type": "mcq"
+          },
+          {
+            "number": "10",
+            "question": "The ointment <b>assuaged</b> the inflammation on Tim’s skinned knee.",
+            "options": ["increased", "disinfected", "soothed", "erased"],
+            "answer": "A",
+            "type": "mcq"
+          },
+          {
+            "section_header": "Choose the best way to complete each sentence or answer each question"
+          },
+          {
+            "number": "11",
+            "question": "To <b>expound</b> upon one’s value system is to",
+            "options": ["refuse to talk about it", "use it for an argument", "explain it in detail", "expose it to flaws"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "12",
+            "question": "Which of the following is most likely to be described as <b>nascent</b>?",
+            "options": ["an adult", "a monument", "a seedling", "a ripe apple"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "13",
+            "question": "When George quoted an <b>epigram</b> of Oscar Wilde’s, he repeated",
+            "options": ["a speech", "a lengthy poem", "a biography detail", "a short saying"],
+            "answer": "D",
+            "type": "mcq"
+          },
+          {
+            "number": "14",
+            "question": "Mr. Caddell’s <b>philistine</b> attitude about the closing of the museum indicates that he is likely",
+            "options": ["a museum supporter", "interested in the arts", "interested in the museum’s fate", "ignorant of artistic values"],
+            "answer": "D",
+            "type": "mcq"
+          },
+          {
+            "number": "15",
+            "question": "The veterinarian did not care for her vet tech’s <b>perspicacious</b> advice about the surgical procedure; the demeanor was",
+            "options": ["confusing", "lame", "clear-sighted", "condescending"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "section_header": "Read the passage and answer the questions"
+          },
+          {
+            "passage": [
+              "The school board meeting did not get off to a <b>propitious</b> start. Mr. Henry, a business mogul known for his wildly popular fleet of food trucks, was running for an open position on the school board. He had hoped for support from the community but found himself facing a lot of opposition.",
+              "“You think a <b>philistine</b> who can't understand the <b>intrinsic</b> value of education?” an audience member yelled. Then, hands on her hips, “I am tired of businesspeople thinking they can come into our communities and run everything--even our schools--like a business,” she added, looking around the room before sitting down and letting out a frustrated breath.",
+              "Mr. Henry flexed his hand and said politely, “May I speak?” He then stood to face the woman and others sitting next to her.",
+              "“I understand your concerns.\" The <b>avuncular</b> businessperson said warmly, patting his teenage son's shoulder, \"but I am just a parent like you, and I want my son and all our kids to get the best education possible.”"
+            ]
+          },
+          {
+            "number": "16",
+            "question": "The meaning of <b>propitious</b> (line 1) is",
+            "options": ["peaceful", "encouraging", "uneventful", "exciting"],
+            "answer": "B",
+            "type": "mcq"
+          },
+          {
+            "number": "17",
+            "question": "In line 2, the phrase “business mogul” most nearly means",
+            "options": ["wealthy businessperson", "employer", "local celebrity", "worker"],
+            "answer": "A",
+            "type": "mcq"
+          },
+          {
+            "number": "18",
+            "question": "The word <b>philistine</b> (line 6) most nearly means",
+            "options": ["money-oriented person", "business owner", "person who doesn't respect education", "ambitious person"],
+            "answer": "C",
+            "type": "mcq"
+          },
+          {
+            "number": "19",
+            "question": "In line 5, <b>intrinsic</b> means",
+            "options": ["monetary", "social", "potential", "essential"],
+            "answer": "D",
+            "type": "mcq"
+          },
+          {
+            "number": "20",
+            "question": "The meaning of <b>avuncular</b> (line 6) is",
+            "options": ["mean and aggressive", "rude and inappropriate", "kind and good-humored", "reserved and shy"],
+            "answer": "C",
+            "type": "mcq"
+          }
+        ]
+      }
+    ]
+  }
+  
+  
+  
