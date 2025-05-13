@@ -1,0 +1,578 @@
+{
+  "name": "Wordly Wise 9 Lesson 8",
+  "pages": [
+    {
+      "name": "Definitions",
+      "type": "definition_table",
+      "content": [
+        {
+          "word": "adroit",
+          "definition": "<i>adj.</i> Clever at dealing with difficult situations; adept; skillful.<br>Her <b>adroit</b> handling of the boat saved us from going onto the rocks."
+        },
+        {
+          "word": "affront",
+          "definition": "<i>v.</i> To insult or to offend deliberately.<br>There is no better way to <b>affront</b> your teammates than to suggest that they are indolent.<br><i>n.</i> A deliberate insult or offensive act.<br>You will not ignore the <b>affront</b> to our family expressed in this letter."
+        },
+        {
+          "word": "avocation",
+          "definition": "<i>n.</i> An activity pursued for pleasure; a hobby.<br>Serious artists say that painting is both their profession and their <b>avocation</b>."
+        },
+        {
+          "word": "crusade",
+          "definition": "<i>n.</i> A prolonged, impassioned struggle for what is believed to be a just cause.<br>John Brown led a <b>crusade</b> to emancipate enslaved people.<br><i>v.</i> To engage in such a struggle.<br>Paulo <b>crusaded</b> to eliminate prejudice from his workplace."
+        },
+        {
+          "word": "definitive",
+          "definition": "<i>adj.</i> Supplying a final answer; conclusive.<br>Some scholars think that the <b>definitive</b> biography of the poet Sylvia Plath has not yet been written."
+        },
+        {
+          "word": "demeanor",
+          "definition": "<i>n.</i> Behavior; bearing.<br>She must have been in shock, because her <b>demeanor</b> didn’t change in the slightest as she watched her home go up in flames."
+        },
+        {
+          "word": "erudite",
+          "definition": "<i>adj.</i> Having or demonstrating extensive knowledge; learned.<br>The author provided an <b>erudite</b> account of the looting of artworks during World War II.<br><i>n.</i> erudition – His <b>rudition</b> is evident in more than one subject."
+        },
+        {
+          "word": "induct",
+          "definition": "<i>v.</i> 1. To install in office, sometimes with a formal ceremony.<br>The president of the university was <b>inducted</b> into office in the morning.<br>2. To admit to a society or to military service.<br>Each year the National Academy of Science <b>inducts</b> a few celebrated researchers.<br><i>n.</i> induction – The <b>induction</b> ceremony into the Baseball Hall of Fame was a thrilling experience for the retired pitcher."
+        },
+        {
+          "word": "lapse",
+          "definition": "<i>v.</i> 1. To fall or slip from a certain level of conduct or accomplishment.<br>After a month of regular exercise, we <b>lapsed</b> into inactivity.<br>2. To come to an end or to expire.<br>I was disappointed to learn that the clothing sale had <b>lapsed</b> before I could make it to the store.<br><i>n.</i> 1. A minor mistake; a slip.<br>A <b>lapse</b> of memory caused me to miss the television show last week.<br>2. A pause or interval.<br>With such <b>voluble</b> students, there was never a <b>lapse</b> in class discussion."
+        },
+        {
+          "word": "militant",
+          "definition": "<i>adj.</i> Ready to fight, especially for a cause.<br>My parents, <b>militant</b> supporters of public education, worked with other parents and the teachers to improve the elementary school in our town.<br><i>n.</i> One who is ready to fight for a cause.<br><b>Militants</b> occupied the president’s office, demanding changes in the college curriculum."
+        },
+        {
+          "word": "pariah",
+          "definition": "<i>n.</i> A social outcast.<br>Her classmates treated Maria like a <b>pariah</b> when she told the teacher that someone had cheated on the test."
+        },
+        {
+          "word": "prodigy",
+          "definition": "<i>n.</i> 1. A person who shows remarkable talent at an early age.<br>Mozart was a musical <b>prodigy</b> who began composing at age five.<br>2. An amazing or extraordinary thing or event.<br>Everyone flocked to see the newly invented Ferris wheel, which was regarded as a <b>prodigy</b> of the age of steel."
+        },
+        {
+          "word": "protégé",
+          "definition": "<i>n.</i> (masc.) <b>protégé</b>, (fem.) <b>protégée</b> – One whose training or career is helped along by another.<br>Tim Cook, a <b>protégé</b> of Steve Jobs, took over the running of Apple."
+        },
+        {
+          "word": "raucous",
+          "definition": "<i>adj.</i> 1. Rough and unpleasant to the ear.<br>The <b>raucous</b> cries of the family parrot startled the guests.<br>2. Boisterous and disorderly.<br>Before the dinner bell rang, our camp counselor let us have a pillow fight but made sure things didn’t become too <b>raucous</b>."
+        },
+        {
+          "word": "tacit",
+          "definition": "<i>adj.</i> Expressed without words; implied.<br>You gave your <b>tacit</b> approval by not raising any objections to our plan."
+        }
+      ]
+    },
+    {
+      "name": "8A: Determining Precise Meaning",
+      "subheading": "Choose the most accurate paraphrase for each sentence.",
+      "content": [
+        {
+          "number": "1",
+          "question": "The detective’s <b>definitive</b> report was almost complete.",
+          "type": "mcq",
+          "options": [
+            "The detective’s hastily put together report was almost complete.",
+            "The detective’s final report was almost complete."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "2",
+          "question": "Henry James was a very <b>erudite</b> author.",
+          "type": "mcq",
+          "options": [
+            "Henry James was a highly educated author.",
+            "Henry James was a prolific author."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "3",
+          "question": "The <b>affront</b> happened without warning.",
+          "type": "mcq",
+          "options": [
+            "The insulting behavior happened without warning.",
+            "The blizzard happened without warning."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "4",
+          "question": "The boy’s <b>demeanor</b> caught the attention of the school nurse.",
+          "type": "mcq",
+          "options": [
+            "The boy’s grades caught the attention of the school nurse.",
+            "The boy’s behavior caught the attention of the school nurse."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "5",
+          "question": "Did you hear about the <b>prodigy</b> who plays the piano so well?",
+          "type": "mcq",
+          "options": [
+            "Did you hear about the amazing kindergartener who plays the piano so well?",
+            "Did you hear about the professional musician who plays the piano so well?"
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "6",
+          "question": "The rivals came to a <b>tacit</b> agreement.",
+          "type": "mcq",
+          "options": [
+            "The rivals came to an agreement that was understood without anything being said.",
+            "The rivals came to an agreement that was witnessed and signed in a proper legal manner."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "7",
+          "question": "Elle is a <b>protégé</b> of the governor.",
+          "type": "mcq",
+          "options": [
+            "Elle’s career is being guided by the governor.",
+            "Elle is working together with the governor."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "8",
+          "question": "The teacher handled the students’ argument in an <b>adroit</b> manner.",
+          "type": "mcq",
+          "options": [
+            "The teacher handled the students’ argument in a clumsy manner.",
+            "The teacher handled the students’ argument in a skilled manner."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "9",
+          "question": "Sadly, Hasan’s older brother had no <b>avocation</b>.",
+          "type": "mcq",
+          "options": [
+            "Hasan’s older brother had no hobbies or outside interests.",
+            "Hasan’s older brother had no job or other source of income."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "10",
+          "question": "Maeve was a <b>pariah</b> to her former friends.",
+          "type": "mcq",
+          "options": [
+            "Maeve was lionized by her former friends.",
+            "Maeve was hated and shunned by her former friends."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "11",
+          "question": "The documentary launched a <b>crusade</b> to save endangered water birds.",
+          "type": "mcq",
+          "options": [
+            "The documentary launched a specially equipped boat to save endangered water birds.",
+            "The documentary launched a campaign that attempts to save endangered water birds."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "12",
+          "question": "Special agents are <b>inducted</b> into the secret society.",
+          "type": "mcq",
+          "options": [
+            "Special agents are installed as members into the secret society.",
+            "Special agents are conducting inquiries into the secret society."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "13",
+          "question": "His mother was anxious about his <b>lapses</b>.",
+          "type": "mcq",
+          "options": [
+            "His mother was anxious about his failure to follow through.",
+            "His mother was anxious about his friends and associates."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "14",
+          "question": "A <b>militant</b> group took over the meeting.",
+          "type": "mcq",
+          "options": [
+            "A group made up of army officers took over the meeting.",
+            "A group that was angry and determined took over the meeting."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "15",
+          "question": "<b>Raucous</b> laughter filled the room.",
+          "type": "mcq",
+          "options": [
+            "Boisterous laughter filled the room.",
+            "Nervous laughter filled the room."
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "name": "8B: Understanding Word Relationships",
+      "subheading": "Select each word that relates to the question.",
+      "content": [
+        {
+          "number": "1",
+          "question": "Which word or words are related to <i>organized effort</i>?",
+          "type": "multi_select",
+          "options": ["campaign", "avocation", "demeanor", "crusade"],
+          "answer": "TFFT"
+        },
+        {
+          "number": "2",
+          "question": "Which word or words are related to <i>harsh</i>?",
+          "type": "multi_select",
+          "options": ["adroit", "tacit", "raucous", "strident"],
+          "answer": "FFTT"
+        },
+        {
+          "number": "3",
+          "question": "Which word or words are related to <i>skilled</i>?",
+          "type": "multi_select",
+          "options": ["tacit", "adroit", "adept", "proficient"],
+          "answer": "FTTT"
+        },
+        {
+          "number": "4",
+          "question": "Which word or words are related to <i>put into political office</i>?",
+          "type": "multi_select",
+          "options": ["induct", "rankle", "inaugurate", "lapse"],
+          "answer": "TFTF"
+        },
+        {
+          "number": "5",
+          "question": "Which word or words are related to <i>entertainment</i>?",
+          "type": "multi_select",
+          "options": ["avocation", "factor", "demeanor", "diversion"],
+          "answer": "TFFT"
+        },
+        {
+          "number": "6",
+          "question": "Which word or words are related to <i>error</i>?",
+          "type": "multi_select",
+          "options": ["proponent", "lapse", "blunder", "fee"],
+          "answer": "FTTF"
+        },
+        {
+          "number": "7",
+          "question": "Which word or words are related to <i>threatening</i>?",
+          "type": "multi_select",
+          "options": ["adroit", "moribund", "aggressive", "militant"],
+          "answer": "FFTT"
+        },
+        {
+          "number": "8",
+          "question": "Which word or words are related to <i>insult</i>?",
+          "type": "multi_select",
+          "options": ["affront", "crusade", "belittle", "volunteer"],
+          "answer": "TFTF"
+        },
+        {
+          "number": "9",
+          "question": "Which word or words are related to <i>without doubt</i>?",
+          "type": "multi_select",
+          "options": ["conclusive", "definitive", "tacit", "cynical"],
+          "answer": "TTFF"
+        },
+        {
+          "number": "10",
+          "question": "Which word or words are related to <i>smart</i>?",
+          "type": "multi_select",
+          "options": ["tacit", "erudite", "exorbitant", "astute"],
+          "answer": "FTFT"
+        }
+      ]
+    },
+    {
+      "name": "8C: Word Study: Similar Meanings",
+      "subheading": "Choose from the two words provided and use each word only once when completing each sentence. One space should be left blank.",
+      "content": [
+        {
+          "number": "1",
+          "question": "<b>adroit / skillful</b>: Did you notice the _______________ way she changed the subject?",
+          "type": "frq_short",
+          "answer": "adroit"
+        },
+        {
+          "number": "2",
+          "question": "<b>adroit / skillful</b>: A(n) _______________ carpenter could do the work in two hours.",
+          "type": "frq_short",
+          "answer": "skillful"
+        },
+        {
+          "number": "3",
+          "question": "<b>adroit / skillful</b>: Suzie was _______________ with the math problem.",
+          "type": "frq_short",
+          "answer": "(empty)",
+          "manual_grading": true
+        },
+        {
+          "number": "4",
+          "question": "<b>erudite / clever</b>: It was _______________ of Demetrius to change the subject whenever politics was mentioned.",
+          "type": "frq_short",
+          "answer": "clever"
+        },
+        {
+          "number": "5",
+          "question": "<b>erudite / clever</b>: A person familiar with the literature of eight languages can be called _______________.",
+          "type": "frq_short",
+          "answer": "erudite"
+        },
+        {
+          "number": "6",
+          "question": "<b>erudite / clever</b>: It’s _______________ the way the moon always shows the same face to Earth.",
+          "type": "frq_short",
+          "answer": "(empty)",
+          "manual_grading": true
+        },
+        {
+          "number": "7",
+          "question": "<b>censure / criticize</b>: People sometimes _______________ what they don’t understand.",
+          "type": "frq_short",
+          "answer": "criticize"
+        },
+        {
+          "number": "8",
+          "question": "<b>censure / criticize</b>: The United States Senate can _______________ a member for unethical behavior.",
+          "type": "frq_short",
+          "answer": "censure"
+        },
+        {
+          "number": "9",
+          "question": "<b>censure / criticize</b>: “Don’t _______________ my right to free speech.”",
+          "type": "frq_short",
+          "answer": "(empty)",
+          "manual_grading": true
+        },
+        {
+          "number": "10",
+          "question": "<b>divulge / reveal</b>: A close inspection was able to _______________ several small surface cracks.",
+          "type": "frq_short",
+          "answer": "reveal"
+        },
+        {
+          "number": "11",
+          "question": "<b>divulge / reveal</b>: The information he planned to _______________ was deliberately misleading.",
+          "type": "frq_short",
+          "answer": "divulge"
+        },
+        {
+          "number": "12",
+          "question": "<b>divulge / reveal</b>: Those actors _______________ their speeches too quickly.",
+          "type": "frq_short",
+          "answer": "(empty)",
+          "manual_grading": true
+        },
+        {
+          "number": "13",
+          "question": "<b>cynical / skeptical</b>: It is smart to be _______________ of claims that seem too good to be true.",
+          "type": "frq_short",
+          "answer": "skeptical"
+        },
+        {
+          "number": "14",
+          "question": "<b>cynical / skeptical</b>: These reports are too _______________ to be believed.",
+          "type": "frq_short",
+          "answer": "(empty)",
+          "manual_grading": true
+        },
+        {
+          "number": "15",
+          "question": "<b>cynical / skeptical</b>: A child may become _______________ if his parents don’t keep their promises.",
+          "type": "frq_short",
+          "answer": "cynical"
+        }
+      ]
+    },
+    {
+      "name": "8D: Understanding Contextual Meanings",
+      "subheading": "Read the following sentences. If the word in bold is used correctly, write C on the line. If the word is used incorrectly, write a new sentence using the word correctly.",
+      "content": [
+        {
+          "number": "1",
+          "question": "The <b>erudite</b> professor spoke eleven languages.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "2",
+          "question": "The witness’s <b>tacit</b> responses got more and more vociferous.",
+          "type": "frq_short",
+          "answer": "Her silent hug was a tacit way of saying she forgave me",
+          "manual_grading": true
+        },
+        {
+          "number": "3",
+          "question": "The <b>raucous</b> celebrations turned the town square into a bedlam.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "4",
+          "question": "Feng took off his <b>demeanor</b> and looked me straight in the eye.",
+          "type": "frq_short",
+          "answer": "The stray dog's demeanor told me it was friendly.",
+          "manual_grading": true
+        },
+        {
+          "number": "5",
+          "question": "There was a <b>lapse</b> of five years before the story in the novel resumed.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "6",
+          "question": "The violin teacher saw the young boy’s promise and made him her <b>protégé</b>.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "7",
+          "question": "At my request, ten dollars had been <b>inducted</b> from the bill.",
+          "type": "frq_short",
+          "answer": "The new members were inducted into the club",
+          "manual_grading": true
+        },
+        {
+          "number": "8",
+          "question": "The <b>prodigy</b> from Brooklyn played Carnegie Hall before she was seven.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "9",
+          "question": "The political candidate kept a careful record of every <b>affront</b> she had suffered.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "10",
+          "question": "The queen was always accompanied by several of her closest <b>pariahs</b>.",
+          "type": "frq_short",
+          "answer": "Michael spoke the truth, which unfortunately made him a pariah",
+          "manual_grading": true
+        }
+      ]
+    },
+    {
+      "name": "8E: Vocabulary in Context",
+      "subheading": "Read the passage. Answer each question with a sentence. If a question does not contain a word from the lesson, use one in your answer. Use each word only once.",
+      "type": "reading_check",
+      "content": [
+        {
+          "name": "First Gentleman of Sports",
+          "passage": [
+            "The <b>raucous</b> boxing fans, gathered at Madison Square Garden in New York on February 6, 1993, <b>lapsed</b> into silence as the announcement came over the public address system. Tennis champion Arthur Ashe had just died of pneumonia. With their response, the crowd paid their respects to a man whose presence had been felt far beyond the world of tennis. His death, though shocking, was not entirely unexpected. A year earlier, knowing that newspapers were about to reveal the fact that he was suffering from AIDS, Ashe called a news conference to announce that he had contracted the disease from infected blood he had received during heart bypass surgery in 1983.",
+            "Arthur Ashe was born in Richmond, Virginia, in 1943. When he was six, his mother died. His father, a parks policeman, was left to raise their two sons alone in a society where the races were legally segregated. Because of his father’s occupation, Ashe was allowed on the whites-only city tennis courts. He began playing on these courts at the age of seven and demonstrated a natural ability for the game. At the age of ten, he met Dr. Walter Johnson, an African American physician whose <b>avocation</b> was assisting young African American tennis players. “Dr. J.” recognized the young boy as a tennis <b>prodigy</b> and took him under his wing. The doctor arranged for his <b>protégé</b> to attend tennis camps and to take part in competitions.",
+            "In 1955, when Ashe was thirteen, he tried to enter a tournament in his hometown of Richmond. He was rejected because of his race. This and other such <b>affronts</b> to his dignity led ultimately to his <b>crusade</b> to change the image of tennis as a white, middle-class game. His accomplishments in this area include starting tennis programs in five major cities and helping found the National Junior Tennis League. These acts were designed to open up the game to inner-city youth.",
+            "Ashe’s calm <b>demeanor</b> on the tennis court earned him the respect of spectators everywhere. It was a <b>tacit</b> rebuke to his opponents, who often went out of their way to attract attention by hurling their rackets to the ground and engaging in other tantrums. However, Ashe’s placid manner never fooled anyone into thinking that he lacked fire. He intimidated his opponents with the ferocity of his play; his smashing serve and <b>adroit</b> placing of the ball (he developed sixteen variations of his backhand alone) were especially feared.",
+            "In 1968, Ashe won the U.S. Open and was ranked number one by the United States Lawn Tennis Association. Two years later he won the Australian Open. In 1975, he reached what many consider the summit of tennis achievement by winning the men’s singles title at Wimbledon. In 1980, he retired from active playing because of a heart condition, which indirectly caused his premature death. For the next five years, he captained the United States Davis Cup Team, and in 1985 he was <b>inducted</b> into the International Tennis Hall of Fame.",
+            "In his retirement, Ashe wanted to be more than a celebrity. He served as national chairman of the American Heart Association and also raised funds for AIDS research. He proved himself to be a graceful and <b>erudite</b> writer. His major work, <i>A Hard Road to Glory: A History of the African-American Athlete</i>, published in 1988, is recognized as the <b>definitive</b> work on the subject.",
+            "In his memoir <i>Days of Grace</i>, published in 1993, Ashe says, “While blood was pouring in the streets of Birmingham, Memphis, and Biloxi...dressed in immaculate whites, I was elegantly stroking tennis balls in perfectly paved courts in California, New York, and Europe.” As if to make up for his earlier detachment from the Civil Rights Movement, Ashe became increasingly <b>militant</b> in his later years. He marched in protests against South Africa’s apartheid system. He protested the policy of the United States against Haitian refugees. On these and other occasions, he was arrested. Although in his memoir he writes, “I am with Thoreau, Gandhi, and Martin Luther King in their belief that violence achieves nothing but the destruction of the individual soul and the corruption of the state,” he also expresses regret that he did not see things differently earlier in life.",
+            "The state of Virginia, which had treated him and so many others of his race as <b>pariahs</b>, honored Ashe in his death. His body lay in state in Virginia’s capitol in Richmond as the world mourned."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "How did Ashe benefit from Dr. Johnson’s <b>avocation</b>?",
+          "type": "frq_short",
+          "answer": "Ashe became a protege of Dr. Johnson, who enjoyed helping young tennis players",
+          "manual_grading": true
+        },
+        {
+          "number": "2",
+          "question": "Why did Dr. Johnson encourage and support Ashe’s tennis playing?",
+          "type": "frq_short",
+          "answer": "He recognized Ashe’s talent as a <b>prodigy</b> and believed in his potential.",
+          "manual_grading": true
+        },
+        {
+          "number": "3",
+          "question": "In what way was Ashe treated like a <b>pariah</b> in 1955?",
+          "type": "frq_short",
+          "answer": "He was rejected from a tennis tournament in Richmond because of his race.",
+          "manual_grading": true
+        },
+        {
+          "number": "4",
+          "question": "Why is it likely that Ashe would have been <b>affronted</b> if the newspapers had revealed he had AIDS?",
+          "type": "frq_short",
+          "answer": "Because it would have been a violation of his privacy and dignity.",
+          "manual_grading": true
+        },
+        {
+          "number": "5",
+          "question": "What <b>definitive</b> proof is there of Ashe’s paramount position in tennis?",
+          "type": "frq_short",
+          "answer": "He was inducted into the International Tennis Hall of Fame.",
+          "manual_grading": true
+        },
+        {
+          "number": "6",
+          "question": "How did Ashe’s manner on the court compare to the way he played?",
+          "type": "frq_short",
+          "answer": "His calm <b>demeanor</b> contrasted with his fierce and strategic playing style.",
+          "manual_grading": true
+        },
+        {
+          "number": "7",
+          "question": "What is one example from the passage that shows that Ashe became more <b>militant</b> in expressing his values?",
+          "type": "frq_short",
+          "answer": "He protested apartheid in South Africa and was arrested during demonstrations.",
+          "manual_grading": true
+        },
+        {
+          "number": "8",
+          "question": "What effect did growing up in a segregated community have on Ashe’s life?",
+          "type": "frq_short",
+          "answer": "It limited his early opportunities but also inspired his <b>crusade</b> to open tennis to all races.",
+          "manual_grading": true
+        },
+        {
+          "number": "9",
+          "question": "What serves as an indication of Ashe’s <b>erudition</b>?",
+          "type": "frq_short",
+          "answer": "He wrote <i>A Hard Road to Glory</i>, which is considered the definitive work on African American athletes.",
+          "manual_grading": true
+        },
+        {
+          "number": "10",
+          "question": "Why was announcing he had AIDS an <b>adroit</b> move on Ashe’s part?",
+          "type": "frq_short",
+          "answer": "It allowed him to control the narrative and protect his dignity before the press revealed it.",
+          "manual_grading": true
+        },
+        {
+          "number": "11",
+          "question": "What <b>lapse</b> in good medical practice led to Ashe’s death?",
+          "type": "frq_short",
+          "answer": "He received infected blood during heart surgery, which gave him AIDS.",
+          "manual_grading": true
+        },
+        {
+          "number": "12",
+          "question": "What purpose was served by Ashe’s calm manner on the court?",
+          "type": "frq_short",
+          "answer": "His <b>tacit</b> composure showed professionalism and earned respect while contrasting with his opponents’ tantrums.",
+          "manual_grading": true
+        }
+      ]
+    }
+  ]
+}

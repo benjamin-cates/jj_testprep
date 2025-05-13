@@ -1,0 +1,445 @@
+{
+  "type": "test",
+  "name": "Lesson 10",
+  "pages": [
+    {
+      "name": "Definitions",
+      "type": "definition_table",
+      "content": [
+        {
+          "word": "amputate",
+          "definition": "<i>v.</i> To cut off a body part, especially by surgery.<br>The doctor had to <b>amputate</b> the mountain climber's frostbitten toes."
+        },
+        {
+          "word": "aptitude",
+          "definition": "<i>n.</i> A natural talent.<br>My sister Yolanda has an <b>aptitude</b> for math that has always made me envious."
+        },
+        {
+          "word": "beneficiary",
+          "definition": "<i>n.</i> One who benefits or gains an advantage from something.<br>Impoverished families will be the <b>beneficiaries</b> of these low-rent apartments."
+        },
+        {
+          "word": "boon",
+          "definition": "<i>n.</i> A welcome gift or blessing.<br>After a long dry spell, the rain was a <b>boon</b> to the farmers."
+        },
+        {
+          "word": "commiserate",
+          "definition": "<i>v.</i> To feel or express sorrow or compassion for; to sympathize.<br>If I'm upset about something, it helps me feel better if someone <b>commiserates</b> with me."
+        },
+        {
+          "word": "garner",
+          "definition": "<i>v.</i> To collect or gather; to acquire or obtain.<br>The school-committee candidate <b>garnered</b> support by going from door to door throughout the district to meet people."
+        },
+        {
+          "word": "gratis",
+          "definition": "<i>adj.</i> Without payment; free of charge.<br>Admission to the museum is <b>gratis</b> on Mondays.<br><i>adv.</i><br>The food packages students put together before Thanksgiving were offered <b>gratis</b> to destitute families in the community."
+        },
+        {
+          "word": "incapacitate",
+          "definition": "<i>v.</i> To make helpless or incapable.<br>Keiko was <b>incapacitated</b> for six weeks while her leg was in a cast.<br><b>incapacity</b> <i>n.</i><br>Because of the <b>incapacity</b> that resulted from her car accident, Melda missed eleven days of work."
+        },
+        {
+          "word": "inception",
+          "definition": "<i>n.</i> The beginning of an action or process.<br>I continue to extol the math club because it has been a success from the day of its <b>inception</b>."
+        },
+        {
+          "word": "magnanimous",
+          "definition": "<i>adj.</i> Generous, unselfish, or forgiving.<br>Nelson Mandela was too <b>magnanimous</b> to seek revenge on his persecutors.<br><b>magnanimity</b> <i>n.</i> Quality of being above meanness or spite; generosity of spirit enabling one to bear trouble calmly.<br>Although he was found to have been jailed unjustly, he displayed great <b>magnanimity</b> on his release."
+        },
+        {
+          "word": "myriad",
+          "definition": "<i>n.</i> A very large number.<br>A <b>myriad</b> of mosquitoes swarmed around us as we traversed the swampy area.<br><i>adj.</i> Very many.<br><b>Myriad</b> beautiful tropical fish swam in the warm waters of the gulf."
+        },
+        {
+          "word": "practicable",
+          "definition": "<i>adj.</i> 1. Capable of being done; feasible.<br>Making a community garden in that vacant lot is a <b>practicable</b> plan, but you'll have to get permission from the city first.<br>2. Usable.<br>Motor boats are not <b>practicable</b> in the waters of the Florida Everglades."
+        },
+        {
+          "word": "remunerate",
+          "definition": "<i>v.</i> To pay or reward.<br>Were you <b>remunerated</b> for the work you did for the school's used-book sale, or was it voluntary?<br><b>renumeration</b> <i>n.</i><br>Acting as a public defender for clients who cannot afford a lawyer does not offer great financial <b>remuneration</b>."
+        },
+        {
+          "word": "solicit",
+          "definition": "<i>v.</i> To ask for in a formal way.<br>Ms. Vargas came to our apartment to <b>solicit</b> contributions to her husband's campaign.<br><b>solicitation</b> <i>n.</i><br>Although I considered their cause a good one, I could not afford to respond to their repeated <b>solicitations</b> for money."
+        },
+        {
+          "word": "trite",
+          "definition": "<i>adj.</i> Used so much that it is no longer fresh or new.<br>\"Fresh as a daisy\" is a <b>trite</b> expression, but I sometimes find myself using it anyway."
+        }
+      ]
+    },
+    {
+      "name": "Determining Precise Meaning",
+      "subheading": "Choose the most accurate paraphrase for each sentence.",
+      "content": [
+        {
+          "number": "1",
+          "question": "We all felt that Andrew had behaved with <b>magnanimity</b>.",
+          "type": "mcq",
+          "options": [
+            "We all felt that Andrew had behaved with generosity of spirit.",
+            "We all felt that Andrew had behaved in a mean and spiteful way."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "2",
+          "question": "The document names my mother as the <b>beneficiary</b>.",
+          "type": "mcq",
+          "options": [
+            "The document names my mother as the heir.",
+            "The document names my mother as the donor."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "3",
+          "question": "A majority felt that the project would be a <b>boon</b> for the town.",
+          "type": "mcq",
+          "options": [
+            "A majority felt that the project would be a disaster for the town.",
+            "A majority felt that the project would be a benefit for the town."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "4",
+          "question": "There was a <b>myriad</b> of daisies in the meadow.",
+          "type": "mcq",
+          "options": [
+            "There were a great number of daisies in the meadow.",
+            "There were hardly any daisies in the meadow."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "5",
+          "question": "Anika's <b>aptitude</b> for making up stories was well known.",
+          "type": "mcq",
+          "options": [
+            "Anika's reason for making up stories was well known.",
+            "Anika's natural gift for making up stories was well known."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "6",
+          "question": "Entry to the zoo is <b>gratis</b> for children under age three.",
+          "type": "mcq",
+          "options": [
+            "Entry to the zoo is restricted for children under age three.",
+            "Entry to the zoo is free for children under age three."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "7",
+          "question": "I make an effort to avoid <b>trite</b> expressions.",
+          "type": "mcq",
+          "options": [
+            "I make an effort to avoid overused expressions.",
+            "I make an effort to avoid bigoted expressions."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "8",
+          "question": "The volunteers were <b>remunerated</b> for their efforts.",
+          "type": "mcq",
+          "options": [
+            "The volunteers were thanked for their efforts.",
+            "The volunteers were paid for their efforts."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "9",
+          "question": "Julio missed a week of school when he was <b>incapacitated</b>.",
+          "type": "mcq",
+          "options": [
+            "Julio missed a week of school when he was unwell.",
+            "Julio missed a week of school when he was on vacation."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "10",
+          "question": "Janeka is good at <b>commiserating</b> with people.",
+          "type": "mcq",
+          "options": [
+            "Janeka is good at having a good time with people.",
+            "Janeka is good at sympathizing with people."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "11",
+          "question": "We helped <b>solicit</b> votes for Mayor Eduardo.",
+          "type": "mcq",
+          "options": [
+            "We helped count votes for Mayor Eduardo.",
+            "We helped encourage votes for Mayor Eduardo."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "12",
+          "question": "The project was deemed <b>practicable</b> by the committee.",
+          "type": "mcq",
+          "options": [
+            "The project was deemed too expensive by the committee.",
+            "The project was deemed feasible by the committee."
+          ],
+          "answer": "B"
+        },
+        {
+          "number": "13",
+          "question": "The moment the sun set marked the <b>inception</b> of the fireworks.",
+          "type": "mcq",
+          "options": [
+            "The moment the sun set marked the beginning of the fireworks.",
+            "The moment the sun set marked the middle of the fireworks."
+          ],
+          "answer": "A"
+        },
+        {
+          "number": "14",
+          "question": "Squirrels <b>garner</b> nuts.",
+          "type": "mcq",
+          "options": ["Squirrels collect nuts.", "Squirrels eat nuts."],
+          "answer": "A"
+        },
+        {
+          "number": "15",
+          "question": "The doctor hopes she will not have to <b>amputate</b> the finger.",
+          "type": "mcq",
+          "options": [
+            "The doctor hopes she will not have to locate the finger.",
+            "The doctor hopes she will not have to cut off the finger."
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Word Relationships",
+      "subheading": "Circle the letter next to each correct answer. There may be more than one correct answer.",
+      "content": [
+        {
+          "number": "1",
+          "question": "Which word or words are related to <b>ask</b>?",
+          "type": "multi_select",
+          "options": ["garner", "beseech", "entreat", "solicit"],
+          "answer": "FTTT"
+        },
+        {
+          "number": "2",
+          "question": "Which word or words are related to <b>money</b>?",
+          "type": "multi_select",
+          "options": ["beneficiary", "benign", "bequeath", "remunerate"],
+          "answer": "TFTT"
+        },
+        {
+          "number": "3",
+          "question": "Which word or words are related to <b>cut off</b>?",
+          "type": "multi_select",
+          "options": ["depreciate", "amputate", "commiserate", "sever"],
+          "answer": "FTFT"
+        },
+        {
+          "number": "4",
+          "question": "Which word or words are related to <b>generous</b>?",
+          "type": "multi_select",
+          "options": ["lavish", "magnanimous", "trite", "philanthropic"],
+          "answer": "TTFT"
+        },
+        {
+          "number": "5",
+          "question": "Which word or words are related to <b>obtain</b>?",
+          "type": "multi_select",
+          "options": ["repose", "garner", "bustle", "acquire"],
+          "answer": "FTFT"
+        },
+        {
+          "number": "6",
+          "question": "Which word or words are related to <b>lacking originality</b>?",
+          "type": "multi_select",
+          "options": ["threadbare", "impervious", "practicable", "trite"],
+          "answer": "TFFT"
+        },
+        {
+          "number": "7",
+          "question": "Which word or words are related to <b>beginning</b>?",
+          "type": "multi_select",
+          "options": ["manipulation", "myriad", "onset", "inception"],
+          "answer": "FFTT"
+        },
+        {
+          "number": "8",
+          "question": "Which word or words are related to <b>sympathize</b>?",
+          "type": "multi_select",
+          "options": ["aptitude", "garner", "commiserate", "salvage"],
+          "answer": "FFTF"
+        },
+        {
+          "number": "9",
+          "question": "Which word or words are related to <b>skill</b>?",
+          "type": "multi_select",
+          "options": ["aptitude", "boon", "ingenuity", "competence"],
+          "answer": "TFTT"
+        },
+        {
+          "number": "10",
+          "question": "Which word or words are related to <b>doable</b>?",
+          "type": "multi_select",
+          "options": ["magnanimous", "practicable", "feasible", "nondescript"],
+          "answer": "FTTF"
+        }
+      ]
+    },
+    {
+      "name": "Understanding Contextual Meanings",
+      "subheading": "Read the following sentences. If the <b>word</b> in bold is used correctly, write C on the line. If the <b>word</b> is used incorrectly, write a new sentence using the <b>word</b> correctly.",
+      "content": [
+        {
+          "number": "1",
+          "question": "The rocket reached an <b>aptitude</b> of fifty thousand feet.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "My best friend has an aptitude for memorization"
+        },
+        {
+          "number": "2",
+          "question": "The society has grown tenfold since its <b>inception</b>.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "3",
+          "question": "The soup was <b>trite</b> and badly in need of some seasoning.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "If you want to be unique, avoid trite expressions"
+        },
+        {
+          "number": "4",
+          "question": "In a <b>magnanimous</b> gesture, Oliver forgave the bully.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "5",
+          "question": "A lightning strike <b>incapacitated</b> us because the electricity went out for several hours.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "6",
+          "question": "<b>Myriads</b> of ants descended on our picnic.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "7",
+          "question": "I was <b>commiserated</b> for the mistake with a refund.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Let's commiserate together about the canceled concert"
+        },
+        {
+          "number": "8",
+          "question": "Fortunately, the advice I got from my parents' lawyer was <b>gratis</b>.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "9",
+          "question": "Still dazed, Samar tried to <b>remunerate</b> what had happened to him.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Did the family remunerate you for finding their lost dog?"
+        },
+        {
+          "number": "10",
+          "question": "The sudden drop in temperature was a <b>boon</b> after the long heat wave.",
+          "type": "frq_short",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary in Context",
+      "subheading": "Read the passage. Answer each question with a sentence. If a question does not contain a <b>word</b> from the lesson, use one in your answer. Use each <b>word</b> only once.",
+      "type": "reading_check",
+      "content": [
+        {
+          "name": "Dogs with a Cause",
+          "passage": [
+            "Debbie Walrod was an athletic young Californian, a former professional model and a ballerina, until a rare blood infection resulted in <b>amputation</b> of her legs and all her fingers. She was concerned about her prospects for leading an active life. Then, through a program called Canine Companions for Independence (CCI), Walrod was matched with Oregon, a service dog, and her life became charged with possibility. \"He's my hands, my feet, my best friend,\" she says gratefully.",
+            "CCI was created in 1975 by Dr. Bonita Bergin. Bergin is a former teacher who specialized in helping students who were physically disabled because of injury or disease. She knew that guide dogs had proved valuable in helping people who are blind for many years, and she wondered if it would be possible to train dogs to perform the <b>myriad</b> tasks that most of us take for granted in our daily lives. Professional dog handlers were, for the most part, discouraging; they did not consider the idea <b>practicable</b>. However, Bergin did <b>garner</b> the support of healthcare professionals who, up until that point, hadn't been able to do little more than <b>commiserate</b> with clients with disabilities.",
+            "The dogs Bergin trained were supplied <b>gratis</b> to those who could not afford them. Although she worked out of her home with helpers who received little <b>remuneration</b>, costs were high, and for the first few years there was doubt about whether the program would succeed. Bergin <b>solicited</b> contributions from the public, and thanks to the <b>magnanimity</b> of those who responded, CCI not only survived, it flourished. During the course of her work, Bergin found that younger dogs were easier to train than older dogs. She also found that Labrador retrievers and golden retrievers showed a special <b>aptitude</b> for the kind of work required, so she began breeding them for this purpose.",
+            "There's a <b>trite</b> saying that \"nothing succeeds like success.\" The phrase certainly applies to CCI, which since its establishment has spawned dozens of similar organizations. One of them is Paws with a Cause. It provided Steven Normandin with Sage, a black Labrador. Steve was diagnosed in infancy with cerebral palsy, a disease that affects muscle coordination and left him severely <b>incapacitated</b>. Trained to follow particular commands and use special straps that Steve carries, Sage opens and closes doors, turns light switches on and off, and pushes elevator buttons. She can retrieve pencils and other small objects from the floor and even knows what to do in case of fire. After hearing the command \"Get help,\" Sage will do just that, jumping through a window if necessary.",
+            "Since its <b>inception</b>, Paws with a Cause has grown rapidly. Of special interest is its Foster Puppy Program. Volunteers take care of puppies in their homes from the time they are weaned until they are a year old and mature enough to begin serious training with professional dog handlers. Among the <b>beneficiaries</b> of this program are not only those who are eventually teamed up with dogs, but also those who cared for the puppies during this critical period, many of whom are children.",
+            "Organizations like CCI and Paws with a Cause are a real <b>boon</b> to people who previously found themselves outside the mainstream of daily life. They also bring out the best in those who participate in the program, either by donating their time or their money. In addition, much has been learned about dog psychology and behavior. Bergin formalized such studies when she founded the Assistance Dog Institute, which is now called the Bergin University of Canine Studies, an accredited university. It has been a leader in research, development, education, training, and placement of assistance dogs. \"What's the most surprising thing Dr. Bergin has learned about dogs? She says it's the capacity of the right puppies to learn behaviors that once seemed impossible. \"Their brains are like sponges; they just soak up information,\" she says proudly."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "What do Debbie Walrod and Steven Normandin have in common?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "They are both beneficiaries of service dogs"
+        },
+        {
+          "number": "2",
+          "question": "If a service-dog organization were to <b>solicit</b> help today, what do you think the likely response would be?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "It would most likely <b>garner</b> support"
+        },
+        {
+          "number": "3",
+          "question": "What was the attitude of professional dog trainers toward Bergin's plan before the <b>inception</b> of CCI?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "They did not consider it to be <b>practicable</b>"
+        },
+        {
+          "number": "4",
+          "question": "What was particularly <b>magnanimous</b> about the earliest workers for Bergin?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "They gave their help <b>gratis</b>; in other words, many received no <b>remuneration</b>"
+        },
+        {
+          "number": "5",
+          "question": "How is Sage a <b>boon</b> to Steven Normandin's life?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Sage performs a <b>myriad</b> of tasks for Steven."
+        },
+        {
+          "number": "6",
+          "question": "What would an English teacher be likely to say about the expression \"You can't teach an old dog new tricks\" if it were used to explain one of Bonita Bergin's discoveries?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "An English teacher would probably criticize the expression as being <b>trite</b>"
+        },
+        {
+          "number": "7",
+          "question": "What did Bonita Bergin discover about Labrador retrievers and golden retrievers?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "These breeds have a strong <b>aptitude</b> for the work of service dogs"
+        },
+        {
+          "number": "8",
+          "question": "Why might people have <b>commiserated</b> with Debbie Walrod right after her illness?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Because of a disease, she had to have both legs and all her fingers <b>amputated</b>, leaving her <b>incapacitated</b> in some ways."
+        }
+      ]
+    }
+  ]
+}
