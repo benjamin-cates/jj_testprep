@@ -1,0 +1,488 @@
+{
+  "name": "Wordly Wise 9 Lesson 7",
+  "pages": [
+    {
+      "name": "Definitions",
+      "type": "definition_table",
+      "content": [
+        {
+          "word": "amorous",
+          "definition": "<i>adj.</i> Expressing love or the state of being in love.<br>The couple exchanged <b>amorous</b> glances as they sat across from each other at the dinner table."
+        },
+        {
+          "word": "belittle",
+          "definition": "<i>v.</i> To present or speak of as unimportant or of little value.<br>“Why do you always try to make your efforts seem more important by <b>belittling</b> mine?” she complained."
+        },
+        {
+          "word": "censure",
+          "definition": "<i>v.</i> To blame or find fault with.<br>The judge <b>censured</b> the lawyer for failing to file the papers on time.<br><i>n.</i> A severe criticism or harsh judgment.<br>A hundred years ago, people who divorced experienced much greater <b>censure</b> than they do today."
+        },
+        {
+          "word": "deem",
+          "definition": "<i>v.</i> To consider; to believe.<br>Hearing about the train derailment, the mayor <b>deemed</b> it prudent to call up emergency crews from neighboring counties."
+        },
+        {
+          "word": "divulge",
+          "definition": "<i>v.</i> To make known something secret; to reveal.<br>Blackbeard <b>divulged</b> the location of the buried treasure to no one."
+        },
+        {
+          "word": "exorbitant",
+          "definition": "<i>adj.</i> Exceeding normal bounds; greater or more than seems reasonable.<br>Two hundred dollars seems an <b>exorbitant</b> price for a man’s shirt."
+        },
+        {
+          "word": "expostulate",
+          "definition": "<i>v.</i> To argue earnestly in an attempt to dissuade or show strong disapproval.<br>My friends <b>expostulated</b> with me on the wisdom of waiting until the storm had passed before I walked to the park."
+        },
+        {
+          "word": "fateful",
+          "definition": "<i>adj.</i> Having great or significant consequences.<br>The article examines President Truman’s <b>fateful</b> decision to drop the atomic bomb on Hiroshima."
+        },
+        {
+          "word": "ingrate",
+          "definition": "<i>n.</i> An ungrateful person.<br>I felt like an <b>ingrate</b> for forgetting to thank my mother for making the food for my party."
+        },
+        {
+          "word": "injunction",
+          "definition": "<i>n.</i> 1. An order or command.<br>When the hurricane warning was announced, my family wisely heeded the <b>injunction</b> to evacuate the island.<br>2. A court order prohibiting someone from doing something.<br>The <b>injunction</b> stated that the company could not hire permanent replacement workers during the strike."
+        },
+        {
+          "word": "moribund",
+          "definition": "<i>adj.</i> Close to death; in a dying state.<br>It is incontrovertible that the company was <b>moribund</b> when it was taken over last year."
+        },
+        {
+          "word": "motif",
+          "definition": "<i>n.</i> 1. A theme or idea in a work of art or literature that is developed or repeated.<br>Throughout the novel, the author explores the <b>motif</b> of separation.<br>2. A figure or design repeated in the decoration of something, such as a building or textile.<br>The wallpaper for the nursery had a rabbit <b>motif</b>."
+        },
+        {
+          "word": "subsidize",
+          "definition": "<i>v.</i> To support by giving financial aid.<br>Crowdfunding has <b>subsidized</b> countless arts projects, allowing millions of people to enjoy music, dance, and theater in their hometowns.<br><i>n.</i> <b>subsidy</b> – A grant of money, often provided by a government to a group or individual.<br>Thanks to this <b>subsidy</b>, our dance company was able to perform throughout the state."
+        },
+        {
+          "word": "sumptuous",
+          "definition": "<i>adj.</i> Extravagantly splendid or costly; luxurious.<br>After the wedding we enjoyed a <b>sumptuous</b> meal in the hotel dining room."
+        },
+        {
+          "word": "voluble",
+          "definition": "<i>adj.</i> Characterized by a ready flow of words; talkative.<br>The <b>voluble</b> host scarcely gave his guests a chance to speak."
+        }
+      ]
+    },
+    {
+      "name": "Understanding Meanings",
+      "subheading": "Read the following sentences. If the word in bold is used correctly, write C. If the word is used incorrectly, write a new sentence using the word correctly.",
+      "content": [
+        {
+          "number": "1",
+          "question": "To <b>expostulate</b> is to become confused or perplexed.",
+          "type": "frq_short",
+          "answer": "Incorrect. To <b>expostulate</b> is to argue earnestly in an attempt to dissuade or show strong disapproval.",
+          "manual_grading": true
+        },
+        {
+          "number": "2",
+          "question": "A <b>motif</b> is a reason for doing something.",
+          "type": "frq_short",
+          "answer": "Incorrect. A <b>motif</b> is a theme or idea that is developed or repeated in a work of art or literature.",
+          "manual_grading": true
+        },
+        {
+          "number": "3",
+          "question": "To <b>belittle</b> something is to claim it is less important than it seems.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "4",
+          "question": "To <b>subsidize</b> something is to pay some or all of the cost of it.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "5",
+          "question": "A <b>sumptuous</b> hotel resort is one on which no expense has been spared.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "6",
+          "question": "To feel <b>amorous</b> is to have thoughts of love.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "7",
+          "question": "An <b>ingrate</b> is a person who is not famous.",
+          "type": "frq_short",
+          "answer": "Incorrect. An <b>ingrate</b> is an ungrateful person.",
+          "manual_grading": true
+        },
+        {
+          "number": "8",
+          "question": "To <b>divulge</b> something is to draw its attention elsewhere.",
+          "type": "frq_short",
+          "answer": "Incorrect. To <b>divulge</b> something is to make known something secret or to reveal.",
+          "manual_grading": true
+        },
+        {
+          "number": "9",
+          "question": "A <b>moribund</b> organization is one that is not open to outsiders.",
+          "type": "frq_short",
+          "answer": "Incorrect. A <b>moribund</b> organization is one that is close to death or in a dying state.",
+          "manual_grading": true
+        },
+        {
+          "number": "10",
+          "question": "To <b>censure</b> someone is to deny that person the right to speak.",
+          "type": "frq_short",
+          "answer": "Incorrect. To <b>censure</b> someone is to blame or find fault with them.",
+          "manual_grading": true
+        },
+        {
+          "number": "11",
+          "question": "A <b>voluble</b> person is one who is large in size.",
+          "type": "frq_short",
+          "answer": "Incorrect. A <b>voluble</b> person is one who is talkative and speaks with a ready flow of words.",
+          "manual_grading": true
+        },
+        {
+          "number": "12",
+          "question": "To <b>deem</b> something impossible is to think that it is so.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "13",
+          "question": "A <b>fateful</b> event is one that is momentous.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "14",
+          "question": "An <b>injunction</b> is the compacting of trash at a landfill.",
+          "type": "frq_short",
+          "answer": "Incorrect. An <b>injunction</b> is a legal order or command that requires someone to do or refrain from doing something.",
+          "manual_grading": true
+        },
+        {
+          "number": "15",
+          "question": "An <b>exorbitant</b> demand is one that is greater than seems reasonable.",
+          "type": "frq_short",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "name": "Using Words",
+      "subheading": "Select each sentence that uses the word in bold correctly",
+      "content": [
+        {
+          "number": "1",
+          "question": "<b>moribund</b>",
+          "type": "multi_select",
+          "options": [
+            "The patient, although moribund, was in no pain.",
+            "Two aspirin did nothing to relieve my moribund headache.",
+            "Through gross mismanagement, the organization is now moribund."
+          ],
+          "answer": "TFT"
+        },
+        {
+          "number": "2",
+          "question": "<b>divulge</b>",
+          "type": "multi_select",
+          "options": [
+            "My friends made me promise not to divulge their secret.",
+            "At the stoplight, the street divulged into a boulevard.",
+            "Imran lifted the lid of the carved box to divulge its surprising contents."
+          ],
+          "answer": "TFT"
+        },
+        {
+          "number": "3",
+          "question": "<b>subsidize</b>",
+          "type": "multi_select",
+          "options": [
+            "It was four days before the floodwaters began to subsidize.",
+            "The debate was over whether the taxpayers should subsidize the giant automaker.",
+            "If I subsidize you the money, will you promise to repay me?"
+          ],
+          "answer": "FTF"
+        },
+        {
+          "number": "4",
+          "question": "<b>deem</b>",
+          "type": "multi_select",
+          "options": [
+            "You can accompany the children to the bus stop if you deem it necessary.",
+            "That model has been deemed obsolete because this year’s version outperforms it.",
+            "Why not deem this coupon for the discount it offers?"
+          ],
+          "answer": "TTF"
+        },
+        {
+          "number": "5",
+          "question": "<b>amorous</b>",
+          "type": "multi_select",
+          "options": [
+            "The amorous couple in the romantic comedy had to survive a series of antics before the movie culminated in a wedding.",
+            "The swans on the lake entwined their necks in amorous play.",
+            "The sonnets are the amorous outpourings of the poet’s feelings for his wife."
+          ],
+          "answer": "TTT"
+        },
+        {
+          "number": "6",
+          "question": "<b>expostulate</b>",
+          "type": "multi_select",
+          "options": [
+            "“I want nothing more to do with you,” she expostulated.",
+            "“We have expostulated too much time already on this problem,” he declared.",
+            "The coach expostulated the situation to the students in a calm, methodical manner."
+          ],
+          "answer": "FFF"
+        },
+        {
+          "number": "7",
+          "question": "<b>voluble</b>",
+          "type": "multi_select",
+          "options": [
+            "The most voluble documents were kept in a safe-deposit box at the bank.",
+            "The music was so voluble that we had to shout in order to be heard.",
+            "Having a conversation with such a voluble person is impossible."
+          ],
+          "answer": "FFT"
+        },
+        {
+          "number": "8",
+          "question": "<b>sumptuous</b>",
+          "type": "multi_select",
+          "options": [
+            "What I remember most distinctly from the photographs are the sumptuous furnishings of the castle’s bedrooms.",
+            "The stage sets for the new musical are the most sumptuous I have ever seen.",
+            "Her dad’s boss promised him a sumptuous raise if he continued to do well."
+          ],
+          "answer": "TTF"
+        }
+      ]
+    },
+    {
+      "name": "Images of Words",
+      "subheading": "Select each sentence that suggests the meaning of the word in bold.",
+      "content": [
+        {
+          "number": "1",
+          "question": "<b>ingrate</b>",
+          "type": "multi_select",
+          "options": [
+            "Lara won the confidence of Mrs. Vasquez by using excessive flattery.",
+            "After all Rosa did for Jacob, she never got so much as a thank you.",
+            "The pitch was an easy one, and Axel drove the ball into the bleachers."
+          ],
+          "answer": "FTF"
+        },
+        {
+          "number": "2",
+          "question": "<b>belittle</b>",
+          "type": "multi_select",
+          "options": [
+            "The Bulldogs came into the game unbeaten, but we cut them down to size.",
+            "“You got an A on that report only because Mom helped you,” my brother hissed.",
+            "The original test had fifty questions, but the new version has only thirty."
+          ],
+          "answer": "FTF"
+        },
+        {
+          "number": "3",
+          "question": "<b>fateful</b>",
+          "type": "multi_select",
+          "options": [
+            "General Lee’s decision to go into battle at Gettysburg cost him dearly.",
+            "The sinking of the Lusitania brought the United States into World War I.",
+            "We met by chance on a flight to Chicago and were married a year later."
+          ],
+          "answer": "TTT"
+        },
+        {
+          "number": "4",
+          "question": "<b>exorbitant</b>",
+          "type": "multi_select",
+          "options": [
+            "The space probe left Earth’s orbit and headed for Mars.",
+            "All week, I’ve been sleeping twelve to fourteen hours a night.",
+            "I can’t believe you paid twelve dollars for just one grapefruit."
+          ],
+          "answer": "FTT"
+        },
+        {
+          "number": "5",
+          "question": "<b>censure</b>",
+          "type": "multi_select",
+          "options": [
+            "All letters sent from the war zone were opened and read.",
+            "I was wrong to answer your grandmother so belligerently.",
+            "The population of the United States is counted every ten years."
+          ],
+          "answer": "FTF"
+        },
+        {
+          "number": "6",
+          "question": "<b>amorous</b>",
+          "type": "multi_select",
+          "options": [
+            "He used the money to buy an expensive coat for himself.",
+            "The amoeba is a one-celled animal that lacks a definite shape.",
+            "The swans on the lake entwined their necks in romantic play."
+          ],
+          "answer": "FFF"
+        },
+        {
+          "number": "7",
+          "question": "<b>subsidy</b>",
+          "type": "multi_select",
+          "options": [
+            "The Fulbright scholarship made it possible for Keisha to study abroad.",
+            "Government support helped the solar panel industry get started.",
+            "My parents let me use the house for our club meeting."
+          ],
+          "answer": "TTF"
+        },
+        {
+          "number": "8",
+          "question": "<b>motif</b>",
+          "type": "multi_select",
+          "options": [
+            "What possible reason could she have had for doing such a thing?",
+            "Carved roses figure prominently in the woodwork around the fireplaces.",
+            "The search for lost or stolen treasure is a theme that appears often in world folktales."
+          ],
+          "answer": "FTT"
+        },
+        {
+          "number": "9",
+          "question": "<b>expostulate</b>",
+          "type": "multi_select",
+          "options": [
+            "Can’t you see that eating nothing but junk food is foolish as well as harmful?",
+            "I urge you again to reconsider your decision to stop taking piano lessons.",
+            "The repairman slowly repeated his description of how the engine worked."
+          ],
+          "answer": "TTF"
+        },
+        {
+          "number": "10",
+          "question": "<b>injunction</b>",
+          "type": "multi_select",
+          "options": [
+            "The company threatened to disobey the order to stop cutting down trees.",
+            "The owner refused to close the restaurant in spite of the judge’s order.",
+            "There is a leak where the two pipes come together."
+          ],
+          "answer": "TTF"
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary in Context",
+      "subheading": "Read the passage. Answer each question with a sentence. If a question does not contain a word from the lesson, use one in your answer. Use each word only once.",
+      "type": "reading_check",
+      "content": [
+        {
+          "name": "Artists and Soul Mates",
+          "passage": [
+            "When Anita Pollitzer received a batch of charcoal drawings done by an artist friend in South Carolina, an accompanying note told her not to show them to anyone. The work was of value to the artist, but she felt the drawings had little objective merit, and she could not bear the thought of their being <b>belittled</b> by strangers. Pollitzer disagreed with her friend's assessment, so, disregarding the <b>injunction</b> to keep the drawings to herself, she showed them to Alfred Stieglitz, the owner of “291,” a Manhattan art gallery. The usually <b>voluble</b> Stieglitz was silent as he studied the drawings intently. Their abstract shapes, suggestive of forms in nature, were unlike anything he had seen before. Finally he looked up. “What woman did these?” he asked, for he knew instinctively that they had not been drawn by a man. Pollitzer told him they were the work of her friend Georgia O’Keeffe. “I think I will give this woman a show,” Stieglitz replied.",
+            "At the time of this <b>fateful</b> conversation in 1916, O’Keeffe was an unknown art teacher in her late twenties, while the fifty-two-year-old Stieglitz had an international reputation as a photographer and art dealer. It was almost entirely due to his efforts that photography had become recognized as one of the fine arts. Camera Work, his <b>sumptuously</b> printed magazine, first appeared in 1903, and his gallery at 291 Fifth Avenue, which opened two years later, sold photographic prints as works of art. An admirer of the painters Picasso and Matisse long before their work was fashionable, Stieglitz introduced these giants of modern art to the American public.",
+            "Stieglitz went ahead with his plan to give “this woman” a show without <b>divulging</b> his intention to O’Keeffe. She found out about it by accident on a visit to New York and stalked into the gallery, demanding that the drawings be taken down. Stieglitz calmly ignored her <b>expostulations</b> and told her she had no right to withhold her work from the world. The force of his conviction may have made O’Keeffe feel like an <b>ingrate</b>, for she withdrew her objection.",
+            "In the months that followed, O’Keeffe, who had moved to Texas where she was giving art lessons, was constantly in Stieglitz’s thoughts. His letters to her were filled with passionate expressions of concern for her future as an artist, but his words grew increasingly <b>amorous</b> as his outpourings received a ready response. Letters passed between them at a furious rate, sometimes as many as five a day. “They knock me down,” O’Keeffe wrote to Anita Pollitzer, “but I get up again.”",
+            "Stieglitz was waiting to welcome O’Keeffe when she returned to New York in May 1917. The two wanted to marry, but there was one snag. Stieglitz already had a wife. The marriage was <b>moribund</b>, and Stieglitz intended to get a divorce. This did not save them from the <b>censure</b> of many family members and friends who disapproved of the relationship. Stieglitz’s wife came from a wealthy family, and he had used some of her money to <b>subsidize</b> his artistic ventures. These funds were cut off, and Stieglitz was reduced to accepting handouts from his brothers to survive. Camera Work ceased publication, and his gallery closed.",
+            "The lean years ended in 1921 with a triumphant exhibition of Stieglitz’s photographs; O’Keeffe had posed for forty-five of them, and they created a sensation. O’Keeffe became an instant celebrity, and Stieglitz was able to command the <b>exorbitant</b> sum of five thousand dollars for a single photograph of her. Two years later he arranged an exhibition of one hundred O’Keeffe paintings and drawings. Twenty sold immediately, and O’Keeffe’s career was launched. The next year, following his divorce, she and Stieglitz were married.",
+            "The marriage, which ended with Stieglitz’s death in 1946, was marked by long separations as O’Keeffe was drawn increasingly to the American Southwest, the inspiration for much of her art. Sun-bleached skulls in desert landscapes and oversized flowers in extreme close-up are the most common <b>motifs</b> in her paintings. She outlived her husband by more than forty years, and when she died, at ninety-eight, her paintings sold for millions of dollars. Today they hang in museums and private collections throughout the United States. Her reputation continues to grow, and today she is <b>deemed</b> by most critics the greater artist of the two."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "Why is the meeting between Pollitzer and Stieglitz described as <b>fateful</b>?",
+          "type": "frq_short",
+          "answer": "Because it marked the beginning of O’Keeffe’s rise to fame and changed the course of her career.",
+          "manual_grading": true
+        },
+        {
+          "number": "2",
+          "question": "Why might Pollitzer have had reason to fear O’Keeffe’s <b>censure</b>?",
+          "type": "frq_short",
+          "answer": "She had disregarded O'Keeffe's <b>injunction</b> to show the drawings to no one.",
+          "manual_grading": true
+        },
+        {
+          "number": "3",
+          "question": "Why was O’Keeffe taken by surprise when she saw her works exhibited?",
+          "type": "frq_short",
+          "answer": "Because Stieglitz had not <b>divulged</b>  his plans to her.",
+          "manual_grading": true
+        },
+        {
+          "number": "4",
+          "question": "Why do you think O’Keeffe <b>expostulated</b> with Stieglitz about the exhibition of her work?",
+          "type": "frq_short",
+          "answer": "O'Keeffe <b>deemed</b> her paintings of little merit and wanted no one other than Pollitzer to see them.",
+          "manual_grading": true
+        },
+        {
+          "number": "5",
+          "question": "Why is it unlikely that O’Keeffe was living in a very <b>sumptuous</b> style in Texas?",
+          "type": "frq_short",
+          "answer": "Because she was a little-known art teacher giving lessons and not earning much.",
+          "manual_grading": true
+        },
+        {
+          "number": "6",
+          "question": "How did Stieglitz’s <b>voluble</b> nature express itself while O’Keeffe was in Texas?",
+          "type": "frq_short",
+          "answer": "He sent her frequent, passionate letters, sometimes five a day.",
+          "manual_grading": true
+        },
+        {
+          "number": "7",
+          "question": "How did O’Keeffe respond to Stieglitz’s <b>amorous</b> letters?",
+          "type": "frq_short",
+          "answer": "Her responses were quick",
+          "manual_grading": true
+        },
+        {
+          "number": "8",
+          "question": "Why might Stieglitz’s first wife have considered him an <b>ingrate</b>?",
+          "type": "frq_short",
+          "answer": "He used money to <b>subsidize</b> his gallery and magazine and then left her.",
+          "manual_grading": true
+        },
+        {
+          "number": "9",
+          "question": "Do you think five thousand dollars is an <b>exorbitant</b> price for a photograph? Explain.",
+          "type": "frq_short",
+          "answer": "Answers vary",
+          "manual_grading": true
+        },
+        {
+          "number": "10",
+          "question": "Why did the breakup of Stieglitz’s marriage probably not come as a surprise?",
+          "type": "frq_short",
+          "answer": "Because the marriage was <b>moribund</b>.",
+          "manual_grading": true
+        },
+        {
+          "number": "11",
+          "question": "Would you say that the <b>motifs</b> of O’Keeffe’s paintings are unusual? Why or why not?",
+          "type": "frq_short",
+          "answer": "Answers vary",
+          "manual_grading": true
+        },
+        {
+          "number": "12",
+          "question": "Why would it be inaccurate to say that O’Keeffe’s paintings are <b>belittled</b> today?",
+          "type": "frq_short",
+          "answer": "Because her paintings are celebrated and considered highly valuable today.",
+          "manual_grading": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,544 @@
+{
+  "type": "test",
+  "name": "Wordly Wise 9 Lesson 9",
+  "pages": [
+    {
+      "name": "Definitions",
+      "type": "definition_table",
+      "content": [
+        {
+          "word": "allure",
+          "definition": "<i>n.</i> The power to attract or charm.<br>For many travelers, the canals and winding streets of Venice have a particular <b>allure</b>."
+        },
+        {
+          "word": "antiquity",
+          "definition": "<i>n.</i> 1. The ancient world, especially before the Middle Ages.<br>Emperor Nero of Rome was one of the great despots of <b>antiquity</b>.<br>2. The quality of great age.<br>Only an expert can establish the <b>antiquity</b> of these jeweled brooches."
+        },
+        {
+          "word": "antiquities",
+          "definition": "<i>n.</i> Valuable objects from ancient times.<br>Among the Mayan <b>antiquities</b> were several beaded masks."
+        },
+        {
+          "word": "appraise",
+          "definition": "<i>v.</i> 1. To estimate the value of.<br>A real-estate agent <b>appraised</b> the house across the street at $125,000.<br>2. To form a judgment of; to evaluate.<br>The foreman looked long and hard at the woman’s resumé, <b>appraising</b> it carefully before offering her the job."
+        },
+        {
+          "word": "cleave",
+          "definition": "<i>v.</i> 1. To cling to or be faithful to.<br>Many people <b>cleave</b> to their values of simplicity and self-sufficiency.<br>2. To split with force or a sharp instrument.<br>I <b>cleaved</b> a chunk of wood from the block with an axe."
+        },
+        {
+          "word": "depreciate",
+          "definition": "<i>v.</i> 1. To make or become less in value.<br>Real estate in a good location can be a wise investment because it seldom <b>depreciates</b>.<br>2. To represent as of little value; to belittle.<br>People who admire classical painters may <b>depreciate</b> contemporary art."
+        },
+        {
+          "word": "facet",
+          "definition": "<i>n.</i> 1. Any of the many small, flat surfaces on a precious stone made by cutting.<br>The poorly cut <b>facets</b> detract from the value of that emerald.<br>2. One of many sides or aspects of something.<br>We examined every <b>facet</b> of the scheduling problem before proposing a solution."
+        },
+        {
+          "word": "facsimile",
+          "definition": "<i>n.</i> An exact copy.<br>Though the birth certificate was a <b>facsimile</b> of the original, the detective could discern the difference."
+        },
+        {
+          "word": "impervious",
+          "definition": "<i>adj.</i> 1. Incapable of being penetrated.<br>We stayed dry in the downpour because our tent is <b>impervious</b> to rain.<br>2. Not affected or disturbed by.<br>His calm demeanor as he faced the huge audience showed that he was <b>impervious</b> to stage fright, even though he'd never performed before."
+        },
+        {
+          "word": "nondescript",
+          "definition": "<i>adj.</i> Hard to describe because of a lack of distinctive qualities or features.<br>I walked along the endless row of <b>nondescript</b> houses looking for number 136."
+        },
+        {
+          "word": "quandary",
+          "definition": "<i>n.</i> A state of being in doubt about what to do.<br>The lawyers were in a <b>quandary</b> about whether controversial material on the Internet is protected by the First Amendment."
+        },
+        {
+          "word": "repose",
+          "definition": "<i>v.</i> 1. To lie at rest.<br>Until it was time to leave, I <b>reposed</b> in the hammock on the porch.<br>2. To place (power, etc.) in some person or group.<br>The nation <b>reposes</b> its trust in the fairness of the federal court system.<br><i>n.</i> A state of rest or relaxation.<br>Juliet's visage in <b>repose</b> was serene."
+        },
+        {
+          "word": "scintillate",
+          "definition": "<i>v.</i> To flash or sparkle.<br>The mirrors on the revolving ball suspended from the ceiling <b>scintillated</b> like dancers.<br><i>adj.</i> Lively and witty.<br>People often invited my father to dinner because his conversation was so <b>scintillating</b>."
+        },
+        {
+          "word": "scrutinize",
+          "definition": "<i>v.</i> To examine with great care.<br>My parents <b>scrutinized</b> each line of my essay before I turned it in for the contest.<br><b>scrutiny</b> <i>n.</i> Close examination.<br>The detective's careful <b>scrutiny</b> of the crime scene helped solve the mystery."
+        },
+        {
+          "word": "synthetic",
+          "definition": "<i>adj.</i> Not naturally produced; made by artificial processes.<br>Most cloth today is colored with <b>synthetic</b> dyes."
+        },
+        {
+          "word": "transmute",
+          "definition": "<i>v.</i> To change the form or appearance of.<br>In the fairy tale \"Rumpelstiltskin,\" the foolish miller claimed that his daughter could <b>transmute</b> straw into gold."
+        }
+      ]
+    },
+    {
+      "name": "Understanding Meanings",
+      "subheading": "Read the following sentences. If the <b>word</b> in bold is used correctly, write C on the line. If the <b>word</b> is used incorrectly, write a new sentence using the <b>word</b> correctly.",
+      "content": [
+        {
+          "number": "1",
+          "question": "A <b>facsimile</b> is a comparison made between two similar things.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "A <b>facsimile</b> is an exact copy of something."
+        },
+        {
+          "number": "2",
+          "question": "To be <b>impervious</b> to criticism is to be unaffected by it.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "3",
+          "question": "To <b>repose</b> is to keep changing one's position.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "To <b>repose</b> is to lie at rest."
+        },
+        {
+          "number": "4",
+          "question": "A <b>synthetic</b> substance is one whose ingredients are unknown.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "A synthetic substance is one that is not naturally produced"
+        },
+        {
+          "number": "5",
+          "question": "<b>Antiquity</b> is the quality of being ancient.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "6",
+          "question": "To be <b>scintillating</b> is to be lively and witty in conversation.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "7",
+          "question": "A <b>facet</b> is a mechanism of a wheel or a bar.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "A facet is a small, flat surface on a precious stone made by cutting"
+        },
+        {
+          "number": "8",
+          "question": "To <b>appraise</b> someone is to make a judgment of that person.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "9",
+          "question": "A <b>nondescript</b> person is one who has little to say.",
+          "type": "frq_short",
+          "answer": "A nondescript person lacks distinctive qualities or features."
+        },
+        {
+          "number": "10",
+          "question": "To subject something to <b>scrutiny</b> is to observe it closely.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "11",
+          "question": "To <b>depreciate</b> something is to increase its value.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "To depreciate something is to decrease its value"
+        },
+        {
+          "number": "12",
+          "question": "<b>Allure</b> is anything worn as an ornament or decoration.",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Allure is the power to charm"
+        },
+        {
+          "number": "13",
+          "question": "A <b>quandary</b> is a state of uncertainty or confusion.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "14",
+          "question": "To <b>transmute</b> a substance is to change it into something different.",
+          "type": "frq_short",
+          "answer": "C"
+        },
+        {
+          "number": "15",
+          "question": "To <b>cleave</b> something is to split it.",
+          "type": "frq_short",
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "name": "Using Words",
+      "subheading": "For each word, identify all the sentences where it (or a form of the word) fits correctly.",
+      "content": [
+        {
+          "number": "1",
+          "question": "<b>repose</b>",
+          "type": "multi_select",
+          "options": [
+            "The weary traveler looked for a bench on which she might ___________ her limbs.",
+            "After a night's ___________ at an inn, we were once again on our way.",
+            "I am going to ___________ my savings in the bank."
+          ],
+          "answer": "TFF"
+        },
+        {
+          "number": "2",
+          "question": "<b>cleave</b>",
+          "type": "multi_select",
+          "options": [
+            "Notice how the new ivy tends to ___________ to the exterior of the building.",
+            "We watched the sleek yacht ___________ through the water.",
+            "He was determined to ___________ to his principles, no matter what."
+          ],
+          "answer": "TTT"
+        },
+        {
+          "number": "3",
+          "question": "<b>transmute</b>",
+          "type": "multi_select",
+          "options": [
+            "The medieval alchemists hoped they could ___________ base metals into gold.",
+            "The sun is hot enough to ___________ matter in the form of hydrogen into energy.",
+            "When she marries, she does not intend to ___________ her name."
+          ],
+          "answer": "TTF"
+        },
+        {
+          "number": "4",
+          "question": "<b>scintillate</b>",
+          "type": "multi_select",
+          "options": [
+            "The chandelier's bright lights ___________ in the elegant ballroom.",
+            "He sometimes tries too hard to be ___________ when he goes to parties.",
+            "She could usually ___________ when something was not as it seemed."
+          ],
+          "answer": "TTF"
+        },
+        {
+          "number": "5",
+          "question": "<b>impervious</b>",
+          "type": "multi_select",
+          "options": [
+            "Redwood makes good outdoor furniture because it is ___________ to moisture.",
+            "The ___________ weather has kept my grandmother inside for most of the winter.",
+            "A good umpire must be ___________ to criticism from her team's fans."
+          ],
+          "answer": "TFT"
+        },
+        {
+          "number": "6",
+          "question": "<b>antiquity</b>",
+          "type": "multi_select",
+          "options": [
+            "The ___________ of these Etruscan ornaments is part of their great value.",
+            "Babylon, on the Euphrates River, was one of the great cities of ___________.",
+            "The ___________ housed in the Barnes Museum, is at least two thousand years old."
+          ],
+          "answer": "TTT"
+        },
+        {
+          "number": "7",
+          "question": "<b>allure</b>",
+          "type": "multi_select",
+          "options": [
+            "A career in show business held a certain ___________ for the actor from a young age.",
+            "Movie star Mae West's ___________ made her a top box-office draw in the 1930s.",
+            "The ___________ of gold led thousands of hopeful miners to California in 1849."
+          ],
+          "answer": "TTT"
+        },
+        {
+          "number": "8",
+          "question": "<b>appraise</b>",
+          "type": "multi_select",
+          "options": [
+            "It's too early to ___________ the significance of the new governor's political appointments.",
+            "I would ___________ his height at six feet and his weight at two hundred pounds.",
+            "Luisa is going to have the ring her great aunt left her ___________."
+          ],
+          "answer": "TFT"
+        }
+      ]
+    },
+    {
+      "name": "Word Study: Word Parts",
+      "subheading": "Complete each sentence. Then write a brief definition of the word. The number after each sentence is the lesson the word is from.",
+      "content": [
+        {
+          "number": "1",
+          "question": "The prefixes <b>im-</b> (not) and <b>per-</b> (through) combine with the Latin <b>via</b> (way) to form the adjective ___________ (9).",
+          "type": "frq_short",
+          "answer": "impervious"
+        },
+        {
+          "number": "2",
+          "question": "The prefix <b>syn-</b> (together) combines with the Latin <b>tithenai</b> (to put) to form the adjective ___________ (9).",
+          "type": "frq_short",
+          "answer": "synthetic"
+        },
+        {
+          "number": "3",
+          "question": "The Latin <b>scintilla</b> (a spark) forms the verb ___________ (9).",
+          "type": "frq_short",
+          "answer": "scintillate"
+        },
+        {
+          "number": "4",
+          "question": "The prefix <b>trans-</b> (across) combines with the Latin <b>mutare</b> (to change) to form the verb ___________ (9).",
+          "type": "frq_short",
+          "answer": "transmutate"
+        },
+        {
+          "number": "5",
+          "question": "The prefix <b>ex-</b> (out of) combines with the Latin <b>orbita</b> (track; path) to form the adjective ___________ (7).",
+          "type": "frq_short",
+          "answer": "exorbitant"
+        },
+        {
+          "number": "6",
+          "question": "The Latin <b>vox</b> (voice) and <b>ferre</b> (to carry) combine to form the adjective ___________ (6).",
+          "type": "frq_short",
+          "answer": "vociferous"
+        },
+        {
+          "number": "7",
+          "question": "The Latin <b>tacere</b> (to be silent) forms the adjective ___________ (8).",
+          "type": "frq_short",
+          "answer": "tacit"
+        },
+        {
+          "number": "8",
+          "question": "The Latin <b>scrutari</b> (to search) forms the verb ___________ (9).",
+          "type": "frq_short",
+          "answer": "scrutinize"
+        },
+        {
+          "number": "9",
+          "question": "The Latin <b>facere</b> (to make) and <b>simile</b> (similar) combine to form the noun ___________ (9)._",
+          "type": "frq_short",
+          "answer": "facsimile"
+        },
+        {
+          "number": "10",
+          "question": "The Latin <b>rudus</b> (rough; unfinished) forms the adjective ___________ (6).",
+          "type": "frq_short",
+          "answer": "rudimentary"
+        }
+      ]
+    },
+    {
+      "name": "Images of Words",
+      "subheading": "Select the sentences that suggests the bold <b>vocabulary word</b>. There may be more than one correct answer or no correct answer.",
+      "content": [
+        {
+          "number": "1",
+          "question": "<b>antiquity</b>",
+          "type": "multi_select",
+          "options": [
+            "Octavian, known as Augustus, became the first Roman emperor in 27 BCE.",
+            "At the age of 112, Minnie Ward was the oldest living person in Massachusetts.",
+            "Ms. Torres keeps her 1955 Ford Thunderbird in showroom condition."
+          ],
+          "answer": "TFF"
+        },
+        {
+          "number": "2",
+          "question": "<b>depreciate</b>",
+          "type": "multi_select",
+          "options": [
+            "The stock I bought for $1,200 was worth $600 when I sold it.",
+            "The novel, praised by critics, later became a classic.",
+            "A diet lacking in calcium causes rickets, a bone disease."
+          ],
+          "answer": "TFF"
+        },
+        {
+          "number": "3",
+          "question": "<b>nondescript</b>",
+          "type": "multi_select",
+          "options": [
+            "He was difficult to describe because he looked so ordinary.",
+            "Vivaan cannot make up his mind about anything.",
+            "There was not a single distinctive feature about any of the new buildings in the mall."
+          ],
+          "answer": "TFT"
+        },
+        {
+          "number": "4",
+          "question": "<b>scrutiny</b>",
+          "type": "multi_select",
+          "options": [
+            "When we put it under a microscope, it was clear that the $100 bill was a forgery.",
+            "Every name on the list of graduating seniors was checked for accuracy at least three times.",
+            "The customs officers looked through our luggage because our passports could be stamped."
+          ],
+          "answer": "TTT"
+        },
+        {
+          "number": "5",
+          "question": "<b>allure</b>",
+          "type": "multi_select",
+          "options": [
+            "The camper stared in horrified fascination as the cobra drew back its head.",
+            "The idea of living on a tropical island holds great appeal for some people.",
+            "When he learned that the campus was close to the ski slopes, Reggie decided to apply to Montana State."
+          ],
+          "answer": "FTT"
+        },
+        {
+          "number": "6",
+          "question": "<b>facet</b>",
+          "type": "multi_select",
+          "options": [
+            "When she tilted her hand, the diamond ring reflected light in bright flashes.",
+            "The first part of our journey took us from Chicago to Des Moines.",
+            "Raoul wasn't eager to hear his teacher's lecture on punctuality again."
+          ],
+          "answer": "TFF"
+        },
+        {
+          "number": "7",
+          "question": "<b>synthetic</b>",
+          "type": "multi_select",
+          "options": [
+            "Polar Fleece fabric is made in part from recycled plastic bottles.",
+            "Art historian the museum hired said the Vermeer landscape was a fake.",
+            "Saccharine is made from coal tar and is 550 times sweeter than cane sugar."
+          ],
+          "answer": "TFT"
+        },
+        {
+          "number": "8",
+          "question": "<b>quandary</b>",
+          "type": "multi_select",
+          "options": [
+            "A magnificent beech tree grew at each of the town square's four corners.",
+            "I didn't know whether to sell my bike or have it repaired and keep it.",
+            "I don't eat red meat, but I can't decide whether to include chicken in my diet."
+          ],
+          "answer": "FTT"
+        },
+        {
+          "number": "9",
+          "question": "<b>impervious</b>",
+          "type": "multi_select",
+          "options": [
+            "Nothing could injure Superman, the Man of Steel.",
+            "As her alarm rang raucously that morning, Anita slept soundly.",
+            "Lead sheeting protects the body against radiation."
+          ],
+          "answer": "TTT"
+        },
+        {
+          "number": "10",
+          "question": "<b>facsimile</b>",
+          "type": "multi_select",
+          "options": [
+            "She smiled, but it was obvious to me that it was not sincere.",
+            "It looks like a first edition of William Blake's poems, but it was printed recently.",
+            "Looking at the two documents, it's impossible to say which is the original."
+          ],
+          "answer": "FTT"
+        }
+      ]
+    },
+    {
+      "name": "Vocabulary in Context",
+      "subheading": "Read the passage. Answer each question with a sentence. If a question does not contain a <b>word</b> from the lesson, use one in your answer. Use each <b>word</b> only once.",
+      "type": "reading_check",
+      "content": [
+        {
+          "name": "Diamonds",
+          "passage": [
+            "A diamond is the hardest substance found on Earth. It can be scratched only by another diamond and is <b>impervious</b> to even the strongest acids. A diamond is so dense that light passing through it slows to one-third its normal speed.",
+            "A diamond is a mineral form of carbon. For carbon to crystallize as a diamond, extreme heat and great pressure are required. Diamonds are likely formed in molten rock deep in the earth and then forced upward. In its natural state, a diamond can have one of several appearances, including that of a lusterless opaque gray or black stone or even a <b>nondescript</b> bit of glass.",
+            "What transforms a diamond from its natural state into the <b>scintillating</b> gem in the jeweler's display case? It depends largely on the diamond cutter's skill in cutting, cleaving, and polishing it. In the past, after <b>scrutinizing</b> the deamond from every angle, the cutter would <b>cleave</b> it with a single blow aimed at a precise spot, a nerve-wracking experience because the stone could shatter if struck at the wrong angle. Today, most diamonds are cut with lasers that are actually thin, metal disks. Polishing, the final step in diamond cutting, requires a revolving iron wheel to create <b>facets</b>—the flat surfaces that reflect light, making the diamond sparkle. Though diamond cutting may reduce the size of the original stone by as much as fifty percent, the end result is a brilliant diamond with special <b>allure</b> and value.",
+            "Valued since <b>antiquity</b>, diamonds originally were thought to come only from India. But in the 1700s they were discovered in Brazil; in the 1800s, South Africa became a major source. Now diamonds can be found in other parts of Africa, Australia, and the United States as well.",
+            "The heaviest rough, or uncut, diamond on record was discovered in South Africa in 1905. Weighing 3,106 carats, or slightly over one and one-third pounds, it was cut into nine fashioned gems. Its owner must have <b>reposed</b> great trust in the cutter, who reportedly studied the stone, the Cullinan, was cut into nine large and ninety-six smaller gems. The largest of these, the Star of Africa, weighing 530.2 carats, is presented by the South African government of Transvaal to the king of Great Britain. It is the second largest cut diamond in the world and is kept under tight security in the Tower of London, where it forms part of the British crown jewels.",
+            "There was great excitement in the diamond world in the early 1980s when an 890-carat rough diamond was found in South Africa in the early 1980s. In its owners hoped to cut it into flawless final gems. To help determine its final shape, diamond cutters made several plastic <b>facsimiles</b> cut in various ways. As the cutters proceeded, they realized the truth of the gem cutters' old saying: The diamond, not the diamond cutter, tells the saw where to \"go.\" For the owners found themselves in a <b>quandary</b>: Either their diamond would be the largest in the world but would not be perfect, or it could be perfect but not the largest in the world. It finally became the world's largest diamond at over 545 carats. It has been <b>appraised</b> at more than four hundred million dollars.",
+            "Beginning in the 1950s, attempts had been made to create <b>synthetic</b> diamonds. The problem at the time was that real diamonds are formed far below the Earth's surface. There was no way to duplicate those conditions in the laboratory. Then, in the 1950s, scientists succeeded in producing pressures of one and a half million pounds per square inch, and, as a result, they were able to <b>transmute</b> graphite (a form of carbon) into industrial-quality diamonds. These are said to be strong cutting diamonds and are useful in various kinds of drills. Today, even greater pressure produces artificial gemstones of gem-like quality with weights up to one carat. One such imitation diamond is made from the mineral zircon that when exposed to high temperatures, loses its color and takes on a great brilliance.",
+            "A fine-quality diamond can cost as much as fifty thousand dollars a carat. But size is only part of the story. A diamond's value depends on what jewelers call the four Cs: cut, clarity, carat, and color. White diamonds are highly regarded, whereas stones with a yellow or tan tinge are not. Green and blue diamonds are very rare, and the extremely rare pink diamond will sell for as much as a million dollars a carat! Unfortunately, for the average buyer, diamonds <b>depreciate</b> substantially in value as soon as they are purchased."
+          ]
+        },
+        {
+          "number": "1",
+          "question": "In the past, how could a cutter unintentionally <b>depreciate</b> a diamond's value?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "If it was cleaved incorrectly, the diamond could shatter and be worthy very little"
+        },
+        {
+          "number": "2",
+          "question": "What is the special <b>allure</b> of the Star of Africa?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "It is the second-largest diamond in the world, is in the Tower of London, and is part of the British crown jewels."
+        },
+        {
+          "number": "3",
+          "question": "Under what conditions would a diamond fail to <b>scintillate</b>?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Lack of light for the diamond's facets to reflect would prevent it from sparkling"
+        },
+        {
+          "number": "4",
+          "question": "Why could one <b>repose</b> little confidence in a diamond bought on the street?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "It would probably be a fake"
+        },
+        {
+          "number": "5",
+          "question": "Why would it be easy to overlook a diamond in its natural state?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "It might look like a nondescript piece of glass"
+        },
+        {
+          "number": "6",
+          "question": "If you saw the Star of Africa in a store window, what might you conclude?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "It would probably be a facsimile, not the real thing"
+        },
+        {
+          "number": "7",
+          "question": "What would an expert's <b>scrutiny</b> of a diamond reveal?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "It would reveal the diamond's cut, color, clarity, and carats."
+        },
+        {
+          "number": "8",
+          "question": "Why would a diamond from <b>antiquity</b> look similar to a diamond today?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Diamonds are impervious to normal wear and tear"
+        },
+        {
+          "number": "9",
+          "question": "What does it take to <b>transmute</b> graphite into diamonds?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "It takes enormous pressure"
+        },
+        {
+          "number": "10",
+          "question": "How might a \"diamond\" made from zircon be <b>appraised</b>, compared to a real diamond?",
+          "type": "frq_short",
+          "manual_grading": true,
+          "answer": "Because it is synthetic, it would not be of as much value as a real diamond."
+        }
+      ]
+    }
+  ]
+}
